@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>CloudMade y KML</title>
+</head>
+
+<body>
+
+<!--  Show a CloudMade map with KML/GeoRSS -->
+<center>
+<div id="cloudmade-map" style="width: 800px; height: 600px; border: 1px solid #ccc"></div>
+</center>
+
+  <script type="text/javascript" src="http://tile.cloudmade.com/wml/0.2/web-maps-lite.js"></script>
+  <script type="text/javascript">
+
+  var map = new CM.Map('cloudmade-map', 
+    new CM.Tiles.CloudMade.Web({key: 'ed24c9065bb55c1090d3d76e7ab8577e'}));
+
+  //Initialise with KML/GeoRSS URL
+  var geoxml = new CM.GeoXml('kml/ruta.kml',{local:true});
+
+  CM.Event.addListener(geoxml, 'load', function() {
+    map.zoomToBounds(geoxml.getDefaultBounds());
+    map.addOverlay(geoxml);
+  });
+
+  </script>
+
+  
+  
+  
+
+</body>
