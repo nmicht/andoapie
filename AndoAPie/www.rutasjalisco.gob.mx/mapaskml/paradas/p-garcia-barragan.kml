@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales García Barragán</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.31692</longitude>
+		<latitude>20.6413</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 024-S cruza con Donato Guerra</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31692,20.6413,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 019-S cruza con Río Mezquital</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31854,20.64241,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 022-S cruza con Ator frente a Río Tuito</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31864,20.64387,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 017-S cruza con Río Tajo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3202,20.64455,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 020-S cruza con Ator</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31995,20.6456,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 018-S cruza con Río Nilo frente a empresa joyeria</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32161,20.64783,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 015-S cruza con Rio Zapotlanejo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32192,20.64685,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 013-S cruza con Río San Juan de Dios</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32387,20.64967,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 016-S cruza con Río Nilo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32282,20.64935,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 011A-S cruza con Río Nilo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32455,20.65068,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 014-S cruza con Fray Luis de Leon</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32416,20.65111,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 011-S cruza con Fray Antonio de Segovia</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32556,20.65196,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 009-S cruza con Calzada Olímpica</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32652,20.65332,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 012-S cruza con Frente a Proulex</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32603,20.65371,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 010-S cruza con Frente a Río Mezcala</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32773,20.65601,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 007-S cruza con Río Mezcala</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32837,20.65554,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 005-S cruza con Río Papaloapan</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32978,20.65762,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 008-S cruza con Corregidora</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32863,20.65716,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 006-S cruza con Dr. PÚrez Arce</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3305,20.65955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 003-S cruza con Los Angeles</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33172,20.66014,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 001-S cruza con Dr. Silverio García</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33268,20.66136,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 004-S cruza con Saturno</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33205,20.66165,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Boulevard Marcelino 002-S cruza con Constancia</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33319,20.66334,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

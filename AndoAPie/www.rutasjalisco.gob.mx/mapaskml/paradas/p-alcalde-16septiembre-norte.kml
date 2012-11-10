@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Avenida Alcalde</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Avenida Alcalde Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 043-N cruza con Avenida Deportes</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34352,20.7304,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 069-N cruza con Ing. Alberto Mora López</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33948,20.76441,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 060-N cruza con Chícharo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34022,20.76332,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 067-N cruza con Vista del Sol</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33935,20.76074,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 065-N cruza con Nabo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34001,20.75981,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 058-N cruza con José Ma. Martínez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34324,20.75857,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 063-N cruza con Casiano Torres</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34287,20.75564,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 061-N cruza con Ignacio Espinoza</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34268,20.75452,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 056-N cruza con Pioquinto Enríquez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34372,20.7545,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 059-N cruza con Timoteo Velázquez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34333,20.75166,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 054-N cruza con San Pedro</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34367,20.75022,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 057-N cruza con Avenida 16 de Septiembre</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34256,20.74894,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 055-N cruza con La Loma</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34315,20.74716,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 052-N cruza con San Vicente</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34368,20.74804,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 053-N cruza con Agua Fría</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.346,20.74431,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 050-N cruza con Avenida Abel Salgado</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34653,20.74546,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 051-N cruza con Guadalupe Victoria Este</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34397,20.74007,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 048-N cruza con Zapata</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34475,20.73967,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 049-N cruza con Filemón Rosas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34193,20.73694,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 046-N cruza con González Gallo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34294,20.73788,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 047-N cruza con Yahualica</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34232,20.73369,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 045-N cruza con Guadalajara</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34294,20.73191,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 044-N cruza con Justo González</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34321,20.73422,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 042-N cruza con Periférico Norte</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34492,20.72864,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 041-N cruza con Periférico Norte</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34451,20.72748,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 040-N cruza con Paloma</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34541,20.72753,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 039-N cruza con Periférico Norte</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34492,20.72617,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 038-N cruza con Canal</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34607,20.72459,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 037-N cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34511,20.72469,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 034-N cruza con Colonias</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3461,20.71887,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 035-N cruza con Jos Palomar</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34517,20.72086,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 036-N cruza con Occidental</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34604,20.72193,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 033-N cruza con Ramón Corona</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34526,20.71744,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 032-N cruza con 2 de Abril</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34622,20.71689,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 031-N cruza con Irene Robledo García</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3458,20.71347,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 030-N cruza con Irene Robledo García</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34661,20.71437,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 029-N cruza con Fidel Velázquez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34618,20.71156,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 028-N cruza con Fidel Velázquez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3467,20.71249,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 027-N cruza con Monte Carmelo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34631,20.70922,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 026-N cruza con Monte Carmelo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34709,20.71015,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 025-N cruza con L. Ortega</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34665,20.70665,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 024-N cruza con Circunvalación División del Norte</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34762,20.70596,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 023-N cruza con Circunvalación División del Norte</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34703,20.70382,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 022-N cruza con Chihuahua</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3481,20.70235,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 021-N cruza con Avenida de los Científicos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34749,20.6998,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 020-N cruza con Tamaulipas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34842,20.69978,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 018-N cruza con Teatro Alarife Martin Casillas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34861,20.69791,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 019-N Frente al CODE</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34776,20.69786,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 016-N cruza con Glorieta Normal Secretaria de Admon.</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34883,20.69638,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 017-N cruza con Glorieta Normal DIF</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34783,20.69583,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 001-N cruza con San Felipe</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34716,20.67904,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 002-N cruza con Juan Manuel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34799,20.67895,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 003-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34721,20.68056,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 004-N cruza con Angulo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34813,20.68204,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 005-N cruza con Herrera y Cairo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34737,20.68225,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 006-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34817,20.6838,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 007-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3475,20.68489,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 008-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34832,20.68558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 009-N cruza con Eulogio Parra</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3476,20.68678,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 010-N cruza con Arista</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34849,20.68826,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 011-N cruza con Torres Quintero</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34779,20.6901,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 012-N cruza con Gabriela Mistral</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34857,20.68998,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 013-N cruza con Avenida de Los Maestros</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34797,20.69208,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 015-N cruza con Al pasar Avenida Normalistas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34802,20.69386,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 014-N cruza con Avenida de los Maestros</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34883,20.69361,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,2212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>D,..kmz</name>
+	<Style id="sn_bus-stop221">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop225">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop24">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop20">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop212">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop22">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop224">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop213">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop214">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop223">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop27">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop215">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop25">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop217">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop28">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop218">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop29">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop210">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop228">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop211">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop21">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop216">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop227">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop26">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop219">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop220">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop222">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop226">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop23">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Ruta D</name>
+		<open>0</open>
+		<Placemark>
+			<name>P-D/01</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+   Colon / Prisciliano Sánchez
+
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Templo de San Francisco
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:03 23:31 23:59 00:27 00:55 01:23 01:51 02:19 02:47 03:15 03:43 04:11
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop223</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">105</SimpleData>
+					<SimpleData name="LONGITUDE">-103347903</SimpleData>
+					<SimpleData name="LATITUDE">20672478</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">0.028698</SimpleData>
+					<SimpleData name="PHYSICAL_S">64</SimpleData>
+					<SimpleData name="STOP_ID">105</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3479030000001,20.67247799999972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/02</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Hidalgo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Rotonda de los Hombres Ilustres
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:06 23:34 00:02 00:30 00:58 01:26 01:54 02:22 02:50 03:18 03:46 04:14
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop225</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">106</SimpleData>
+					<SimpleData name="LONGITUDE">-103347494</SimpleData>
+					<SimpleData name="LATITUDE">20677727</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">0.438671</SimpleData>
+					<SimpleData name="PHYSICAL_S">65</SimpleData>
+					<SimpleData name="STOP_ID">106</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3474940000001,20.67772699999972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/03</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Manuel Acuña
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Banamex
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:10 23:38 00:06 00:34 01:02 01:30 01:58 02:26 02:54 03:22 03:50 04:18
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop23</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">107</SimpleData>
+					<SimpleData name="LONGITUDE">-103347836</SimpleData>
+					<SimpleData name="LATITUDE">20683522</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">0.837960</SimpleData>
+					<SimpleData name="PHYSICAL_S">66</SimpleData>
+					<SimpleData name="STOP_ID">107</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3478360000001,20.68352199999973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/04</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Fte. Gonzalo Curiel
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Oxxo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:15 23:43 00:11 00:39 01:07 01:35 02:03 02:31 02:59 03:27 03:55 04:23
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop214</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">108</SimpleData>
+					<SimpleData name="LONGITUDE">-103348321</SimpleData>
+					<SimpleData name="LATITUDE">20692139</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">1.431600</SimpleData>
+					<SimpleData name="PHYSICAL_S">67</SimpleData>
+					<SimpleData name="STOP_ID">108</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3483210000001,20.69213899999973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/05</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / CODE
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Ingreso al CODE
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:17 23:45 00:13 00:41 01:09 01:37 02:05 02:33 03:01 03:29 03:57 04:25
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop210</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">109</SimpleData>
+					<SimpleData name="LONGITUDE">-103347869</SimpleData>
+					<SimpleData name="LATITUDE">20699275</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">1.964457</SimpleData>
+					<SimpleData name="PHYSICAL_S">98</SimpleData>
+					<SimpleData name="STOP_ID">109</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3477855652385,20.69832940675298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/06</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Circunvalación
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Tienda de aluminos aun lado de Gasolinera   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:20 23:48 00:16 00:44 01:12 01:40 02:08 02:36 03:04 03:32 04:00 04:28
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop221</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">110</SimpleData>
+					<SimpleData name="LONGITUDE">-103347246</SimpleData>
+					<SimpleData name="LATITUDE">20704255</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">2.309427</SimpleData>
+					<SimpleData name="PHYSICAL_S">99</SimpleData>
+					<SimpleData name="STOP_ID">110</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3470727139714,20.70418130637504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/07</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Federico Ibarra
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Oxxo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:22 23:50 00:18 00:46 01:14 01:42 02:10 02:38 03:06 03:34 04:02 04:30
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop226</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">111</SimpleData>
+					<SimpleData name="LONGITUDE">-103346559</SimpleData>
+					<SimpleData name="LATITUDE">20709788</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">2.692673</SimpleData>
+					<SimpleData name="PHYSICAL_S">100</SimpleData>
+					<SimpleData name="STOP_ID">111</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3463513663468,20.71001104890929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/08</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / De la Patria
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Gasolinera
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:25 23:53 00:21 00:49 01:17 01:45 02:13 02:41 03:09 03:37 04:05 04:33
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">112</SimpleData>
+					<SimpleData name="LONGITUDE">-103345694</SimpleData>
+					<SimpleData name="LATITUDE">20716675</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.169763</SimpleData>
+					<SimpleData name="PHYSICAL_S">101</SimpleData>
+					<SimpleData name="STOP_ID">112</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.345508642006,20.7167945814053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/09</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Experiencia
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Batan
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:26 23:54 00:22 00:50 01:18 01:46 02:14 02:42 03:10 03:38 04:06 04:34
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop25</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">113</SimpleData>
+					<SimpleData name="LONGITUDE">-103345419</SimpleData>
+					<SimpleData name="LATITUDE">20721150</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.478463</SimpleData>
+					<SimpleData name="PHYSICAL_S">102</SimpleData>
+					<SimpleData name="STOP_ID">113</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3452657690945,20.72121434643687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/10</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Ignacio Ramírez
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Locales comerciales
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:28 23:56 00:24 00:52 01:20 01:48 02:16 02:44 03:12 03:40 04:08 04:36
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop218</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">114</SimpleData>
+					<SimpleData name="LONGITUDE">-103345113</SimpleData>
+					<SimpleData name="LATITUDE">20726574</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.853354</SimpleData>
+					<SimpleData name="PHYSICAL_S">103</SimpleData>
+					<SimpleData name="STOP_ID">114</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3448059591158,20.7270732480878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/11</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Atotonilco
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Gasolinera
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:31 23:59 00:27 00:55 01:23 01:51 02:19 02:47 03:15 03:43 04:11 04:39
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop220</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">115</SimpleData>
+					<SimpleData name="LONGITUDE">-103343660</SimpleData>
+					<SimpleData name="LATITUDE">20730903</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">4.165661</SimpleData>
+					<SimpleData name="PHYSICAL_S">104</SimpleData>
+					<SimpleData name="STOP_ID">115</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3433538313914,20.73131312767549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/12</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Las Torres
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Bahía Lateral
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:34 00:02 00:30 00:58 01:26 01:54 02:22 02:50 03:18 03:46 04:14 04:42
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop26</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">116</SimpleData>
+					<SimpleData name="LONGITUDE">-103344345</SimpleData>
+					<SimpleData name="LATITUDE">20740262</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">4.876286</SimpleData>
+					<SimpleData name="PHYSICAL_S">105</SimpleData>
+					<SimpleData name="STOP_ID">116</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.34272044612,20.73867777132167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/13</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Agua Fría
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Electra
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:36 00:04 00:32 01:00 01:28 01:56 02:24 02:52 03:20 03:48 04:16 04:44
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop224</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">117</SimpleData>
+					<SimpleData name="LONGITUDE">-103346214</SimpleData>
+					<SimpleData name="LATITUDE">20744870</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">5.241053</SimpleData>
+					<SimpleData name="PHYSICAL_S">106</SimpleData>
+					<SimpleData name="STOP_ID">117</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3461291389955,20.74471953807107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/14</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. A Saltillo / Casiano Torres
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Cruz Verde Villa Guadalupe
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:40 00:08 00:36 01:04 01:32 02:00 02:28 02:56 03:24 03:52 04:20 04:48
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop24</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">118</SimpleData>
+					<SimpleData name="LONGITUDE">-103343181</SimpleData>
+					<SimpleData name="LATITUDE">20756351</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">6.132862</SimpleData>
+					<SimpleData name="PHYSICAL_S">107</SimpleData>
+					<SimpleData name="STOP_ID">118</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3429435203463,20.75594994888517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/15</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Alberto M. L.
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Retorno
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:41 00:09 00:37 01:05 01:33 02:01 02:29 02:57 03:25 03:53 04:21 04:49
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop28</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">119</SimpleData>
+					<SimpleData name="LONGITUDE">-103339736</SimpleData>
+					<SimpleData name="LATITUDE">20764966</SimpleData>
+					<SimpleData name="ROUTE_ID">6</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">6.826074</SimpleData>
+					<SimpleData name="PHYSICAL_S">108</SimpleData>
+					<SimpleData name="STOP_ID">119</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3396285942552,20.76498234171485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/16</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Alberto Mora L.
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Retorno
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:15 23:43 00:11 00:39 01:07 01:35 02:03 02:31 02:59 03:27 03:55 04:23
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop212</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">90</SimpleData>
+					<SimpleData name="LONGITUDE">-103339736</SimpleData>
+					<SimpleData name="LATITUDE">20764956</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">0.104758</SimpleData>
+					<SimpleData name="PHYSICAL_S">87</SimpleData>
+					<SimpleData name="STOP_ID">90</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3398698683926,20.76509389964219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/17</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Timoteo Torres
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Timoteo Torres
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:17 23:45 00:13 00:41 01:09 01:37 02:05 02:33 03:01 03:29 03:57 04:25
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop227</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">91</SimpleData>
+					<SimpleData name="LONGITUDE">-103343091</SimpleData>
+					<SimpleData name="LATITUDE">20757403</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">0.722912</SimpleData>
+					<SimpleData name="PHYSICAL_S">88</SimpleData>
+					<SimpleData name="STOP_ID">91</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3432918734002,20.75642452557724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/18</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Calz. Federalismo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+First Cash
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:19 23:47 00:15 00:43 01:11 01:39 02:07 02:35 03:03 03:31 03:59 04:27
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop211</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">92</SimpleData>
+					<SimpleData name="LONGITUDE">-103346248</SimpleData>
+					<SimpleData name="LATITUDE">20744776</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">1.695922</SimpleData>
+					<SimpleData name="PHYSICAL_S">89</SimpleData>
+					<SimpleData name="STOP_ID">92</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3463939448893,20.74480392313841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/19</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / Emiliano Zapata
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Bahía Lateral
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:23 23:51 00:19 00:47 01:15 01:43 02:11 02:39 03:07 03:35 04:03 04:31
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop29</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">93</SimpleData>
+					<SimpleData name="LONGITUDE">-103343701</SimpleData>
+					<SimpleData name="LATITUDE">20739629</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">2.114136</SimpleData>
+					<SimpleData name="PHYSICAL_S">90</SimpleData>
+					<SimpleData name="STOP_ID">93</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3436132528301,20.73936195083619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/20</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Carr. Saltillo / De los Deportes
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Oxxo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:25 23:53 00:21 00:49 01:17 01:45 02:13 02:41 03:09 03:37 04:05 04:33
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop213</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">94</SimpleData>
+					<SimpleData name="LONGITUDE">-103343704</SimpleData>
+					<SimpleData name="LATITUDE">20730771</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">2.773999</SimpleData>
+					<SimpleData name="PHYSICAL_S">91</SimpleData>
+					<SimpleData name="STOP_ID">94</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3439745190529,20.73086358484857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/21</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Ignacio Ramírez
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Scotia Bank
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:28 23:56 00:24 00:52 01:20 01:48 02:16 02:44 03:12 03:40 04:08 04:36
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop222</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">95</SimpleData>
+					<SimpleData name="LONGITUDE">-103345151</SimpleData>
+					<SimpleData name="LATITUDE">20726454</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.085405</SimpleData>
+					<SimpleData name="PHYSICAL_S">92</SimpleData>
+					<SimpleData name="STOP_ID">95</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3453062284221,20.72651714672595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/22</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Experiencia
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Copel
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:30 23:58 00:26 00:54 01:22 01:50 02:18 02:46 03:14 03:42 04:10 04:38
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop20</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">96</SimpleData>
+					<SimpleData name="LONGITUDE">-103345419</SimpleData>
+					<SimpleData name="LATITUDE">20721047</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.458766</SimpleData>
+					<SimpleData name="PHYSICAL_S">93</SimpleData>
+					<SimpleData name="STOP_ID">96</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3455891972439,20.7209020765602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/23</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde /Fidel Velazquez
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Parabus Fidel Velazquez
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:33 00:01 00:29 00:57 01:25 01:53 02:21 02:49 03:17 03:45 04:13 04:41
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop219</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">97</SimpleData>
+					<SimpleData name="LONGITUDE">-103345687</SimpleData>
+					<SimpleData name="LATITUDE">20716727</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">3.756775</SimpleData>
+					<SimpleData name="PHYSICAL_S">94</SimpleData>
+					<SimpleData name="STOP_ID">97</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3461152532539,20.71420779314035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/24</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Federico Ibarra
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Oxxo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:34 00:02 00:30 00:58 01:26 01:54 02:22 02:50 03:18 03:46 04:14 04:42
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop22</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">98</SimpleData>
+					<SimpleData name="LONGITUDE">-103346569</SimpleData>
+					<SimpleData name="LATITUDE">20709700</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">4.243559</SimpleData>
+					<SimpleData name="PHYSICAL_S">95</SimpleData>
+					<SimpleData name="STOP_ID">98</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3467121377746,20.710019036932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/25</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Circunvalación
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Soriana Tránsito
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:37 00:05 00:33 01:01 01:29 01:57 02:25 02:53 03:21 03:49 04:17 04:45
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop27</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">99</SimpleData>
+					<SimpleData name="LONGITUDE">-103347033</SimpleData>
+					<SimpleData name="LATITUDE">20705890</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">4.507390</SimpleData>
+					<SimpleData name="PHYSICAL_S">96</SimpleData>
+					<SimpleData name="STOP_ID">99</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3471991867055,20.70583458713212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/26</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Prol. Alcalde / Teatro Alarife
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Teatro Alarife
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:39 00:07 00:35 01:03 01:31 01:59 02:27 02:55 03:23 03:51 04:19 04:47
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop215</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">100</SimpleData>
+					<SimpleData name="LONGITUDE">-103348000</SimpleData>
+					<SimpleData name="LATITUDE">20698232</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">5.037938</SimpleData>
+					<SimpleData name="PHYSICAL_S">97</SimpleData>
+					<SimpleData name="STOP_ID">100</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3479436398689,20.6997585688211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/27</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Fte. Gonzalo Curiel
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Gasolinera
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:44 00:12 00:40 01:08 01:36 02:04 02:32 03:00 03:28 03:56 04:24 04:52
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop216</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">101</SimpleData>
+					<SimpleData name="LONGITUDE">-103348327</SimpleData>
+					<SimpleData name="LATITUDE">20692252</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">5.526428</SimpleData>
+					<SimpleData name="PHYSICAL_S">61</SimpleData>
+					<SimpleData name="STOP_ID">101</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3483270000001,20.69225199999973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/28</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Manuel Acuña
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Parque del Santuario
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:48 00:16 00:44 01:12 01:40 02:08 02:36 03:04 03:32 04:00 04:28 04:56
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop217</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">102</SimpleData>
+					<SimpleData name="LONGITUDE">-103347857</SimpleData>
+					<SimpleData name="LATITUDE">20683888</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">6.102636</SimpleData>
+					<SimpleData name="PHYSICAL_S">62</SimpleData>
+					<SimpleData name="STOP_ID">102</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3478570000001,20.68388799999973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/29</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+Alcalde / Hidalgo
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Plalacio Mpal de GDL.
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:52 00:20 00:48 01:16 01:44 02:12 02:40 03:08 03:36 04:04 04:32 05:00
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop228</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">103</SimpleData>
+					<SimpleData name="LONGITUDE">-103347495</SimpleData>
+					<SimpleData name="LATITUDE">20677748</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">6.525693</SimpleData>
+					<SimpleData name="PHYSICAL_S">63</SimpleData>
+					<SimpleData name="STOP_ID">103</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3474950000001,20.67774799999972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P-D/30</name>
+			<description><![CDATA[<table style="text-align: left;" border="0">
+ <tbody> 
+  <tr>
+   <td> 
+    <strong>Parada:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje Común/ en caso contrario escriba Enlace-->
+    Común
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Enlace:</strong>
+   </td>
+   <td>
+   <!-- Si es parada comun deje No/ en caso contrario Enlace escriba cada una de las rutas con las que se enlaza . ej. C1, C2 -->
+    No 
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Ubicación:</strong>
+   </td>
+   <td>
+16 de Sept. / Prisciliano Sánchez
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Referencia:</strong>
+   </td>
+   <td>
+Parque San Frnacisco
+   </td>
+  </tr>
+  <tr>
+   <td> 
+    <strong>Horario:</strong>
+   </td>
+   <td>
+23:54 00:22 00:50 01:18 01:46 02:14 02:42 03:10 03:38 04:06 04:34 05:02
+   </td>
+  </tr>
+ </tbody>
+</table>]]></description>
+			<styleUrl>#sn_bus-stop21</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#paradas_nocturnas">
+					<SimpleData name="ID">104</SimpleData>
+					<SimpleData name="LONGITUDE">-103347194</SimpleData>
+					<SimpleData name="LATITUDE">20672636</SimpleData>
+					<SimpleData name="ROUTE_ID">5</SimpleData>
+					<SimpleData name="PASS_COUNT">1</SimpleData>
+					<SimpleData name="MILEPOST">6.878006</SimpleData>
+					<SimpleData name="PHYSICAL_S">22</SimpleData>
+					<SimpleData name="STOP_ID">104</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.3471940000001,20.67263599999973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Schema name="paradas_nocturnas" id="paradas_nocturnas">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="LONGITUDE" type="int"></SimpleField>
+	<SimpleField name="LATITUDE" type="int"></SimpleField>
+	<SimpleField name="ROUTE_ID" type="int"></SimpleField>
+	<SimpleField name="PASS_COUNT" type="int"></SimpleField>
+	<SimpleField name="MILEPOST" type="float"></SimpleField>
+	<SimpleField name="PHYSICAL_S" type="int"></SimpleField>
+	<SimpleField name="STOP_ID" type="int"></SimpleField>
+</Schema>
+	</Folder>
+</Document>
+</kml>

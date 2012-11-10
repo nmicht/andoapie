@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Circunvalación Dr. Atl - Oblatos</name>
+	<visibility>0</visibility>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Oblatos Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 025-E cruza con Hacienda Ojo Zarco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29756,20.68848,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 023-E cruza con Francisco Sarabia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29972,20.68891,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021B-E cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30143,20.6892,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021A-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30291,20.68955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021-E cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30437,20.68993,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 017-E cruza con San Tito</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30688,20.69042,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 015-E cruza con Santa Fe</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31043,20.69106,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 013-E cruza con Calzada del Obrero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31214,20.6914,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 009-E cruza con Puerto Topolobampo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32231,20.69306,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 007-E cruza con Monte Parnaso</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32451,20.69374,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 005-E cruza con Monte Albán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32668,20.69476,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 003-E cruza con Monte Everest</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32834,20.69558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 001-E cruza con Montes Pirineos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32983,20.69629,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 004-E cruza con Monte Everest</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3273,20.69615,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 011A-E cruza con Santa Rosalía</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31471,20.6918,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 011-E cruza con Monte Blanco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31766,20.69231,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 002-E cruza con Montes Pirineos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32896,20.69691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 006-E cruza con Monte Albán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32565,20.69534,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 008-E cruza con Belisario Domínguez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32261,20.69402,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 010-E cruza con Puerto del Carmen</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31704,20.69311,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 012-E cruza con Puerto Angel</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31496,20.69284,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 014-E cruza con Puerto Champoton</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31246,20.69242,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 016-E cruza con Calzada del Obrero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30969,20.69189,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 018-E cruza con Juan de Dios Robledo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30695,20.69134,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 020-E cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30353,20.69073,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 022-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30168,20.6904,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 024-E cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30032,20.6901,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 026-E cruza con Hacienda Ojo Zarco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29656,20.68934,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 026A-E cruza con Al pasar Joaquín Amaro</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29438,20.68841,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

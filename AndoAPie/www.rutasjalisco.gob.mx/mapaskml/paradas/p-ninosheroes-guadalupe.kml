@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Niños Heróes - Avenida Guadalupe</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.41536</longitude>
+		<latitude>20.66426</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop1450">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop14500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop14502</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1450</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop14501">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop14502">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Guadalupe Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 043-O cruza con Nicolás de Bari</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41536,20.66426,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 041-O cruza con Santa Teresa de Jesús</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41223,20.66481,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 039-O cruza con Privada del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40988,20.66528,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 038-O cruza con Privada del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.4103,20.66427,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 040-O cruza con Santa Teresa de Jesús</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41276,20.66378,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 042-O cruza con Nicolás de Bari</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41562,20.66324,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 045-O cruza con Escultores</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41765,20.66364,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 044-O cruza con Abogados - Santa Catalina de Siena</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.41744,20.66256,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 047-O cruza con Pintores</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.4198,20.66323,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 046-O cruza con Pintores</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42095,20.66198,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 049-O cruza con Doctores</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42266,20.66278,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 048-O cruza con Avenida de La Patria</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42439,20.66148,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 051-O cruza con Arquitectos</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42467,20.66248,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 053-O cruza con Ingenieros</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42644,20.66221,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 050-O cruza con Ingenieros Norte</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42695,20.66112,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 052-O cruza con Avenida Toreros Sur</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.42875,20.66082,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 055-O cruza con Topográfos</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.429,20.66179,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 057-O cruza con Avenida Rafael Sanzio</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.4308,20.66156,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 054-O cruza con M. de Sta. Cecilia</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43076,20.66049,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 059-O cruza con Misión de San Pablo</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43261,20.65985,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 036-O cruza con Santa Rita</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40716,20.66502,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 056-O cruza con Copernico</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.4327,20.65836,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 065-O cruza con Avenida Piotr Tchaikovski</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43909,20.65893,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 062-O cruza con Avenida Piotr Tchaikovski</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43991,20.65812,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 061-O cruza con Santa Martha</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43486,20.65879,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 058-O cruza con Rinconada Guadalupe</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43565,20.65779,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 063-O cruza con Daniel Comboni</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43731,20.65888,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 060-O cruza con Daniel Comboni</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.43812,20.65789,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe P. 071-O cruza con Misión de San Lorenzo</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.44718,20.65922,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 069-O cruza con Misión de San Lorenzo</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.44483,20.65941,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 066-O cruza con Diego Rivera</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.44498,20.65857,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 064-O cruza con Misión de Santo Tomás</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.443,20.65845,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 067-O cruza con Frente a Misión de Santo Tomás</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.44244,20.65921,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 037-O cruza con Santa Rita</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40666,20.66583,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 034-O cruza con 12 de Diciembre</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.4051,20.66531,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 035-O cruza con 12 de Diciembre</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40472,20.66628,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 032-O cruza con Avenida de Las Rosas</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40375,20.66563,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 033-O cruza con Avenida de Las Rosas</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40206,20.66661,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 031-O cruza con Fernando de Alba</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39939,20.6666,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 030-O cruza con San Uriel</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.40025,20.66577,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 028-O cruza con San Gabriel</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39715,20.66584,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 029-O cruza con Cuautitlán</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39591,20.66668,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 026-O cruza con La Villa</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39456,20.66592,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Guadalupe 027-O cruza con San Miguel</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39447,20.66674,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 024-O cruza con Placeres</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39155,20.66597,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 025-O cruza con Placeres</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.39094,20.66677,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 022-O cruza con Firmamento</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.38919,20.66589,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 023-O cruza con Firmamento</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.38848,20.66679,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 020-O cruza con Avenida de los Arcos</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.38526,20.66595,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 021-O cruza con Arboleda</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.38539,20.6669,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 019-O cruza con Francisco Javier Gamboa</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.37607,20.667,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 018-O cruza con Avenida Unión</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.37379,20.66617,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 017-O cruza con Avenida Unión</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.37315,20.66701,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 016-O cruza con Marsella</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.37097,20.66629,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 015-O cruza con Marsella</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.37025,20.66703,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 014-O cruza con Colonias</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.36675,20.66631,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 013-O cruza con Progreso</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.367,20.66712,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 011-O cruza con Bruselas</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.36493,20.66711,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 012-O cruza con Venezuela</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.3641,20.66634,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 009-O cruza con Argentina</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.36177,20.66698,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 010-O cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.36011,20.66622,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 007-O cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.3593,20.66684,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 008-O cruza con Rayón</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.35801,20.66578,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 006-O cruza con Pavo</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.35534,20.66495,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 004-O cruza con Colón</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.3528,20.66429,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 002-O cruza con Manzano</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.35084,20.66361,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 001-O cruza con Manzano</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.34996,20.66423,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 003-O cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.35537,20.66586,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Niños Héroes 005-O cruza con Rayón</description>
+			<styleUrl>#sn_bus-stop14500</styleUrl>
+			<Point>
+				<coordinates>-103.35729,20.66638,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

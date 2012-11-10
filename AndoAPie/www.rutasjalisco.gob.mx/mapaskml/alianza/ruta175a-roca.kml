@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ruta 175 A Vía Gavilanes</name>
+	<open>1</open>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-terminal1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus-terminal1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_bus-terminal2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Terminales</name>
+		<open>1</open>
+		<Placemark>
+			<name>Terminal Retorno Ruta 175 A - ROCA</name>
+			<LookAt>
+				<longitude>-103.4226644758582</longitude>
+				<latitude>20.59503628042053</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01683813467311372</heading>
+				<tilt>0</tilt>
+				<range>8079.798934425395</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal2</styleUrl>
+			<Point>
+				<coordinates>-103.4005609124317,20.60573087178358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terminal Ruta 175 A - ROCA</name>
+			<LookAt>
+				<longitude>-103.4269269141774</longitude>
+				<latitude>20.51261846449664</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01862121471506237</heading>
+				<tilt>0</tilt>
+				<range>1480.07143449016</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal1</styleUrl>
+			<Point>
+				<coordinates>-103.4257807470629,20.51005552422279,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Derrotero Ida Ruta 175 A - ROCA</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-103.4257609376108,20.51009475517645,0 -103.4256524263871,20.51108984777279,0 -103.4255211333648,20.51231948746558,0 -103.4254002477225,20.51325752135247,0 -103.4253646104452,20.51365085611618,0 -103.4258674515462,20.51384243650669,0 -103.4261053185099,20.51396839194967,0 -103.4262007788294,20.51429999398699,0 -103.4260600775741,20.51441963978876,0 -103.4258514232342,20.51506434067388,0 -103.425815503597,20.51599827669147,0 -103.425633758725,20.51660803691513,0 -103.424933099309,20.52004385470994,0 -103.4248265770672,20.52127452003378,0 -103.4250951334874,20.52251443872528,0 -103.424691857689,20.52597716195532,0 -103.4241165551379,20.52790074110058,0 -103.4238366819873,20.52907970395533,0 -103.4239240772427,20.52968951782376,0 -103.4240199335388,20.53014653043049,0 -103.4246673891738,20.5316949489561,0 -103.4237798101728,20.53442171885292,0 -103.4229620502321,20.53690040612068,0 -103.4220582059291,20.53952843782239,0 -103.4209138050379,20.5430720189664,0 -103.4206135069147,20.54718864346521,0 -103.4204813013199,20.54901623478597,0 -103.4201487455597,20.5498433713338,0 -103.4190415789716,20.55298362394217,0 -103.4176528958692,20.55679287026765,0 -103.4164034318293,20.56022669530259,0 -103.4161014653085,20.5610863540856,0 -103.41550011945,20.56169808291124,0 -103.4129460623441,20.56408004077771,0 -103.4108423543533,20.56609197897338,0 -103.4091554569727,20.56735400204074,0 -103.4081088291648,20.5681711390787,0 -103.4066851890929,20.57104437948882,0 -103.4049476316428,20.57483596065777,0 -103.403231476407,20.57839645656406,0 -103.4028116560228,20.58012695836632,0 -103.4022801326559,20.58251566555747,0 -103.4017867955542,20.58322752265416,0 -103.4012694185895,20.58456864416336,0 -103.399638076048,20.58947059355647,0 -103.3991828487869,20.59094640832389,0 -103.3990744184822,20.59321825520453,0 -103.3990664617251,20.59496154901543,0 -103.3996573769036,20.59623482662256,0 -103.4001911091783,20.59743358109954,0 -103.4002906544341,20.59815234001783,0 -103.400047350842,20.59962494178819,0 -103.4000062518497,20.59983655843995,0 -103.401588472472,20.60007431947891,0 -103.4020354271038,20.60020412821952,0 -103.400971290851,20.60100626089965,0 -103.399095826325,20.60253000214786,0 -103.3982728460373,20.60330126951299,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Derrotero Vuelta Ruta 175 A - ROCA</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-103.4007468586625,20.60568788103263,0 -103.3985418611225,20.60374503782018,0 -103.3982269733957,20.60329979449158,0 -103.4008428060861,20.60109712084493,0 -103.4014512164355,20.60066495631415,0 -103.4004578122162,20.59990180172188,0 -103.4000531007751,20.59962700892707,0 -103.4002752595195,20.59808442792569,0 -103.4002106898975,20.59748479122647,0 -103.4001092889012,20.59713883521237,0 -103.3992859139459,20.59550837506255,0 -103.3990904139058,20.59499700296461,0 -103.399078700618,20.59300083784218,0 -103.3992275294429,20.5909255160288,0 -103.3993871672924,20.59015950457766,0 -103.4001051608775,20.58809675849056,0 -103.401516872659,20.5839035140469,0 -103.4018522483796,20.58314466256615,0 -103.4023171377506,20.58235654211678,0 -103.4028385332381,20.58013997045839,0 -103.4032114462023,20.57856368476109,0 -103.4033840057587,20.57804764820383,0 -103.4046706692467,20.57534784620127,0 -103.4064564005684,20.57159671638132,0 -103.4078714292857,20.56861734766941,0 -103.4080591158748,20.56824370739382,0 -103.4084504303809,20.5678801577982,0 -103.4111746711906,20.56576515787046,0 -103.4137472018566,20.56335375246528,0 -103.4160655766784,20.56112986116031,0 -103.4162088083347,20.56077747136341,0 -103.4171549536871,20.55815470710985,0 -103.418882999955,20.55329232917882,0 -103.4204495977956,20.54906363745995,0 -103.4205602153679,20.5483094846703,0 -103.4206649924022,20.54644106410304,0 -103.4209205870572,20.54305330340075,0 -103.4216408286569,20.54074974204539,0 -103.4227180563922,20.53757913297916,0 -103.4237652922001,20.53453011074724,0 -103.424630934581,20.53168153656332,0 -103.4246053098546,20.53150586685329,0 -103.4240479550213,20.53016265228662,0 -103.4238961608922,20.52950574366537,0 -103.4239020190274,20.52888181440952,0 -103.4241925200649,20.52763081234532,0 -103.4247003570019,20.52602220283167,0 -103.4246014554066,20.52575216090571,0 -103.4247048546842,20.52562328395994,0 -103.4249029768403,20.52339408514665,0 -103.4249809682435,20.52225870647039,0 -103.4247997288885,20.52118455536009,0 -103.4249283165843,20.51973656985356,0 -103.4255141134068,20.51727531716439,0 -103.425758695297,20.51615164388712,0 -103.4259741319629,20.51463467449878,0 -103.4261877314502,20.51429885515495,0 -103.4261578925837,20.51404552507585,0 -103.4260368487716,20.51387529036327,0 -103.4253878843111,20.51364949779663,0 -103.4256223987499,20.51142871542021,0 -103.4257205878188,20.51008198658046,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

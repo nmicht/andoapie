@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Circunvalación - Washington</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Río Nilo - Salvador López Chavez Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 012-E cruza con Amado Aguirre</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31191,20.64654,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 015-S cruza con Río Santiago</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32936,20.65104,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 017-S cruza con Río Támesis</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33052,20.65052,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 017A-S cruza con Rio Amacuzac</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33469,20.65038,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 019-S cruza con Calzada Olímpica</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.335,20.65032,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 021-S cruza con Frente Ingreso Parque González Gallo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33803,20.64888,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 026-S cruza con Dr. R. Michel</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33998,20.64908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 024-S cruza con Calzada Jesús González Gallo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33568,20.65101,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 022-S cruza con Río Suchiate</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3323,20.6509,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 020-S cruza con Río Rhin</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3308,20.65147,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 011-E cruza con Ramón López Velarde</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.312,20.64566,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 009-E cruza con Feníx</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31407,20.64635,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 007-E cruza con Ibis</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31662,20.64719,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 005-E cruza con Apis</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31887,20.64797,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 003-E cruza con M. Gómez Pedraza</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32124,20.64876,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 001-E cruza con Blvr. Marcelino García Barragan</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32406,20.64976,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 011-E cruza con Frente a Salvador Lopéz Chavéz</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34105,20.64855,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 009-E cruza con Priv. Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34249,20.65091,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 007-E cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3438,20.653,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 005-E cruza con Calzada Jesús González Gallo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34492,20.65424,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 003-E cruza con Saladero</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34832,20.655,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 001-E cruza con Nueva York</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35083,20.65647,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 002-E cruza con Calzada Independencia Sur</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35028,20.65738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 002A-E cruza con Plaza Juárez</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35126,20.65772,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 004-E cruza con Comercio Exterior</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34657,20.6551,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 010-E cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34278,20.6528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 012-E cruza con Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34129,20.65053,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 002-E cruza con Avenida Presidentes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3224,20.65014,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 004-E cruza con M. Gómez Pedraza</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.32049,20.64945,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 006-E cruza con Ramón Pacheco</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31856,20.64883,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 008-E cruza con Joaquín Herrera</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31654,20.64812,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 010-E cruza con J. M. Castaños</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.31404,20.64729,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

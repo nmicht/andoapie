@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Circunvalación - Plutarco Elias Calles</name>
+	<visibility>0</visibility>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Plutarco Elias Calles Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 019-N cruza con Hacienda Lacroix</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29429,20.6852,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 017-N cruza con San Pedro</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29446,20.68344,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 015-N cruza con José María Iglesias</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29372,20.67975,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 013-N cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29435,20.67782,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 011-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29492,20.6757,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 009-N cruza con Frente a Tanger</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29521,20.67433,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 007-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29546,20.67106,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 005-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29644,20.66915,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 003-N cruza con Dionisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29708,20.66606,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 001-N cruza con Javier Mina</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29756,20.66343,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 002-N cruza con Gigantes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29873,20.66267,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 004-N cruza con Javier Mina</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29842,20.66435,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 006-N cruza con Dionisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29787,20.66684,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 008-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29728,20.66984,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 010-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29621,20.67223,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 012-N cruza con Tanger</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29614,20.67461,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 014-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29568,20.67669,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 016-N cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.2952,20.67868,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 018-N cruza con San Esteban</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29517,20.68075,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 020-N cruza con San Pedro</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29547,20.68446,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 022-N cruza con Hacienda Lacroix</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29526,20.68604,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 024-N cruza con Artesanos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29547,20.68788,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

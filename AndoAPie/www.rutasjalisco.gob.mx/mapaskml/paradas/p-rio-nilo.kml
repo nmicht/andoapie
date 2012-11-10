@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Río Nilo</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.25036</longitude>
+		<latitude>20.62449</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Río Nilo</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 069-E cruza con Revolución</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25036,20.62449,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 072-E cruza con Alberca Soledad</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.24686,20.62649,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 070-E cruza con Privada José Martí frente a Revolución</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.24927,20.62705,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 071-E cruza con La Alberca</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.24796,20.62381,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 068-E cruza con Circuito Loma Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25139,20.62645,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 067-E cruza con Circuito Loma Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25228,20.62567,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 066-E cruza con Avenida Loma Dorada Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25485,20.62712,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 065-E cruza con Circuito Loma Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25425,20.6261,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 063-E cruza con Avenida Loma Dorada Sur</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.2567,20.62633,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 064-E cruza con Avenida Loma Dorada Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25685,20.6289,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 061-E cruza con Loma Vieja</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25796,20.62674,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 062-E cruza con Avenida Loma Dorada Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25817,20.62942,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 059-E cruza con Loma Embrujada Poniente</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25865,20.6269,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 060-E cruza con Circuito Loma Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.25955,20.6292,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 057-E cruza con Circuito Loma Sur</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26292,20.62855,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 058-E cruza con Circuito Loma Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26214,20.62903,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 056-E cruza con Pegueros</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26405,20.63001,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 055-E cruza con Frente a Pegueros</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26473,20.62953,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 054-E cruza con Paseo Loma del Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26578,20.63099,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 053-E cruza con Paseo Loma Sur</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26696,20.63064,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 051-E cruza con Iturbide</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26835,20.63134,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 052-E cruza con Avenida El Rosario</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26814,20.63226,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 050-E cruza con F. Silva Romero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.26968,20.633,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 049-E cruza con Limón</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27115,20.63272,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 048-E cruza con Ignacio L. Vallarta</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27174,20.63418,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 047-E cruza con Granado</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27225,20.63358,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 044-E cruza con Rio Nilo</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27518,20.63862,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 046-E cruza con Frente a Chulavista</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27366,20.6363,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 045-E cruza con Chulavista</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.2744,20.63617,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 043-E cruza con Ex-salón Rio Nilo</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27585,20.63844,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 042-E cruza con Avenida Malecón</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27681,20.64068,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 041-E cruza con Avenida Malecón</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.27774,20.64069,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 040-E cruza con Avenida Patria</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28054,20.64376,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 039-E cruza con Avenida Patria</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28158,20.64322,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 038-E cruza con Frente a Ignacio Navarrete</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.2848,20.64481,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 037-E cruza con Ignacio Navarrete</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28542,20.64411,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 035-E cruza con Frente a Elias Villalpando</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28672,20.64388,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 036-E cruza con Elias Villalpando</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28686,20.64459,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 033-E cruza con C. Campos</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28918,20.64366,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 034-E cruza con C. Campos</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.28841,20.64441,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 031-E cruza con Bernal Reyes</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29134,20.64379,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 032-E cruza con Escuderos</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29135,20.64473,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 029-E cruza con J. R. Romero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29358,20.64407,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 030-E cruza con J. R. Romero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29285,20.64488,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 028-E cruza con Luis Alfaro P.</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29447,20.64506,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 027-E cruza con Luis Alfaro P.</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29537,20.64428,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 026-E cruza con Diego Durán</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29648,20.64526,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 025-E cruza con Diego Durán</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29718,20.64446,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 024-E cruza con A. Díaz de Solis</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29934,20.64555,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 023-E cruza con A. Díaz de Solis</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.29997,20.6448,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 022-E cruza con San Jacinto</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30067,20.64567,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 021-E cruza con San Jacinto</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30153,20.6449,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 019-E cruza con Bernal Díaz</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30339,20.64469,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 020-E cruza con Avenida Revolución</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30414,20.64517,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 017-E cruza con Caporales</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30505,20.6439,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 018-E cruza con Golfo de México</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30651,20.6446,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 015-E cruza con Golfo de México</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30724,20.64404,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 016-E cruza con Carpinteros</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30827,20.64517,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 013-E cruza con Carpinteros</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.30911,20.64462,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 014-E cruza con Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.31013,20.64579,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

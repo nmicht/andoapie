@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ruta 644-B vía Jauja</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.40762</longitude>
+		<latitude>20.6203</latitude>
+		<altitude>0</altitude>
+		<range>10000</range>
+		<tilt>0</tilt>
+		<heading>0</heading>
+	</LookAt>
+	<Style id="route15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon61">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff996600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route24">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route34">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route13">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus-terminal1_copy1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="route22">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route32">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route11">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal1_copy1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1_copy1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1_copy1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="route20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route18">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route28">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route16">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_icon61_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff996600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal1_copy1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="route2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route6">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route27">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route14">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route23">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route33">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route12">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route21">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route31">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff008000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route19">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route29">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route17">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route3">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff808000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="route0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus-terminal2_copy3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="route26">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff800080</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Terminales</name>
+		<open>1</open>
+		<Placemark>
+			<name>Terminal Retorno Ruta 644B Jauja</name>
+			<LookAt>
+				<longitude>-103.3441796084207</longitude>
+				<latitude>20.66966010855305</latitude>
+				<altitude>0</altitude>
+				<range>1344.211106898577</range>
+				<tilt>9.57402375117058e-024</tilt>
+				<heading>-0.01114960912347038</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_bus-terminal2_copy3</styleUrl>
+			<Point>
+				<coordinates>-103.3478966501728,20.67204481668068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terminal Ruta 644B Jauja</name>
+			<LookAt>
+				<longitude>-103.2256843973874</longitude>
+				<latitude>20.58508827706415</latitude>
+				<altitude>0</altitude>
+				<range>1099.421399143971</range>
+				<tilt>2.78909819643233e-023</tilt>
+				<heading>0.03059671472818399</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal1_copy1</styleUrl>
+			<Point>
+				<coordinates>-103.2258812692383,20.58725527168684,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Derrotero Ida Ruta 644B-Jauja</name>
+		<styleUrl>#sn_icon61</styleUrl>
+		<LineString>
+			<coordinates>
+-103.22557,20.58735,0 -103.22487,20.58771,0 -103.22418,20.58806,0 -103.22328,20.58853,0 -103.22381,20.58941,0 -103.22408,20.58985,0 -103.22467,20.59085,0 -103.22627,20.5935,0 -103.22664,20.59412,0 -103.22721,20.59507,0 -103.22728,20.59518,0 -103.22741,20.59541,0 -103.22812,20.59659,0 -103.22814,20.59663,0 -103.22867,20.59747,0 -103.22868,20.5975,0 -103.22901,20.59786,0 -103.22904,20.59789,0 -103.22936,20.59812,0 -103.22969,20.5983,0 -103.22991,20.59838,0 -103.23014,20.59847,0 -103.23148,20.59887,0 -103.23178,20.59896,0 -103.23195,20.59901,0 -103.23304,20.59933,0 -103.23436,20.59972,0 -103.23617,20.60025,0 -103.23865,20.60099,0 -103.23889,20.60106,0 -103.23925,20.60116,0 -103.24129,20.60176,0 -103.24204,20.60198,0 -103.24294,20.60224,0 -103.24436,20.60266,0 -103.24569,20.60305,0 -103.24602,20.60314,0 -103.24715,20.60348,0 -103.24809,20.60375,0 -103.24855,20.60389,0 -103.24867,20.60392,0 -103.24987,20.60427,0 -103.25001,20.60431,0 -103.25031,20.60438,0 -103.25047,20.60441,0 -103.25075,20.60446,0 -103.25105,20.6045,0 -103.25144,20.60456,0 -103.25226,20.60468,0 -103.25269,20.60474,0 -103.25375,20.60488,0 -103.25424,20.60495,0 -103.25649,20.60526,0 -103.25743,20.60539,0 -103.25803,20.60548,0 -103.25856,20.60556,0 -103.25918,20.60563,0 -103.26047,20.60579,0 -103.2612,20.60588,0 -103.2615,20.60592,0 -103.26178,20.606,0 -103.26277,20.60627,0 -103.26364,20.60665,0 -103.26552,20.6073,0 -103.26572,20.60734,0 -103.26593,20.60738,0 -103.27001,20.6087,0 -103.27222,20.60928,0 -103.27317,20.60954,0 -103.27414,20.60981,0 -103.27536,20.61009,0 -103.27639,20.61016,0 -103.27682,20.61019,0 -103.27727,20.61022,0 -103.27857,20.61032,0 -103.27896,20.61032,0 -103.27929,20.61037,0 -103.27955,20.6104,0 -103.27992,20.61048,0 -103.28019,20.61054,0 -103.28068,20.6107,0 -103.28109,20.61091,0 -103.28138,20.61112,0 -103.28172,20.61139,0 -103.28197,20.61167,0 -103.28229,20.61214,0 -103.28294,20.6131,0 -103.28441,20.61516,0 -103.28483,20.61575,0 -103.28514,20.61617,0 -103.28536,20.6165,0 -103.28553,20.61675,0 -103.28589,20.61726,0 -103.28634,20.61789,0 -103.28649,20.6181,0 -103.28702,20.61887,0 -103.28802,20.62032,0 -103.28895,20.62165,0 -103.2897,20.62278,0 -103.29019,20.62352,0 -103.29142,20.62521,0 -103.29153,20.62537,0 -103.29322,20.6279,0 -103.29408,20.62918,0 -103.29617,20.63216,0 -103.29699,20.63333,0 -103.29736,20.63385,0 -103.29781,20.6345,0 -103.29807,20.63488,0 -103.29831,20.63521,0 -103.29883,20.63596,0 -103.29947,20.63687,0 -103.30029,20.63805,0 -103.30033,20.6381,0 -103.30036,20.63815,0 -103.30089,20.63908,0 -103.30111,20.63945,0 -103.30119,20.63959,0 -103.3013,20.6398,0 -103.30163,20.64037,0 -103.30194,20.64093,0 -103.30244,20.6418,0 -103.30274,20.64233,0 -103.3031,20.64297,0 -103.3034,20.64351,0 -103.30365,20.64394,0 -103.30393,20.64444,0 -103.30412,20.64481,0 -103.30435,20.64522,0 -103.30458,20.64561,0 -103.3048,20.64599,0 -103.305,20.64638,0 -103.30522,20.64676,0 -103.30547,20.6472,0 -103.30565,20.64753,0 -103.30586,20.64792,0 -103.30598,20.64812,0 -103.3061,20.64836,0 -103.30637,20.64852,0 -103.30694,20.64888,0 -103.30775,20.6494,0 -103.30889,20.6501,0 -103.30927,20.65033,0 -103.31028,20.65098,0 -103.31076,20.65127,0 -103.31118,20.65153,0 -103.31129,20.6516,0 -103.3118,20.65192,0 -103.31232,20.65225,0 -103.31283,20.65256,0 -103.31336,20.6529,0 -103.31425,20.65345,0 -103.31436,20.65352,0 -103.31505,20.65396,0 -103.31588,20.65447,0 -103.31591,20.65449,0 -103.31673,20.65502,0 -103.31735,20.6554,0 -103.31757,20.65555,0 -103.31759,20.65556,0 -103.31844,20.6561,0 -103.3187,20.65626,0 -103.31923,20.6566,0 -103.32002,20.65709,0 -103.32082,20.6576,0 -103.32126,20.65788,0 -103.32173,20.65817,0 -103.32212,20.65842,0 -103.32254,20.65869,0 -103.32299,20.65896,0 -103.32343,20.65924,0 -103.3239,20.65955,0 -103.32435,20.65983,0 -103.3248,20.66012,0 -103.32524,20.6604,0 -103.3257,20.66069,0 -103.32615,20.66099,0 -103.32655,20.66123,0 -103.32696,20.66149,0 -103.32737,20.66176,0 -103.32777,20.66201,0 -103.32821,20.66228,0 -103.32861,20.66253,0 -103.32904,20.66281,0 -103.32945,20.66307,0 -103.32972,20.66323,0 -103.33021,20.66354,0 -103.33071,20.66386,0 -103.33099,20.66403,0 -103.3316,20.66442,0 -103.33219,20.66479,0 -103.3325,20.66498,0 -103.333,20.6653,0 -103.33316,20.66542,0 -103.33336,20.66554,0 -103.33422,20.66626,0 -103.33531,20.66717,0 -103.33539,20.66722,0 -103.33556,20.6673,0 -103.33612,20.6675,0 -103.33698,20.6678,0 -103.33752,20.668,0 -103.33832,20.66828,0 -103.33871,20.66843,0 -103.3397,20.66878,0 -103.34044,20.66905,0 -103.3411,20.6693,0 -103.34187,20.66959,0 -103.34219,20.66972,0 -103.34269,20.66993,0 -103.34351,20.67029,0 -103.34387,20.67044,0 -103.3439,20.67046,0 -103.34397,20.6705,0 -103.34428,20.67072,0 -103.34447,20.67085,0 -103.34467,20.67098,0 -103.34494,20.67111,0 -103.34585,20.6715,0 -103.34633,20.6717,0 -103.34721,20.6717,0 -103.34781,20.67196,0 -103.34787,20.67206,0 -103.34793,20.67285,0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Derrotero Vuelta 644B-Jauja</name>
+		<styleUrl>#sn_icon61_copy0</styleUrl>
+		<LineString>
+			<coordinates>
+-103.34793,20.67285,0 -103.34719,20.67285,0 -103.34721,20.6717,0 -103.34633,20.6717,0 -103.34585,20.6715,0 -103.34494,20.67111,0 -103.34467,20.67098,0 -103.34447,20.67085,0 -103.34428,20.67072,0 -103.34397,20.6705,0 -103.3439,20.67046,0 -103.34387,20.67044,0 -103.34351,20.67029,0 -103.34269,20.66993,0 -103.34219,20.66972,0 -103.34187,20.66959,0 -103.3411,20.6693,0 -103.34044,20.66905,0 -103.3397,20.66878,0 -103.33871,20.66843,0 -103.33832,20.66828,0 -103.33752,20.668,0 -103.33698,20.6678,0 -103.33612,20.6675,0 -103.33556,20.6673,0 -103.33539,20.66722,0 -103.33531,20.66717,0 -103.33422,20.66626,0 -103.33336,20.66554,0 -103.33316,20.66542,0 -103.333,20.6653,0 -103.3325,20.66498,0 -103.33219,20.66479,0 -103.3316,20.66442,0 -103.33099,20.66403,0 -103.33071,20.66386,0 -103.33021,20.66354,0 -103.32972,20.66323,0 -103.32945,20.66307,0 -103.32904,20.66281,0 -103.32861,20.66253,0 -103.32821,20.66228,0 -103.32777,20.66201,0 -103.32737,20.66176,0 -103.32696,20.66149,0 -103.32655,20.66123,0 -103.32615,20.66099,0 -103.3257,20.66069,0 -103.32524,20.6604,0 -103.3248,20.66012,0 -103.32435,20.65983,0 -103.3239,20.65955,0 -103.32343,20.65924,0 -103.32299,20.65896,0 -103.32254,20.65869,0 -103.32212,20.65842,0 -103.32173,20.65817,0 -103.32126,20.65788,0 -103.32082,20.6576,0 -103.32002,20.65709,0 -103.31923,20.6566,0 -103.3187,20.65626,0 -103.31844,20.6561,0 -103.31759,20.65556,0 -103.31757,20.65555,0 -103.31735,20.6554,0 -103.31673,20.65502,0 -103.31591,20.65449,0 -103.31588,20.65447,0 -103.31505,20.65396,0 -103.31436,20.65352,0 -103.31425,20.65345,0 -103.31336,20.6529,0 -103.31283,20.65256,0 -103.31232,20.65225,0 -103.3118,20.65192,0 -103.31129,20.6516,0 -103.31118,20.65153,0 -103.31076,20.65127,0 -103.31028,20.65098,0 -103.30927,20.65033,0 -103.30889,20.6501,0 -103.30775,20.6494,0 -103.30694,20.64888,0 -103.30637,20.64852,0 -103.3061,20.64836,0 -103.30598,20.64812,0 -103.30586,20.64792,0 -103.30565,20.64753,0 -103.30547,20.6472,0 -103.30522,20.64676,0 -103.305,20.64638,0 -103.3048,20.64599,0 -103.30458,20.64561,0 -103.30435,20.64522,0 -103.30412,20.64481,0 -103.30393,20.64444,0 -103.30365,20.64394,0 -103.3034,20.64351,0 -103.3031,20.64297,0 -103.30274,20.64233,0 -103.30244,20.6418,0 -103.30194,20.64093,0 -103.30163,20.64037,0 -103.3013,20.6398,0 -103.30119,20.63959,0 -103.30111,20.63945,0 -103.30089,20.63908,0 -103.30036,20.63815,0 -103.30033,20.6381,0 -103.30029,20.63805,0 -103.29947,20.63687,0 -103.29883,20.63596,0 -103.29831,20.63521,0 -103.29807,20.63488,0 -103.29781,20.6345,0 -103.29736,20.63385,0 -103.29699,20.63333,0 -103.29617,20.63216,0 -103.29408,20.62918,0 -103.29322,20.6279,0 -103.29153,20.62537,0 -103.29142,20.62521,0 -103.29019,20.62352,0 -103.2897,20.62278,0 -103.28895,20.62165,0 -103.28802,20.62032,0 -103.28702,20.61887,0 -103.28649,20.6181,0 -103.28634,20.61789,0 -103.28589,20.61726,0 -103.28553,20.61675,0 -103.28536,20.6165,0 -103.28514,20.61617,0 -103.28483,20.61575,0 -103.28441,20.61516,0 -103.28294,20.6131,0 -103.28229,20.61214,0 -103.28197,20.61167,0 -103.28172,20.61139,0 -103.28138,20.61112,0 -103.28109,20.61091,0 -103.28068,20.6107,0 -103.28019,20.61054,0 -103.27992,20.61048,0 -103.27955,20.6104,0 -103.27929,20.61037,0 -103.27896,20.61032,0 -103.27857,20.61032,0 -103.27727,20.61022,0 -103.27682,20.61019,0 -103.27639,20.61016,0 -103.27536,20.61009,0 -103.27547,20.6098,0 -103.27563,20.60917,0 -103.2742,20.60849,0 -103.27376,20.60833,0 -103.27271,20.60814,0 -103.27244,20.60809,0 -103.27157,20.60795,0 -103.27125,20.60787,0 -103.27079,20.60776,0 -103.27052,20.60770000000001,0 -103.26941,20.60743,0 -103.26928,20.6074,0 -103.26862,20.60705,0 -103.26704,20.60613,0 -103.2659,20.60527,0 -103.26567,20.60514,0 -103.26555,20.60507,0 -103.26425,20.60431,0 -103.26422,20.60429,0 -103.26358,20.60398,0 -103.26295,20.60377,0 -103.26246,20.60351,0 -103.26206,20.6033,0 -103.26165,20.60308,0 -103.26052,20.60249,0 -103.25979,20.60211,0 -103.25923,20.60183,0 -103.25852,20.60148,0 -103.25813,20.60129,0 -103.25798,20.60119,0 -103.2579,20.60113,0 -103.25687,20.60057,0 -103.25654,20.60044,0 -103.25558,20.60001,0 -103.25529,20.59987,0 -103.25445,20.59946,0 -103.25401,20.59926,0 -103.25341,20.59897,0 -103.25333,20.59893,0 -103.25264,20.5986,0 -103.25182,20.5982,0 -103.2514,20.598,0 -103.25116,20.59789,0 -103.25037,20.59751,0 -103.24897,20.59684,0 -103.24753,20.59615,0 -103.24697,20.59588,0 -103.24658,20.59569,0 -103.24572,20.59528,0 -103.24564,20.59524,0 -103.24524,20.59502000000001,0 -103.24439,20.59456,0 -103.24408,20.5944,0 -103.24337,20.59406,0 -103.24297,20.59388,0 -103.24261,20.5937,0 -103.24215,20.59348,0 -103.24179,20.59329,0 -103.24128,20.59302,0 -103.24087,20.59281,0 -103.24062,20.59267,0 -103.24,20.59232,0 -103.23998,20.5923,0 -103.23991,20.59222,0 -103.23977,20.59206,0 -103.23885,20.59146,0 -103.23876,20.59139,0 -103.23756,20.59066,0 -103.23699,20.59036,0 -103.2367,20.59021,0 -103.23649,20.5901,0 -103.23594,20.58971,0 -103.23504,20.58917,0 -103.2346,20.58887,0 -103.23443,20.58871,0 -103.23318,20.58756,0 -103.23299,20.58739,0 -103.23229,20.58676,0 -103.23001,20.58478,0 -103.22654,20.58185,0 -103.22636,20.58208,0 -103.22626,20.58229,0 -103.22622,20.58244,0 -103.22621,20.58251,0 -103.22621,20.58264,0 -103.2262,20.58296,0 -103.22615,20.58468,0 -103.22607,20.58469,0 -103.22603,20.58469,0 -103.22595,20.5856,0 -103.22594,20.5857,0 -103.2259,20.58652,0 -103.22586,20.58722,0 -103.22572,20.58729,0 -103.22557,20.58735,0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

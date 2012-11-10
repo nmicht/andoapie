@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Lázaro Cárdenas</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.41776</longitude>
+		<latitude>20.67711</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 048-O cruza A las Colinas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.41776,20.67711,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 046-O cruza Santa Catalina de Siena</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.41476,20.67525,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 044-O cruza San Juan de La Cruz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.41292,20.6741,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 043-O cruza El Carmen</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.41342,20.67586,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 042-O cruza Avenida del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.41041,20.67278,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 041-O cruza Avenida del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.40938,20.67378,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 040-O cruza Cerro del Colli</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.40811,20.6717,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 039-O cruza Don Bosco</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.40666,20.67231,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 038-O cruza Avenida San Ignacio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.40568,20.67023,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 037-O cruza Avenida San Ignacio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.4043,20.67102,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 035-O cruza San Uriel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39986,20.66859,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 036-O cruza Fernando de Alba</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.40039,20.66744,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 033-O cruza San Bonifacio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39744,20.6673,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 034-O cruza Avenida Tepeyac</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39655,20.6654,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 031-O cruza Avenida Guadalupe</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39561,20.66617,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 032-O cruza Placeres</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39377,20.66406,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 029-O cruza Avenida Adolfo Lopéz Mateos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3934,20.6648,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 027-O cruza Lorenzana</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39154,20.66376,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 030-O cruza Purisima</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39164,20.66304,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 025-O cruza El Sol</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38894,20.66262,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 028-O cruza Avenida Tonantzin</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38845,20.661,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 023-O cruza Avenida Tonantzin</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3873,20.66171,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 026-O cruza Paseo de La Arboleda</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3865,20.6599,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 021-O cruza Paseo de La Arboleda</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38555,20.66084,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 024-O cruza Abeja</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38235,20.65771,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 022-O cruza Avenida Nance</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38095,20.65697,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 019-O cruza Platano</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37959,20.65752,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 020-O cruza Frente a Capulin</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37776,20.6552,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 018-O cruza Nuez</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37499,20.65359,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 017-O cruza Capulin</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37697,20.65605,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 016-O cruza Avenida Cruz del Sur</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37304,20.65268,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 015-O cruza Naranjo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37247,20.65375,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 014-O cruza Brasil</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37072,20.65139,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 013-O cruza Encino</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36946,20.65218,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 012-O cruza Paraguay</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36889,20.65043,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 011-O cruza Olmo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36877,20.6518,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 010-O cruza Calle 2</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3668,20.64916,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 009-O cruza Codorniz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36461,20.64939,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 008-O cruza Calle 8</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36328,20.64727,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 007-O cruza Condor</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36281,20.64852,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 006-O cruza Calle 12</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36084,20.64595,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 005-O cruza Al cruzar Loro</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36003,20.64692,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 004-O cruza Frente a Huitlacoche</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35741,20.64416,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 003-O cruza Mojonera</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35781,20.64574,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 002-O cruza Calle 22</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35498,20.64271,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 001-O cruza Heróes de Nacozari</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35383,20.64359,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 003-E cruza Calle 13</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35004,20.64029,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 002-E cruza Calle 9</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35119,20.64218,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 001-E cruza Calle 14 A</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35107,20.64076,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 004-E cruza Calle 13</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3481,20.64058,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 005-E cruza Parque de la Liberación</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34791,20.63901,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 006-E cruza Avenida de las Gondolas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34633,20.63951,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 007-E cruza Ramal del Ferrocarril</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34367,20.63637,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 009-E cruza Cebada</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3413,20.6344,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 008-E cruza Avenida Ramal del Ferrocarril</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34239,20.63681,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 011-E cruza Arroz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33978,20.63302,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 010-E cruza Arroz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33773,20.63259,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 013-E cruza 18 de Marzo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33637,20.62997,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 012-E cruza Río Reforma</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33431,20.62976,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 015-E cruza Tolva</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33326,20.62781,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 017-E cruza Fuelle</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33096,20.62619,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 014-E cruza Esmeril</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33134,20.62794,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 016-E cruza Fuelle</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.32945,20.62669,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 018-E cruza Vapor</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.32759,20.62557,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 020-E cruza Prensa</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.32465,20.62509,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 019-E cruza Prensa</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3254,20.62397,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 021-E cruza Alambiques</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.32378,20.62374,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 031-E cruza Circuito Central Camionera</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.29066,20.62694,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 029-E cruza Avenida Pemex</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.29747,20.62737,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 028-E cruza Rufino Tamayo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.2974,20.62882,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 026-E cruza Río Seco</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.30448,20.62622,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 027-E cruza Capulín</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.30474,20.62458,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 024-E cruza Glendale</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.30695,20.62513,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 025-E cruza Frente a Glendale</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.30729,20.62371,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 022-E cruza Matamoros</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.31426,20.62413,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lázaro Cárdenas 023-E cruza Batalla de Zacatecas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.31583,20.62281,0</coordinates>
+			</Point>
+			<end>
+
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

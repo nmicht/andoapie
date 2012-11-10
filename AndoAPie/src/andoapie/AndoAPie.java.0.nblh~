@@ -1,0 +1,77 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package andoapie;
+
+/**
+ *
+ * @author Yun
+ */
+import java.net.*;
+import java.io.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class AndoAPie {
+    /**
+     * @param args
+     * @throws Exception
+     * @throws MalformedURLException
+     */
+
+    public static void main(String[] args) throws MalformedURLException, Exception {
+        // TODO Auto-generated method stub
+        
+        //System.out.println("Reading: "+i);
+        WebFile file= new WebFile("http://www.rutasjalisco.gob.mx/rutas-por-empresas-de-transporte/sistecozome/");
+        Object content = file.getContent( );
+        if ( content instanceof String ){
+            String html = (String)content;
+            //System.out.print(html);
+            /*if(html.contains("bk_detalle_compl_td")){
+                System.gc();
+                System.out.print("Error"+i);
+                continue;
+            }*/
+            //html=html.substring(html.indexOf("ctl00_cphBody_lblNombreCom"),html.indexOf("<!--TERMINA INFORMACION CLIENTE-->"));
+            html=html.substring(html.indexOf("<td class=\"sectiontableheader\" align=\"right\" width=\"5%\">"),html.indexOf("<td align=\"center\" colspan=\"4\" class=\"sectiontablefooter\">"));
+            // System.out.print(html);
+            //System.out.print(borrarBasura(html));
+            html = borrarBasura(html);
+            //filtrado o bd o archivo
+            try{
+                FileWriter fstream = new FileWriter("urls.txt");
+                BufferedWriter out = new BufferedWriter(fstream);
+                out.write(html);
+                out.close();
+                System.out.print("exitos: urls.txt");
+            }catch (Exception e){
+                System.err.println("Error: " + e.getMessage());
+            }
+            //}
+        }
+    }
+
+    private static String borrarBasura(String html){
+        StringBuilder sb=new StringBuilder("");
+        
+        Pattern pattern = 
+        Pattern.compile("/rutas-por-empresas-de-transporte/sistecozome/\\w+?\\.html");
+
+        Matcher matcher = 
+        pattern.matcher(html);
+
+        while (matcher.find()) {
+            sb.append(html.substring(matcher.start(),matcher.end()));
+            sb.append("\n");
+            /*console.format("I found the text" +
+                " \"%s\" starting at " +
+                "index %d and ending at index %d.%n",
+                matcher.group(),
+                matcher.start(),
+                matcher.end());*/
+        }
+        return sb.toString();
+    }
+}

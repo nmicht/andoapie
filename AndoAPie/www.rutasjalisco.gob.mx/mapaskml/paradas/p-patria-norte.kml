@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<name>Paradas oficiales Avenida Patria Norte</name>
+	<visibility>0</visibility>
+	<Style id="sn_bus-stop20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop21">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop00">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop000">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop001">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop22">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Patria Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 058-N cruza con Avenida Alcalde</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.34521,20.71651,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 002-N cruza con Gabrielle D&apos; Annunzio</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.42201,20.67984,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 004-N cruza con Frente a Lomas Altas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.42106,20.68496,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 001-N cruza con Lomas Altas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.42032,20.68428,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 003-N cruza con Naciones Unidas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41973,20.68737,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 006-N cruza con Naciones Unidas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.42057,20.68809,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 005-N cruza con B. Traven</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41888,20.68883,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 008-N cruza con Salvador de Madariaga</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41848,20.6901,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 010-N cruza con Pablo Neruda</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41588,20.69218,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 007-N cruza con Pablo Neruda</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41498,20.69092,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 012-N cruza con Frente a Paseo de Los Parques</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41594,20.69426,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 009-N cruza con Paseo de Los Parques</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41512,20.69342,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 014-N cruza con Frente a Paseo Loma Larga</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41602,20.69546,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 011-N cruza con Del Muro</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41521,20.69562,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 013-N cruza con Paseo del Roble</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41578,20.6984,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 016-N cruza con Circuito interno UAG</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41666,20.69872,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 015-N cruza con Circuito Madrigal</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41549,20.69972,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 018-N cruza con Ingreso UNICO</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.4158,20.70222,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 017-N cruza con San Edmundo</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41438,20.70276,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 020-N cruza con Frente a San Edmundo</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41479,20.704,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 019-N cruza con Frente a Paseo Royal Country</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41323,20.70497,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 022-N cruza con Paseo Royal Country</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41381,20.70613,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 024-N cruza con Boulevard Puerta de Hierro</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41196,20.70788,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 021-N cruza con Frente a Boulevard Puerta de Hierro</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.41216,20.70677,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 023-N cruza con Avenida Acueducto</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.40753,20.70907,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 026-N cruza con Avenida Acueducto</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.40741,20.71062,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 025-N cruza con Frente Paseo Atlas Colomos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.40319,20.71071,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 028-N cruza con Paseo Atlas Colomos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.40202,20.71167,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 027-N cruza con Ingreso Parque de Los Colomos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.39959,20.71054,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 030-N cruza con Frente Ingreso Parque de Los Colomos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.39966,20.71187,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 029-N cruza con Frente a Eva Briseño</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.39452,20.71077,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 032-N cruza con Eva Briseño</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.39331,20.71133,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 031-N cruza con Segundo Ingreso Parque Colomos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.39151,20.70894,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 034-N cruza con Avenida Romanos</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.38674,20.71068,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 033-N cruza con Alberta</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.38904,20.70911,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 036-N cruza con Cricuito Medas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.38411,20.71129,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 035-N cruza con Asunción</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.38126,20.71057,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 038-N cruza con Avenida de las Américas</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.38102,20.71246,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 040-N cruza con Frente a Plaza Patria</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37862,20.71352,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 037-N cruza con Avenida Manuel Avila Camacho</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37554,20.7115,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 042-N cruza con Avenida Manuel Avila Camacho</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.3759,20.7133,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 039-N cruza con Frente a Lago Ginebra</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37367,20.71284,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 044-N cruza con Lago Ginebra</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37333,20.71389,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 046-N cruza con Laguna de Pescadores</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37056,20.71397,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 041-N cruza con Avenida de La Presa</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.37051,20.7128,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 043-N cruza con Calle H-4</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.36842,20.71268,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 048-N cruza con Lago Superior</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.36776,20.71354,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 045-N cruza con Frente a Lomas de Zoquipan</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.36337,20.71232,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 050-N cruza con Lomas de Zoquipan</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.36304,20.71313,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 047-N cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.36148,20.71258,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 052-N cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.3611,20.71369,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 049-N cruza con Otumba</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.35873,20.71351,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 054-N cruza con Lomas Grandes</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.35868,20.71449,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 056-N cruza con Iturbide</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.35518,20.71584,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 051-N cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop110</styleUrl>
+			<Point>
+				<coordinates>-103.35528,20.7149,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</kml>

@@ -1,0 +1,2434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Circunvalación</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.36042</longitude>
+		<latitude>20.70784</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop312">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1011">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop040">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop312</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop14800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1480">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2120">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1470">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop14800">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Circunvalación - Adolfo López Mateos Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 015-N cruza con Isabel Prieto</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37561,20.69131,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 013-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37741,20.68853,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 011-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37944,20.68549,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 009-N cruza con Martín Casillas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38076,20.68365,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 007A-N cruza con Antonio de León</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38208,20.68178,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 007-N cruza con Tomás V. Gómez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38269,20.68065,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 005-N cruza con Severo Díaz</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38416,20.67831,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 003-N cruza con Justo Sierra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38501,20.67705,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 001-N cruza con Fernando de Celada</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38641,20.67492,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 002-N cruza con Fernando de Celada</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38672,20.6761,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 006-N cruza con Reforma</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38405,20.68023,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 008-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38277,20.68208,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 010-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38092,20.68491,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 012-N cruza con Del Rotarismoi</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38002,20.68619,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 014-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37787,20.68957,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 019-N cruza con Florencia</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37602,20.69236,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 017-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37432,20.69358,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 018-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37454,20.69488,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Plutarco Elias Calles Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 019-N cruza con Hacienda Lacroix</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29429,20.6852,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 017-N cruza con San Pedro</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29446,20.68344,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 015-N cruza con José María Iglesias</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29372,20.67975,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 013-N cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29435,20.67782,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 011-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29492,20.6757,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 009-N cruza con Frente a Tanger</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29521,20.67433,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 007-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29546,20.67106,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 005-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29644,20.66915,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 003-N cruza con Dionisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29708,20.66606,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 001-N cruza con Javier Mina</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29756,20.66343,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 002-N cruza con Gigantes</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29873,20.66267,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 004-N cruza con Javier Mina</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29842,20.66435,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 006-N cruza con Dionisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29787,20.66684,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 008-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29728,20.66984,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 010-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29621,20.67223,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 012-N cruza con Tanger</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29614,20.67461,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 014-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29568,20.67669,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 016-N cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.2952,20.67868,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 018-N cruza con San Esteban</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29517,20.68075,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 020-N cruza con San Pedro</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29547,20.68446,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Plutarco Elias Calles 022-N cruza con Hacienda Lacroix</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29526,20.68604,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 024-N cruza con Artesanos</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29547,20.68788,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación San Jacinto Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 002-S cruza con Gigantes</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29793,20.66186,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 004-S cruza con Gómez Farías</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29819,20.65991,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 006-S cruza con José María Verea</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29858,20.65748,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 008-S cruza con Adrián Puga</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.2989,20.65552,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 010-S cruza con Frente a Ciencias</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29913,20.65371,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 012-S cruza con Avenida Historiadores</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30094,20.6503,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 014-S cruza con F. González de Oviedo</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30354,20.64901,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 016-S cruza con Calzada Revolución</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.3065,20.64746,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 018-S cruza con Carpinteros</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30869,20.64635,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 017-S cruza con Ramón López Velarde</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.31079,20.64636,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 015-S cruza con Naranjos</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30864,20.64738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 013-S cruza con Calzada Revolución</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30543,20.649,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 011-S cruza con Garcilazo</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.3034,20.65004,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 009-S cruza con Del Parque</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30067,20.65156,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Rafael 007-S cruza con Ciencias</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.30006,20.65428,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 005-S cruza con César Cantú</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29984,20.65556,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 003-S cruza con José María Verea</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29935,20.65856,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Jacinto 001-S cruza con Gómez Farías</description>
+			<styleUrl>#sn_bus-stop001</styleUrl>
+			<Point>
+				<coordinates>-103.29901,20.66063,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Oblatos Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 025-E cruza con Hacienda Ojo Zarco</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29756,20.68848,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 023-E cruza con Francisco Sarabia</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29972,20.68891,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021B-E cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30143,20.6892,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021A-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30291,20.68955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 021-E cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30437,20.68993,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 017-E cruza con San Tito</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30688,20.69042,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 015-E cruza con Santa Fe</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31043,20.69106,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 013-E cruza con Calzada del Obrero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31214,20.6914,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 009-E cruza con Puerto Topolobampo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32231,20.69306,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 007-E cruza con Monte Parnaso</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32451,20.69374,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 005-E cruza con Monte Albán</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32668,20.69476,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 003-E cruza con Monte Everest</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32834,20.69558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 001-E cruza con Montes Pirineos</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32983,20.69629,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 004-E cruza con Monte Everest</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3273,20.69615,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 011A-E cruza con Santa Rosalía</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31471,20.6918,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 011-E cruza con Monte Blanco</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31766,20.69231,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 002-E cruza con Montes Pirineos</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32896,20.69691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Dr. Atl 006-E cruza con Monte Albán</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32565,20.69534,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 008-E cruza con Belisario Domínguez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32261,20.69402,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 010-E cruza con Puerto del Carmen</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31704,20.69311,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 012-E cruza con Puerto Angel</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31496,20.69284,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 014-E cruza con Puerto Champoton</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31246,20.69242,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 016-E cruza con Calzada del Obrero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30969,20.69189,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 018-E cruza con Juan de Dios Robledo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30695,20.69134,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 020-E cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30353,20.69073,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 022-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30168,20.6904,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 024-E cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.30032,20.6901,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 026-E cruza con Hacienda Ojo Zarco</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29656,20.68934,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Oblatos 026A-E cruza con Al pasar Joaquín Amaro</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.29438,20.68841,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Washington Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 012-E cruza con Amado Aguirre</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31191,20.64654,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 015-S cruza con Río Santiago</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32936,20.65104,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 017-S cruza con Río Támesis</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33052,20.65052,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 017A-S cruza con Rio Amacuzac</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33469,20.65038,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 019-S cruza con Calzada Olímpica</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.335,20.65032,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 021-S cruza con Frente Ingreso Parque González Gallo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33803,20.64888,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 026-S cruza con Dr. R. Michel</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33998,20.64908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Salvador López Chavez 024-S cruza con Calzada Jesús González Gallo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33568,20.65101,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 022-S cruza con Río Suchiate</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3323,20.6509,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Olimpica 020-S cruza con Río Rhin</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3308,20.65147,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 011-E cruza con Ramón López Velarde</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.312,20.64566,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 009-E cruza con Feníx</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31407,20.64635,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 007-E cruza con Ibis</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31662,20.64719,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 005-E cruza con Apis</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31887,20.64797,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 003-E cruza con M. Gómez Pedraza</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32124,20.64876,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 001-E cruza con Blvr. Marcelino García Barragan</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32406,20.64976,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 011-E cruza con Frente a Salvador Lopéz Chavéz</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34105,20.64855,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 009-E cruza con Priv. Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34249,20.65091,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 007-E cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3438,20.653,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Calzada Jesús González Gallo</description>
+			<styleUrl>#sn_bus-stop1480</styleUrl>
+			<Point>
+				<coordinates>-103.34492,20.65424,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 003-E cruza con Saladero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34832,20.655,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 001-E cruza con Nueva York</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35083,20.65647,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 002-E cruza con Calzada Independencia Sur</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35028,20.65738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 002A-E cruza con Plaza Juárez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35126,20.65772,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Washington 004-E cruza con Comercio Exterior</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34657,20.6551,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 010-E cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34278,20.6528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>R. Michel C.F. 012-E cruza con Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34129,20.65053,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 002-E cruza con Avenida Presidentes</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3224,20.65014,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 004-E cruza con M. Gómez Pedraza</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.32049,20.64945,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 006-E cruza con Ramón Pacheco</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31856,20.64883,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 008-E cruza con Joaquín Herrera</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31654,20.64812,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Rio Nilo 010-E cruza con J. M. Castaños</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.31404,20.64729,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Atemajac - Divición del Norte Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 018-O cruza con Avenida Alcalde</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34792,20.70441,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 016-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34638,20.70404,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 015-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34528,20.70461,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 012-O cruza con Aurelio González</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34413,20.703,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 013-O cruza con Aurelio González</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34283,20.70353,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 012-O cruza con Fray Junipero Serra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34122,20.70167,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 011-O cruza con Fray Junipero Serra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34003,20.70226,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 010-O cruza con J. M. Rodríguez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33943,20.70085,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 009-O cruza con J. M. Rodríguez</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33817,20.70137,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 006-O cruza con Platón</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33524,20.69887,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 004-O cruza con Sierra Leona</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3338,20.6983,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 002-O cruza con Siete Colinas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33188,20.69731,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 005-O cruza con Platón</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3344,20.69956,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 003-O cruza con Sierra Leona</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33297,20.6988,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 001-O cruza con Siete Colinas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33072,20.69779,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 027-O cruza con Prolongación Avenida Munguia</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36042,20.70784,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 008-O cruza con Avenida Normalistas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33699,20.69976,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 007-O cruza con F. Lizardi</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.33716,20.70084,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 021A-O cruza con Mezquitan</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35429,20.70728,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 024-O cruza con A. de la Mota</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35427,20.70624,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 021-O cruza con Juan Gómez de Parada</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35319,20.70716,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 022-O cruza con M. Gordoa</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35214,20.70597,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 019-O cruza con M. Gordoa</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35141,20.70691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 020-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34922,20.70528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 017-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.34786,20.70578,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 042-O cruza con Acatempan</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37236,20.69601,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 041-O cruza con Mar Caribe</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37228,20.69725,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 039-O cruza con Plan de San Luis</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37132,20.69795,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 037-O cruza con Mar Rojo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3694,20.69943,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 040-O cruza con Mar Rojo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36932,20.69824,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 035-O cruza con Mar Caspio</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36736,20.70154,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 038-O cruza con Mar Caspio</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.367,20.70042,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 036A-O cruza con Mar del Norte</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36553,20.7023,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 033A-O cruza con Mar del Norte</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36599,20.7035,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 036-O cruza con Mar Marmara</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36469,20.70352,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 033-O cruza con Mar Marmara</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36505,20.70476,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Providencia 032-O cruza con La Soledad</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36328,20.70555,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Providencia 029-O cruza con Mesones</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36342,20.70695,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 030-O cruza con Prolongación Avenida Munguia</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35965,20.70691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 025-O cruza con Paseo Poniente</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35852,20.70773,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 023-O cruza con Vizcainas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.356,20.70738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 028-O cruza con Paseo Oriente</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35833,20.70684,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 026-O cruza con 6 de Diciembre</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35635,20.70652,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Eduwigues - Agustín Yáñez Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 004-O cruza con Justo Sierra</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38544,20.67803,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 006A-O cruza con Santa María</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38492,20.67886,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 002-O cruza con Calzada del Aguila</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35428,20.6578,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 004-O cruza con 8 de Julio</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35679,20.65873,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 006-O cruza con Avenida Colón</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35927,20.65964,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 008-O cruza con Avenida Enrique Díaz de León</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36182,20.66063,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 010-O cruza con Frente al Pasar Argentina</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36346,20.66126,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 012-O cruza con Venezuela</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36509,20.6619,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 014-O cruza con Frente Avenida Chapultepec</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36836,20.66311,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 016-O cruza con Frente Avenida Unión</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37394,20.66528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 020-O cruza con Avenida Niños Héroes</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37736,20.66661,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 022-O cruza con Francisco de Quevedo</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37928,20.66733,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 024-O cruza con Juan de Mena</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38197,20.66835,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 026-O cruza con Argensola</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38444,20.66943,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 028-O cruza con Avenida La Paz</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3867,20.67232,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 027-O cruza con Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38618,20.67323,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 025-O cruza con Avenida De La Paz</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38518,20.67192,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 023-O cruza con Lerdo de Tejada</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38351,20.67004,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 021-O cruza con Lope de Vega</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37958,20.66844,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 017B-O cruza con Al Cruzar Siete Colinas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37579,20.66707,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 019-O cruza con Vidrio</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37671,20.66738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 017A-O cruza con Avenida Niños Héroes</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37441,20.66649,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 017-O cruza con Avenida Unión</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37288,20.66589,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 015-O cruza con Avenida Mariano Otero</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.37078,20.66515,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 013-O cruza con Avenida Chapultepec</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36773,20.66403,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 011-O cruza con Bruselas</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.3659,20.66328,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 009-O cruza con Argentina</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36319,20.66234,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 007-O cruza con Avenida Enrique Díaz de León</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.36056,20.66127,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 005-O cruza con Quetzal</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35695,20.65992,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 003-O cruza con 8 de Julio</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35555,20.65937,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Eduwigues 001-O cruza con Calzada del Aguila</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.35322,20.65846,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Yañez 030-O cruza con Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop040</styleUrl>
+			<Point>
+				<coordinates>-103.38738,20.6733,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

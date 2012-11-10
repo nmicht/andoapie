@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Avenida Vallarta</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.45663</longitude>
+		<latitude>20.69826</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Vallarta</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 033-O cruza con Anillo Periferico</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.45663,20.69826,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 034-O cruza con Anillo Periferico Concentro</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.45298,20.6926,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 031-O cruza con Anillo Periferico frente a Concentro</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.45225,20.6932,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 032-O cruza con Etzatlán frente a Av. del Tule</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.45143,20.69127,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 030-O cruza con Etzatlán</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44958,20.68987,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 029-O cruza con Av. del Tule</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44891,20.69064,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 028-O cruza con Pirules</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44773,20.68846,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 027-O cruza con Madero frente a Pirules</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44619,20.68838,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 026-O cruza con Calzada de las Palmas</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44527,20.68659,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 025-O cruza con Madero frente a Calzada de las Palmas</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44381,20.6866,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 024-O cruza con Calzada Central</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44363,20.68528,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 023-O cruza con Hípico</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44204,20.68518,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 021-O cruza con López Cotilla</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.43905,20.68303,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 022-O cruza con Calzada Nueva</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.44064,20.68306,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 020-O cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.43756,20.68155,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 019-O cruza con Juárez Frente a Guadalupe Victoria</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.43619,20.68229,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 018-O cruza con José Clemente Orozco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.43427,20.6808,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 017-O cruza con Toulouse Lautrec</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.43329,20.68169,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 016-O cruza con Rafael Sanzio</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.4295,20.67993,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 015-O cruza con Av. de los Escritores</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.42838,20.68056,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 014-O cruza con Velázquez</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.42648,20.67921,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 013-O cruza con Charles Dickens</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.42509,20.67994,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 012-O cruza con Av. de La Patria</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.42245,20.67836,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 010-O cruza con A las Montañas</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.41981,20.67782,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 011-O cruza con Maurice Baring</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.42026,20.67879,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 009-O cruza con Calle sin nombre frente a los cubos</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.41594,20.67805,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 008-O cruza con Av. Del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.40981,20.67564,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 007-O cruza con Frente a Av. Del Niño Obrero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.40876,20.67649,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 006-O cruza con Don Bosco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.40685,20.67506,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 005-O cruza con Frente a Don Bosco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.40612,20.6759,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 004-O cruza con Barra de Navidad</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.39397,20.67382,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 003-O cruza con Juan Palomar Arias</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.39337,20.6748,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 002-O cruza con Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.38931,20.67376,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Vallarta 001-O cruza con Isabel La Católica</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.38943,20.67479,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

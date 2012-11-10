@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Avenida Adolfo López Mateos Sur</name>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Adolfo López Mateos Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>L. Mateos 055-S</name>
+			<visibility>0</visibility>
+			<description>Plaza El Palomar</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.4439,20.5897,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 066-S</name>
+			<visibility>0</visibility>
+			<description>San Juan</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44065,20.59258,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 053-S</name>
+			<visibility>0</visibility>
+			<description>Paseo del Palomar</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44182,20.59299,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 064-S</name>
+			<visibility>0</visibility>
+			<description>San Antonio</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43959,20.59407,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 062-S</name>
+			<visibility>0</visibility>
+			<description>Celestino Pérez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43721,20.5977,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 051-S</name>
+			<visibility>0</visibility>
+			<description>Av. de los Azahares</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43742,20.59948,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 060-S</name>
+			<visibility>0</visibility>
+			<description>Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43564,20.60005,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 049-S</name>
+			<visibility>0</visibility>
+			<description>Compositores</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43399,20.60464,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 058-S</name>
+			<visibility>0</visibility>
+			<description>Vicente Guerrero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43356,20.60315,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 047-S</name>
+			<visibility>0</visibility>
+			<description>Nicolás Bravo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43281,20.60644,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 056-S</name>
+			<visibility>0</visibility>
+			<description>Justo Sierra</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43159,20.6062,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 045-S</name>
+			<visibility>0</visibility>
+			<description>Anastasio Bustamante</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43128,20.60882,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 054-S</name>
+			<visibility>0</visibility>
+			<description>Francisco Villa</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42927,20.60965,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 043-S</name>
+			<visibility>0</visibility>
+			<description>Anastasio Bustamante</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43059,20.60997,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 052-S</name>
+			<visibility>0</visibility>
+			<description>Felipe Angeles</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.4283,20.61114,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 041-S</name>
+			<visibility>0</visibility>
+			<description>Camino a Santa Ana Tepetitlán</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42852,20.6128,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 050-S</name>
+			<visibility>0</visibility>
+			<description>Camino al Iteso</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42481,20.61665,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 048-S</name>
+			<visibility>0</visibility>
+			<description>Camino al Iteso</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42367,20.61819,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 039-S</name>
+			<visibility>0</visibility>
+			<description>San Antonio</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42509,20.61814,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 046-S</name>
+			<visibility>0</visibility>
+			<description>Av. de Las Fuentes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42233,20.62043,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 037-S</name>
+			<visibility>0</visibility>
+			<description>Av. de Las Fuentes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42271,20.62164,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 044-S</name>
+			<visibility>0</visibility>
+			<description>Bonampak</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42104,20.62234,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 035-S</name>
+			<visibility>0</visibility>
+			<description>Circunvalción Norte</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42144,20.62365,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 042-S</name>
+			<visibility>0</visibility>
+			<description>Av. Valle de Atemajac</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41938,20.62485,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 033-S</name>
+			<visibility>0</visibility>
+			<description>Galileo Galilei</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41993,20.62606,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 040-S</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41779,20.62717,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 031-S</name>
+			<visibility>0</visibility>
+			<description>Av. Nicolas Copernico</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41806,20.62844,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 038-S</name>
+			<visibility>0</visibility>
+			<description>Cerro Gordo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41623,20.6295,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 029-S</name>
+			<visibility>0</visibility>
+			<description>Unidad Administrativa Sur</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.416,20.6314,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 036-S</name>
+			<visibility>0</visibility>
+			<description>Orión</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41431,20.63244,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 034-S</name>
+			<visibility>0</visibility>
+			<description>Av. Patria</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41339,20.6339,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 027-S</name>
+			<visibility>0</visibility>
+			<description>Av. La Calma</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41361,20.63538,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 032-S</name>
+			<visibility>0</visibility>
+			<description>Aguilar Figueroa</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41158,20.63661,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 025-S</name>
+			<visibility>0</visibility>
+			<description>Pegaso</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41224,20.6376,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 030-S</name>
+			<visibility>0</visibility>
+			<description>C. 3</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41042,20.63828,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 023-S</name>
+			<visibility>0</visibility>
+			<description>Frente a C.3</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.411,20.63936,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 028-S</name>
+			<visibility>0</visibility>
+			<description>J. Gil Preciado</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40888,20.64073,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 021-S</name>
+			<visibility>0</visibility>
+			<description>Frente a J. Gil Preciado</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40929,20.64196,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 026-S</name>
+			<visibility>0</visibility>
+			<description>La Giralda</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40706,20.6434,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 019-S</name>
+			<visibility>0</visibility>
+			<description>Frente a la Giralda</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40759,20.64449,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 024-S</name>
+			<visibility>0</visibility>
+			<description>Lapislázuli</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40585,20.64524,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 022-S</name>
+			<visibility>0</visibility>
+			<description>Av. Mariano Otero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40362,20.64862,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 017-S</name>
+			<visibility>0</visibility>
+			<description>Tenochtitlán</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40494,20.6485,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 020-S</name>
+			<visibility>0</visibility>
+			<description>Av. Plaza del Sol</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40216,20.65089,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 018-S</name>
+			<visibility>0</visibility>
+			<description>Av. Plaza del Sol</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40132,20.65207,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 015-S</name>
+			<visibility>0</visibility>
+			<description>Chimalhuacán</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.4027,20.65195,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 016-S</name>
+			<visibility>0</visibility>
+			<description>Cubilete</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39937,20.65508,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 013-S</name>
+			<visibility>0</visibility>
+			<description>Popocatépetl</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39984,20.65622,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 012-S</name>
+			<visibility>0</visibility>
+			<description>Cubilete</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39834,20.65652,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 011-S</name>
+			<visibility>0</visibility>
+			<description>Cubilete</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39897,20.6576,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 005-S</name>
+			<visibility>0</visibility>
+			<description>Calz. Lazáro Cardenas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39377,20.66546,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 002-S</name>
+			<visibility>0</visibility>
+			<description>Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38797,20.6726,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 004-S</name>
+			<visibility>0</visibility>
+			<description>San Gabriel</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39023,20.66908,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 006-S</name>
+			<visibility>0</visibility>
+			<description>Al Cruzar Av. Niños Héroes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39153,20.66717,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 010-S</name>
+			<visibility>0</visibility>
+			<description>Antonio Valeriano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39507,20.66158,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 008-S</name>
+			<visibility>0</visibility>
+			<description>Calz. Lazáro Cardenas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39366,20.66392,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 012A-S</name>
+			<visibility>0</visibility>
+			<description>Capuchinas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3961,20.66005,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 009-S</name>
+			<visibility>0</visibility>
+			<description>Av. de las Rosas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39733,20.66003,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 007-S</name>
+			<visibility>0</visibility>
+			<description>Antonio Valeriano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39518,20.66327,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 001-S</name>
+			<visibility>0</visibility>
+			<description>Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3882,20.67381,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>L. Mateos 003-S</name>
+			<visibility>0</visibility>
+			<description>Av. Guadalupe</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39254,20.66735,0</coordinates>
+			</Point>
+			<end>
+    <TimeInstant><timePosition><time>2010-12-15T00:27:07Z</time></timePosition></TimeInstant>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,12 @@
+http://www.rutasjalisco.gob.mx/mapaskml/premier/ruta702.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/premier/ruta706.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/tur/ruta702-via-p-outlet.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-lopez-mateos.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/premier/ruta709.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-enrique-diaz-sur.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/premier/rutas-premier.kml
+

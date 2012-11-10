@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<name>Paradas oficiales Avenida Patria Oeste</name>
+	<visibility>0</visibility>
+	<Style id="sn_bus-stop3">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop21">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop4">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Patria Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 007-O cruza con Frente a Real  de Los Almendros</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28598,20.62931,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 003-O cruza con Maximiliano Reyes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28534,20.63335,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 005-O cruza con Niños Héroes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28568,20.63209,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 001-O cruza con Félix Cervantes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28487,20.63495,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 016-O cruza con Real  de Los Almendros</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28522,20.62855,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 012-O cruza con Frente a Maximiliano Reyes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28466,20.63265,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 014-O cruza con Niños Héroes</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28516,20.63088,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 010-O cruza con Alvarez del Castillo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28432,20.63375,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 006-O cruza con Del Lirio</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.2823,20.63718,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 008-O cruza con Avenida de la Soledad</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28347,20.63579,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 004-O cruza con Del Abedul</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28097,20.63933,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 002-O cruza con Maple</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.28007,20.64096,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</kml>

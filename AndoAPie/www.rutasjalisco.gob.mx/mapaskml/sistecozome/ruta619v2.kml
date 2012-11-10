@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ruta 619 v2</name>
+	<open>1</open>
+	<StyleMap id="msn_bus-terminal154655">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_bus-terminal15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_bus-terminal15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin28555">
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sn_ylw-pushpin61755">
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sh_ylw-pushpin244555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3c14ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2014555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin1010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3014555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff996600</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sn_ylw-pushpin81455">
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sn_bus-terminal1132">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal27455">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2137</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal27656">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal28356</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal27656</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus-terminal27656">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24755">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ff996600</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<StyleMap id="msn_bus-terminal2130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2137</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin31755">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal10555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin25655">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4014555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_bus-terminal27455">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin61655">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1024555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin71655">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin51755">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal1130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-terminal2137">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3004555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin274555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal211455">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin201755">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal17655">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-terminal28155">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2014555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3014555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin2010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin053">
+		<LineStyle>
+			<color>ff996600</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sh_bus-terminal1131">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21955">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin41755">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal211455">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin161555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin305555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin356">
+		<LineStyle>
+			<color>ff996633</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sn_ylw-pushpin01855">
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin244555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-terminal211455">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10104555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal154655">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_bus-terminal10555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal254655">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_bus-terminal25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_bus-terminal25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin611455">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b8633</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal254655">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal17855">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin511555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1024555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fff55</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0004555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin171555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus-terminal254655">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0004555">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3c14ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal17655">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal10455">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3014555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<LineStyle>
+			<color>ff996633</color>
+			<width>2</width>
+		</LineStyle>
+		<icon><href>root://icons/palette-4.png?x=160<![CDATA[&]]>y=0<![CDATA[&]]>w=32<![CDATA[&]]>h=32</href></icon>
+	</Style>
+	<Style id="sn_bus-terminal28356">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4014555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sh_ylw-pushpin401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus-terminal154655">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20104555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4014555">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7fff55</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal2130">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin000004555">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>C:/Users/Ralf/Documents/ITESO/7/OCOIT/Mapas/ALIANZA/Nueva carpeta/ruta50a-v2.kml#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Terminales</name>
+		<Placemark>
+			<name>Terminal Retorno Ruta 619</name>
+			<LookAt>
+				<longitude>-103.2992123653393</longitude>
+				<latitude>20.61404979739951</latitude>
+				<altitude>0</altitude>
+				<heading>0.007768999373438167</heading>
+				<tilt>0</tilt>
+				<range>4348.648280762475</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal2130</styleUrl>
+			<Point>
+				<coordinates>-103.2854444082204,20.61925118135756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terminal Ruta 619</name>
+			<LookAt>
+				<longitude>-103.3370320186656</longitude>
+				<latitude>20.50694038789384</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00554895194531407</heading>
+				<tilt>0</tilt>
+				<range>11732.36984686392</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal1130</styleUrl>
+			<Point>
+				<coordinates>-103.3693209209356,20.50637648135667,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Derrotero Ida Ruta 619 v2</name>
+		<styleUrl>#sn_ylw-pushpin</styleUrl>
+		<LineString>
+			<coordinates>
+				-103.36886,20.50672,0 -103.36868,20.50701,0 -103.36846,20.50734,0 -103.36823,20.50766,0 -103.36801,20.50799,0 -103.3678,20.50833,0 -103.36746,20.50883,0 -103.36723,20.50917,0 -103.36657,20.51015,0 -103.36635,20.51048,0 -103.36554,20.51169,0 -103.36521,20.51217,0 -103.36498,20.51231,0 -103.3652,20.51228,0 -103.3663345093873,20.51227956065597,0 -103.3672848358115,20.51220258921982,0 -103.36889,20.51206,0 -103.37002,20.51206,0 -103.37126,20.51207,0 -103.3730075422825,20.51222244039685,0 -103.3738685659132,20.512011209567,0 -103.37887,20.51271,0 -103.37834,20.5168,0 -103.38035,20.51708,0 -103.38084,20.51714,0 -103.38215,20.5173,0 -103.38381,20.51749,0 -103.38465,20.5176,0 -103.38747,20.51794,0 -103.38734,20.51895,0 -103.38724,20.5197,0 -103.38707,20.52103,0 -103.38704,20.52129,0 -103.38697,20.52183,0 -103.38688,20.52208,0 -103.3864,20.52282,0 -103.38622,20.5231,0 -103.38589,20.52362,0 -103.38562,20.52384,0 -103.38446,20.52432,0 -103.38438,20.52515,0 -103.38426,20.52638,0 -103.38425,20.52685,0 -103.38425,20.52693,0 -103.38418,20.52768,0 -103.38372,20.52798,0 -103.3831,20.52824,0 -103.38119,20.52876,0 -103.3801,20.52896,0 -103.37818,20.52909,0 -103.3774,20.52916,0 -103.37693,20.52921,0 -103.3766,20.52926,0 -103.37651,20.52928,0 -103.37577,20.52935,0 -103.37551,20.52937,0 -103.37496,20.52942,0 -103.3746,20.52946,0 -103.37379,20.52953,0 -103.37351,20.52955,0 -103.37329,20.52958,0 -103.37254,20.52968,0 -103.37241,20.5297,0 -103.37232,20.52972,0 -103.37123,20.52985,0 -103.36969,20.52995,0 -103.36934,20.5304,0 -103.36897,20.5309,0 -103.36882,20.53108,0 -103.36831,20.53176,0 -103.36812,20.532,0 -103.36792,20.53227,0 -103.36779,20.53243,0 -103.3671,20.53334,0 -103.36406,20.53719,0 -103.36259,20.53903,0 -103.36134,20.54061,0 -103.35934,20.54315,0 -103.35873,20.54391,0 -103.35846,20.54426,0 -103.35805,20.54502,0 -103.3576,20.54587,0 -103.35733,20.54636,0 -103.35708,20.54711,0 -103.35701,20.5474,0 -103.35656,20.54746,0 -103.35279,20.54724,0 -103.3529,20.54753,0 -103.35294,20.54763,0 -103.35314,20.548,0 -103.35323,20.54817,0 -103.3535,20.54857,0 -103.35356,20.54862,0 -103.35602,20.55044,0 -103.35622,20.55059,0 -103.35648,20.55082,0 -103.35931,20.55295,0 -103.36157,20.55467,0 -103.36236,20.55527,0 -103.36456,20.55692,0 -103.3653,20.5579,0 -103.36588,20.55866,0 -103.36635,20.55913,0 -103.36661,20.55969,0 -103.36668,20.56018,0 -103.36663,20.56068,0 -103.36584,20.56453,0 -103.36493,20.56909,0 -103.36472,20.5698,0 -103.3644577005456,20.5711393196417,0 -103.3639808525067,20.5729550967717,0 -103.3632064139756,20.57544886000488,0 -103.3625429948572,20.57760978857395,0 -103.3622248376789,20.57750709238917,0 -103.3617312477996,20.57738364153163,0 -103.3611461947288,20.57724921643696,0 -103.3596655211156,20.57686882328829,0 -103.3587306789884,20.57670386863434,0 -103.3550882701948,20.57638234309406,0 -103.3530930610913,20.57624525344465,0 -103.3505471919911,20.57601714010969,0 -103.3495200712792,20.57597643551816,0 -103.3487168070446,20.57598460803906,0 -103.3478891983371,20.57618082004946,0 -103.3464070741036,20.57689905733737,0 -103.34338799435,20.5785447668196,0 -103.3402648796716,20.58028695630776,0 -103.3361636426807,20.58251697350357,0 -103.330118690346,20.58581685130731,0 -103.3258171215701,20.58813187076282,0 -103.3237046083046,20.58927077195887,0 -103.3226762263853,20.58983619484687,0 -103.321361417788,20.59068256748186,0 -103.3211518609839,20.59081756904366,0 -103.3206822759726,20.59084076238802,0 -103.3204570370962,20.59074702628938,0 -103.3203315470681,20.59047534196865,0 -103.3204423531237,20.59015084766743,0 -103.3206439470509,20.590046146395,0 -103.3209131035207,20.59001476854783,0 -103.3213053144155,20.59023461995671,0 -103.3219132121444,20.59165447790621,0 -103.3241252821139,20.59622923173092,0 -103.3244144253596,20.5970387068069,0 -103.3244263358516,20.5980860208844,0 -103.32422,20.5987,0 -103.32409,20.59901,0 -103.32348,20.59993,0 -103.32302,20.60056,0 -103.32293,20.60068,0 -103.32262,20.60098,0 -103.32235,20.60124,0 -103.32163,20.60178,0 -103.32042,20.60256,0 -103.32024,20.60267,0 -103.32011,20.60274,0 -103.3193405162683,20.60307581500231,0 -103.318999378766,20.60327414308044,0 -103.31793,20.60387,0 -103.3169805841136,20.60435580002851,0 -103.3164537036869,20.60476456656851,0 -103.3161031943808,20.60516014037436,0 -103.31584,20.60559,0 -103.31577,20.60573,0 -103.31573,20.60582,0 -103.31563,20.60614,0 -103.31558,20.60632,0 -103.31557,20.60637,0 -103.31547,20.60694,0 -103.31542,20.60718,0 -103.3153510873215,20.60820113108704,0 -103.3153581735102,20.60867154605258,0 -103.3154716592854,20.60937262866424,0 -103.3157016777842,20.6101327119865,0 -103.3161010673068,20.61084459586405,0 -103.317957496109,20.612749040966,0 -103.3202743057442,20.61502972602313,0 -103.3212732837523,20.61611377636862,0 -103.321659894109,20.61696927155067,0 -103.3216633410979,20.61886437240291,0 -103.320025614266,20.61872680579094,0 -103.3199352719743,20.61857879954311,0 -103.319788447225,20.61851535813995,0 -103.3195964278377,20.61859991032295,0 -103.3195738248259,20.61872676357734,0 -103.3196754605692,20.61888534225548,0 -103.3194380575238,20.62085157055266,0 -103.3193363964787,20.62091498843898,0 -103.3193476622355,20.62117927103762,0 -103.3195170779787,20.62125328588986,0 -103.3196300363436,20.62116872635254,0 -103.3212020552243,20.62132985269238,0 -103.3210736366402,20.6221356280832,0 -103.32083,20.62259,0 -103.32046,20.62281,0 -103.3198,20.62296,0 -103.31971,20.62298,0 -103.31924,20.62311,0 -103.31804,20.62351,0 -103.3165693801475,20.62356469918952,0 -103.3153259051152,20.62346803449458,0 -103.3137317599462,20.62333065886484,0 -103.3108617730507,20.62325290231585,0 -103.3094678473711,20.6235044593419,0 -103.3076520043582,20.62409576645774,0 -103.3071794524988,20.62428263810623,0 -103.3064299747946,20.62471036353193,0 -103.3006868174719,20.62687882923637,0 -103.2969986183,20.62833937237207,0 -103.2953542683262,20.62884641139025,0 -103.2938546177263,20.62886591097506,0 -103.2930470959494,20.6287480914184,0 -103.2920590690232,20.62852661866229,0 -103.2885139091128,20.62691436277631,0 -103.2869226448036,20.62622778710257,0 -103.2859409330258,20.62578154937269,0 -103.28587,20.62545,0 -103.28597,20.62489,0 -103.28617,20.62427,0 -103.28644,20.62378,0 -103.28656,20.62361,0 -103.28688,20.62315,0 -103.2873,20.62266,0 -103.2876932489555,20.62229432067678,0 -103.2857665029536,20.61930679673704,0 -103.2854411877599,20.61915432604892,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Derrotero Vuelta Ruta 619 v2</name>
+		<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		<LineString>
+			<coordinates>
+				-103.28542,20.61928,0 -103.28523,20.61938,0 -103.28513,20.61956,0 -103.2846066828196,20.62271567163282,0 -103.2845274282835,20.62312880244432,0 -103.2864216095121,20.62384024551732,0 -103.2888645686238,20.62463863683612,0 -103.2904425996027,20.62514957921322,0 -103.2914061511565,20.62545264492853,0 -103.2923572281136,20.62680691802001,0 -103.2930329590913,20.62785046108597,0 -103.2937035157749,20.62916200891872,0 -103.2947180333959,20.629168459681,0 -103.2955394413021,20.62905108427902,0 -103.2965671467691,20.62874182385288,0 -103.2999864828308,20.62737106138723,0 -103.3038887831043,20.62586551058717,0 -103.3075945527349,20.62450844391227,0 -103.3086895832005,20.62410392552852,0 -103.3100673679711,20.62378743491715,0 -103.3119491485115,20.6235731242261,0 -103.3154296827544,20.623864548294,0 -103.317540477809,20.62394184503424,0 -103.31859,20.62406,0 -103.3199,20.62426,0 -103.3209567169281,20.62447919130856,0 -103.3211104673836,20.62446883078538,0 -103.3213944845487,20.62450268091739,0 -103.32191,20.62478,0 -103.322,20.6249,0 -103.32204,20.62503,0 -103.32202,20.62517,0 -103.3219,20.62529,0 -103.32177,20.62534,0 -103.32162,20.62533,0 -103.32148,20.62527,0 -103.32138,20.62515,0 -103.32128,20.62497,0 -103.32112,20.62449,0 -103.3211459628264,20.6244689592953,0 -103.321336793547,20.62333200887412,0 -103.3216146155131,20.62056604463093,0 -103.3217625413438,20.6189276755867,0 -103.321901031624,20.61749026009308,0 -103.3219567786731,20.61668180938582,0 -103.3220813605257,20.61592685689814,0 -103.3225502299978,20.61463689746033,0 -103.3233612146779,20.61314116933913,0 -103.32393,20.61227,0 -103.32435,20.61175,0 -103.32531,20.61069,0 -103.32671,20.60931,0 -103.32772,20.60823,0 -103.32784,20.60811,0 -103.32818,20.60772,0 -103.32836,20.60752,0 -103.32867,20.607,0 -103.3287519125074,20.60647420608881,0 -103.328747062087,20.60598227952471,0 -103.3286320411565,20.60544296994132,0 -103.3282465622462,20.60448285391569,0 -103.32525,20.59818,0 -103.32464,20.59692,0 -103.3245356115892,20.59679424819633,0 -103.32447,20.59658,0 -103.32376,20.59507,0 -103.3227980843351,20.59294189402505,0 -103.3225816888786,20.59244261126412,0 -103.3226458505438,20.59206474809659,0 -103.3227284061982,20.5916688284551,0 -103.3229962432341,20.5908635402814,0 -103.3232703607642,20.59002455970483,0 -103.3234004586343,20.5897604000412,0 -103.324050401089,20.58927108204106,0 -103.3312324362923,20.58538024373726,0 -103.3373415085234,20.5820086247094,0 -103.3427918090546,20.5790618675879,0 -103.3469682645664,20.57674684128534,0 -103.3478458355219,20.57629401385358,0 -103.3490315881926,20.57607918417904,0 -103.3520379837448,20.57626825064025,0 -103.3560152366752,20.57656845203771,0 -103.3590150951711,20.57687186953693,0 -103.3615210871226,20.57750377199125,0 -103.3616052433374,20.57761418171889,0 -103.3623144626579,20.57784215855688,0 -103.3622783907441,20.57809513317151,0 -103.3618695694795,20.57950847464122,0 -103.3618682147899,20.57965697169756,0 -103.3617285278618,20.58129971262692,0 -103.3614220484988,20.58233351884081,0 -103.3613286672291,20.58258807749088,0 -103.3612542285062,20.58267960238447,0 -103.3612517034267,20.58286119174107,0 -103.3611851403184,20.58298987509396,0 -103.3598972607722,20.58360485108825,0 -103.3595165391707,20.58382974514167,0 -103.3593002700003,20.58430464001253,0 -103.3594525254796,20.58428885207695,0 -103.3595524513168,20.58395810540027,0 -103.3595651292102,20.58382969225434,0 -103.3602463285963,20.5834340955769,0 -103.3612732602416,20.58292677128915,0 -103.3613791839462,20.58287323935855,0 -103.3614746076372,20.58291106938451,0 -103.3616306047051,20.58279665496281,0 -103.361640318827,20.58259342514133,0 -103.3615052222215,20.58244465186478,0 -103.3618180138797,20.58156503324627,0 -103.3619691913123,20.58010372281379,0 -103.3620411133889,20.57968330296921,0 -103.3620682542541,20.57946102233343,0 -103.3624494140939,20.57796174380622,0 -103.362686220418,20.57748365377529,0 -103.364374421205,20.57218956408941,0 -103.3648612972994,20.56997443152901,0 -103.364985104143,20.56943126824028,0 -103.3651931202899,20.56888566346655,0 -103.3655839043354,20.56694617196994,0 -103.3659828034321,20.56511891608495,0 -103.3663065754469,20.5636584146764,0 -103.3668065535909,20.56098849650072,0 -103.366954221837,20.56016768005656,0 -103.3668052631446,20.55944101604921,0 -103.3665306857531,20.5589943705801,0 -103.3661965784693,20.55859660300875,0 -103.3651939054449,20.55733759960221,0 -103.3648042451744,20.55687825362103,0 -103.3632174970973,20.55559364735791,0 -103.36088493029,20.55388159581994,0 -103.357919012932,20.55161061234906,0 -103.3563302410195,20.55041262642457,0 -103.3569512354182,20.5475135390173,0 -103.3574775801546,20.54556937505478,0 -103.3581369370145,20.5449031216386,0 -103.3584552720092,20.54421982046403,0 -103.3607238359538,20.54120126191645,0 -103.3632970318617,20.5377731267356,0 -103.3647984159392,20.53588340211148,0 -103.3652087721599,20.5355171323488,0 -103.3656378345639,20.53513241678541,0 -103.36792,20.53227,0 -103.36812,20.532,0 -103.36831,20.53176,0 -103.36882,20.53108,0 -103.36897,20.5309,0 -103.36934,20.5304,0 -103.36969,20.52995,0 -103.3714446027868,20.52990688992175,0 -103.3723051560251,20.52976545396673,0 -103.3724561214802,20.5297417918564,0 -103.37254,20.52968,0 -103.37329,20.52958,0 -103.37351,20.52955,0 -103.3736040425616,20.52949054191571,0 -103.3746,20.52946,0 -103.37496,20.52942,0 -103.37551,20.52937,0 -103.3757051817498,20.52936788736621,0 -103.3764893933449,20.52930566632795,0 -103.3766311122386,20.52928234986429,0 -103.376981120906,20.52924348536264,0 -103.3792626900235,20.52905960095073,0 -103.3801,20.52896,0 -103.3812406014894,20.52875027540327,0 -103.3821707504472,20.52853229876134,0 -103.3831,20.52824,0 -103.3836596735287,20.52793948338494,0 -103.3840907668176,20.5275118374731,0 -103.38425,20.52693,0 -103.38425,20.52685,0 -103.38426,20.52638,0 -103.38438,20.52515,0 -103.3845051400755,20.52422756490008,0 -103.3856964710336,20.52376085044479,0 -103.38589,20.52362,0 -103.38622,20.5231,0 -103.3864,20.52282,0 -103.38688,20.52208,0 -103.38697,20.52183,0 -103.38704,20.52129,0 -103.38707,20.52103,0 -103.38724,20.5197,0 -103.38734,20.51895,0 -103.38747,20.51794,0 -103.38465,20.5176,0 -103.38381,20.51749,0 -103.38215,20.5173,0 -103.38084,20.51714,0 -103.38035,20.51708,0 -103.3782723792506,20.51675022195311,0 -103.3787680155662,20.51264656603712,0 -103.3767347496947,20.5123355290269,0 -103.3738424285748,20.51202460745763,0 -103.3730549009012,20.51221163890374,0 -103.370155273122,20.5120759520506,0 -103.3691622286844,20.51201230195589,0 -103.366283576081,20.51227957740088,0 -103.3649730161813,20.51240563452814,0 -103.36498,20.51231,0 -103.36521,20.51217,0 -103.36554,20.51169,0 -103.36635,20.51048,0 -103.36657,20.51015,0 -103.36723,20.50917,0 -103.36746,20.50883,0 -103.3678,20.50833,0 -103.36801,20.50799,0 -103.36823,20.50766,0 -103.36846,20.50734,0 -103.36868,20.50701,0 -103.36886,20.50672,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

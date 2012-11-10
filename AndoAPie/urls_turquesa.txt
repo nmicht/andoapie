@@ -1,0 +1,9 @@
+
+http://www.rutasjalisco.gob.mx/mapaskml/turquesa/ruta703a.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-lopez-mateos.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-ninosheroes-guadalupe.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/turquesa/ruta703b.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-lopez-mateos.kml
+http://www.rutasjalisco.gob.mx/mapaskml/paradas/p-ninosheroes-guadalupe.kml
+
