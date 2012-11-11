@@ -2,6 +2,8 @@
 $completeurl = "kml/ruta.kml";
 $xml = simplexml_load_file($completeurl);
 
+$name = $xml->Document->name->asXML();
+
 $placemarks = $xml->Document->Placemark;
 
 for ($i = 0; $i < sizeof($placemarks); $i++){
@@ -16,8 +18,8 @@ for ($i = 0; $i < sizeof($placemarks); $i++){
 	$terminal[] = processXML($coordinate->asXML(),"Point");
 }
 
-echo $ruta[0],$ruta[1],$terminal[0],$terminal[1];
-
+//echo $ruta[0],$ruta[1],$terminal[0],$terminal[1];
+saveRoute($nombre,$ruta[0],$ruta[1],$terminal[0],$terminal[1]);
 
 /**
   * @param string $cad with all the coordinates for a linestring or a point
@@ -42,9 +44,9 @@ function processXML($cad,$object){
 /**
   * This function save on a database the info of the route
   */
-function saveRoute(){
+function saveRoute($nombre, $ida, $vuelta, $terminal, $retorno){
 	//Connecting to the database	
-	require_once("bd.inc");
+	require_once("php/bd.inc");
 	$conexion = new mysqli($dbhost, $dbuser, $dbpass, $db);
 
 	//Finish the execution if the connection fail
@@ -62,11 +64,11 @@ function saveRoute(){
 				terminalRetorno)
 			VALUES
 				(
-				<{nombre: }>,
-				<{derroteroVuelta: }>,
-				<{derroteroIda: }>,
-				<{terminal: }>,
-				<{terminalRetorno: }>
+				'$nombre',
+				'$ida',
+				'$vuelta',
+				'$terminal',
+				'$retorno'
 				)
 			";
 
