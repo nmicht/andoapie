@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales 8 de Julio - Mariano Bárcenas</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.37844</longitude>
+		<latitude>20.60075</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1460">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop14602">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop14600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop14602</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1460</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop14601">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 001-N cruza con Independencia</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35124,20.67741,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 002-N cruza con Av. Hidalgo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35297,20.67753,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 003-N cruza con San Felipe</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35123,20.67892,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 004-N cruza con Juan Manuel</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3529,20.67891,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 005-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35115,20.68048,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 006-N cruza con Reforma</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35282,20.68044,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 007-N cruza con Herrera y Cairo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35119,20.68216,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 008-N cruza con Angulo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35277,20.68205,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 009-N cruza con Juan Alvárez</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35107,20.68388,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 010-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3527,20.68391,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 015-N cruza con Antes de Colima</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35171,20.68942,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 017-N cruza con Antes de Priv. Veracruz</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35158,20.69108,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 016-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3525,20.68931,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 018-N cruza con Priv. Veracruz</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35235,20.69177,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 013-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35098,20.68836,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 014-N cruza con Arista</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35258,20.68809,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>C. Medellín 011-N cruza con General Arteaga</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35105,20.686,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>M. Barcenas 012-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35265,20.68535,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 066-S cruza con San Benito</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.37844,20.60075,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 057-S cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37905,20.60154,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 055-S cruza con Santa Cristina</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37842,20.60384,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 064-S cruza con Santa Cristina</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37773,20.60293,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 062-S cruza con Santa Monica</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37716,20.60479,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 053-S cruza con Santa Monica</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37786,20.6058,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 060-S cruza con Santa Rita</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37688,20.6059,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 051-S cruza con Santa Rita</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37757,20.60683,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 058-S cruza con Andrés Tamayo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3763,20.60797,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 049-S cruza con Andrés Tamayo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37697,20.609,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 056-S cruza con Magnolia</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37569,20.61022,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 047-S cruza con Juan Alegría</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37627,20.61089,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 054-S cruza con Av. Mezquitera</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37512,20.61223,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 045-S cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37565,20.61325,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 052-Scruza con Diego Montenegro</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37447,20.61455,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 043-S cruza con Diego Montenegro</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37509,20.61537,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 050-S cruza con Av. Jesús Reyes Heroles</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37379,20.61716,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 041-S cruza con Av. Jesús Reyes Heroles</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37406,20.61833,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 048-S cruza con Luis Covarrubias</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37218,20.62094,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 039-S cruza con Luis Covarrubias</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37253,20.62207,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 046-S cruza con Torres Bodet</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37146,20.62267,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 037-S cruza con Av. de La Patria</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37183,20.62368,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 044-S cruza con Carlos A. Carrillo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37029,20.62538,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 035-S cruza con Calle 9</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37069,20.62625,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 042-S cruza con Longinos Cadena</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36961,20.62696,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 033-S cruza con Longinos Cadena</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.37004,20.62786,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 040-S cruza con Calle 3</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36828,20.62998,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 031-S cruza con Calle 3</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36878,20.63084,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 038-S cruza con Av. Miguel López de Legaspi</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36648,20.63415,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 029-S cruza con Av. Miguel López de Legaspi</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36681,20.6355,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 036-S cruza con Calle 5</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36478,20.63821,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 027-S cruza con Calle 5</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36521,20.63924,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 034-S cruza con Calle 3</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36363,20.64084,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 025-S cruza con Calle 3</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36405,20.64196,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 032-S cruza con Calle 1</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36248,20.6436,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 023-S cruza con Calle 1</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3629,20.64465,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 030-S cruza con Calzada Lázaro Cardenas</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36135,20.64624,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 021-S cruza con Calzada Lázaro Cardenas</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36155,20.64781,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 019-S cruza con Pelicano</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.36036,20.65057,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 028-S cruza con Pelicano</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3598,20.64991,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 026-S cruza con Fresno</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35871,20.65235,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 017-S cruza con Fresno</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35918,20.6533,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 024-S cruza con Cipres</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35805,20.65394,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 022-S cruza con Cardenal</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35743,20.65548,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 015-S cruza con Cardenal</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35783,20.65642,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 013-S cruza con Circunvalación Santa Eduwiges</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35655,20.65958,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 020-S cruza con Av. España</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35567,20.65967,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Colón 018-S cruza con Av. Alemania</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35408,20.6615,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 011-S cruza con Av. Alemania</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3552,20.66277,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Colón 016-S cruza con Av. Niiños Heróes</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35209,20.66395,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 009-S cruza con Av. Niños Heróes</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35426,20.66547,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Colón 014-S cruza con Mexicaltzingo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35118,20.66581,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Colón 012-S cruza con Av. de la Paz</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.34988,20.66814,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Av. de La Paz 010-S cruza con Donato Guerra</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.3506,20.66936,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 007-S cruza con Mexicaltzingo</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35371,20.66719,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>E. G. Martínez 008-S cruza con Nueva Galicia</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35161,20.66946,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>E. G. Martínez 006-S cruza con Miguel Blanco</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35144,20.67156,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 005-S cruza con Av. de La Paz</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35309,20.66958,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>E. G. Martínez 004-S cruza con Madero</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35142,20.67295,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 003-S cruza con Prisciliano Sánchez</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35298,20.67295,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>E. G. Martínez 002-S cruza con Independencia</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35134,20.67519,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>8 de Julio 001-S cruza con Pedro Moreno</description>
+			<styleUrl>#sn_bus-stop14600</styleUrl>
+			<Point>
+				<coordinates>-103.35285,20.67591,0</coordinates>
+			</Point>
+			<end>    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

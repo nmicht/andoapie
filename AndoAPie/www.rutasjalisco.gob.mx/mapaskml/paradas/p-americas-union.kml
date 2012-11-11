@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Américas-Unión</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.38772</longitude>
+		<latitude>20.71882</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 037-N cruza con Francisco Javier Mina</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38772,20.71882,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 040-N cruza con Javier Mina</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38827,20.71973,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 038-N cruza con Serbia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38874,20.71558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 035-N cruza con El Mixtón</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38826,20.71713,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 036-N cruza con Romanos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3861,20.71382,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 033-N cruza con Romanos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38489,20.71435,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 034-N cruza con Hipódromo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38326,20.71252,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 031-N cruza con Jacarandas</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38236,20.71334,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 032-N cruza con Avenida de La Patria Sur</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38116,20.7114,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 029-N cruza con Avenida de La Patria Sur</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37978,20.71075,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 030-N cruza con Brasilia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37877,20.70843,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 027-N cruza con Brasilia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37767,20.70824,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 028-N cruza con Rio de la Plata</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37772,20.70662,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 025-N cruza con Avenida Montevideo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37661,20.70492,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 026-N cruza con Guayaquil</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3773,20.70482,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 023-N cruza con Avenida Providencia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37607,20.70304,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 024-N cruza con Avenida Providencia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37696,20.70359,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 022-N cruza con Sao Paulo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37645,20.70184,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 021-N cruza con Sao Paulo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37549,20.70143,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 020-N cruza con Buenos Aires</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37525,20.6991,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 019-N cruza con Mar Tirreno</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37433,20.69862,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 018-N cruza con Frente a Mar Báltico</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37408,20.69667,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 017-N cruza con Mar Báltico</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37322,20.69668,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 001-N cruza con Pedro Moreno</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3735,20.67478,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 002-N cruza con Hidalgo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37424,20.67701,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 003-N cruza con Avenida México</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37339,20.67864,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 004-N cruza con Avenida México</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37423,20.67955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 005-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37333,20.68085,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 006-N cruza con Angulo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37414,20.68255,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 007-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37334,20.68379,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 008-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37409,20.68455,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 009-N cruza con Eulogio Parra</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37327,20.68675,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 010-N cruza con Eulogio Parra</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37405,20.68741,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 011-N cruza con José María Vigil</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37321,20.68935,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 012-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37397,20.6893,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 015-N cruza con Frente a Florencia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37314,20.69112,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 014-N cruza con Florencia</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37395,20.69162,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 015-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37311,20.69301,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 016-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37392,20.69406,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 006-S cruza con José Guadalupe Montenegro</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37325,20.66875,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 007-S cruza con José Guadalupe Montenegro</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.374,20.66927,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 004-S cruza con Lerdo de Tejada</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37334,20.6707,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 005-S cruza con Lerdo de Tejada</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37413,20.67152,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 003-S cruza con Loéz Cotilla</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37425,20.67374,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 002-S cruza con Avenida Vallarta</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37358,20.67385,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Américas 001-S cruza con Morelos</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37434,20.67581,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

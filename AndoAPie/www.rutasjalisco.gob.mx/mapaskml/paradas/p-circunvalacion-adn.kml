@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Circunvalación Atemajac - División del Norte</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Circunvalación Atemajac - Divición del Norte Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 018-O cruza con Avenida Alcalde</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34792,20.70441,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 016-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34638,20.70404,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 015-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34528,20.70461,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 012-O cruza con Aurelio González</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34413,20.703,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 013-O cruza con Aurelio González</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34283,20.70353,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 012-O cruza con Fray Junipero Serra</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34122,20.70167,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 011-O cruza con Fray Junipero Serra</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34003,20.70226,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 010-O cruza con J. M. Rodríguez</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33943,20.70085,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 009-O cruza con J. M. Rodríguez</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33817,20.70137,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 006-O cruza con Platón</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33524,20.69887,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 004-O cruza con Sierra Leona</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3338,20.6983,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 002-O cruza con Siete Colinas</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33188,20.69731,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 005-O cruza con Platón</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3344,20.69956,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 003-O cruza con Sierra Leona</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33297,20.6988,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 001-O cruza con Siete Colinas</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33072,20.69779,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 027-O cruza con Prolongación Avenida Munguia</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36042,20.70784,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 008-O cruza con Avenida Normalistas</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33699,20.69976,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación División del Norte 007-O cruza con F. Lizardi</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.33716,20.70084,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 021A-O cruza con Mezquitan</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35429,20.70728,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 024-O cruza con A. de la Mota</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35427,20.70624,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 021-O cruza con Juan Gómez de Parada</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35319,20.70716,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 022-O cruza con M. Gordoa</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35214,20.70597,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 019-O cruza con M. Gordoa</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35141,20.70691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 020-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34922,20.70528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 017-O cruza con Félix Palavicini</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.34786,20.70578,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 042-O cruza con Acatempan</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.37236,20.69601,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 041-O cruza con Mar Caribe</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.37228,20.69725,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 039-O cruza con Plan de San Luis</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.37132,20.69795,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 037-O cruza con Mar Rojo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.3694,20.69943,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 040-O cruza con Mar Rojo</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36932,20.69824,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 035-O cruza con Mar Caspio</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36736,20.70154,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 038-O cruza con Mar Caspio</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.367,20.70042,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 036A-O cruza con Mar del Norte</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36553,20.7023,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 033A-O cruza con Mar del Norte</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36599,20.7035,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 036-O cruza con Mar Marmara</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36469,20.70352,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Jorge Alvarez del Castillo 033-O cruza con Mar Marmara</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36505,20.70476,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Providencia 032-O cruza con La Soledad</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36328,20.70555,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Providencia 029-O cruza con Mesones</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.36342,20.70695,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 030-O cruza con Prolongación Avenida Munguia</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35965,20.70691,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 025-O cruza con Paseo Poniente</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35852,20.70773,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 023-O cruza con Vizcainas</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.356,20.70738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 028-O cruza con Paseo Oriente</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35833,20.70684,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Circunvalación Atemajac 026-O cruza con 6 de Diciembre</description>
+			<styleUrl>#sn_bus-stop00</styleUrl>
+			<Point>
+				<coordinates>-103.35635,20.70652,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

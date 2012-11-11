@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Avenida México - San Felipe - Juan Manuel</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.34109</longitude>
+		<latitude>20.6787</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<StyleMap id="sn_bus-stop">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida México</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 002-O cruza con Agua Fria</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34109,20.6787,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 004-O cruza con Dr. Baeza Azaga</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34239,20.67855,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 006-O cruza con Venustiano Carranza</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34491,20.67833,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 008-O cruza con Liceo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34718,20.67834,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 010-O cruza con Santa Monica</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34964,20.67823,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 001-O cruza con Humboldt</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34374,20.67998,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 003-O cruza con Pino Suárez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34588,20.67987,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 005-O cruza con Avenida Alcalde</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34749,20.6798,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 007-O cruza con Santa Monica</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34904,20.67968,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 048-O cruza con Frente aLeñadores</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41335,20.67747,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 047-O cruza con Leñadores</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41272,20.67839,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 046-O cruza con Leñadores</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40313,20.67737,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 045-O cruza con Teatro de la República</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40349,20.67833,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 043-O cruza con Diag. San Jorge</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39983,20.67877,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 044-O cruza con Diagonal San Jorge</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40067,20.67766,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 042-O cruza con Boulevard Homero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39789,20.6779,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 041-O cruza con Boulevard Homero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39703,20.6789,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 040-O cruza con Juan Palomar Arias</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39422,20.67843,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 039-O cruza con Yaquis</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39326,20.67967,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 038-O cruza con Nelson</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39015,20.67892,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 037-O cruza con Beethoven</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39151,20.67987,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 036-O cruza con Juana de Arco</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38786,20.67898,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 035-O cruza con Avenida Terranova</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38699,20.67997,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 034-O cruza con Avenida Adolfo López Mateos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38495,20.67891,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 033-O cruza con Avenida Adolfo López Mateos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38359,20.67983,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 031-O cruza con Pablo Villaseñor</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.37986,20.67966,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 032-O cruza con Pablo Villaseñor</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38055,20.67874,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 030-O cruza con Luis Pérez Verdía</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.37802,20.67864,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 029-O cruza con Luis Pérez Verdía</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3772,20.67963,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida México 028-O cruza con Avenida de las Américas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.37429,20.67856,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 027-O cruza con Avenida de las Américas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.37333,20.6795,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 026-O cruza con Avenida Chapultepec</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3701,20.67832,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 025-O cruza con Pedro Buzeta</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36933,20.6795,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 024-O cruza con Ramos Millán</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3679,20.6783,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 023-O cruza con Ramos Millán</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36707,20.67958,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 022-O cruza con Ignacio Ramírez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36442,20.67814,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 021-O cruza con Ignacio Ramírez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36372,20.67953,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 019-O cruza con Gregorio Dávila</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36113,20.67948,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 020-O cruza con Gregorio Dávila</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36191,20.67819,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 018-O cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35998,20.67823,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 017-O cruza con Avenida Enrique Díaz de Leon</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35917,20.67947,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 015-O cruza con Cruz Verde</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35725,20.67954,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 016-O cruza con Cruz Verde</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35798,20.67823,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 014-O cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35499,20.67822,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan Manuel 012-O cruza con Contreras Medellín</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3519,20.67821,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 009-O cruza con González Ortega</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3503,20.67965,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 011-O cruza con Mariano Barcenas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35231,20.67953,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Felipe 013-O cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35387,20.67948,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

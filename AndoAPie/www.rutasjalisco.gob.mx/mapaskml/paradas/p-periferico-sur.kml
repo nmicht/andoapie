@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Anillo Periférico Sur</name>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Anillo Periférico Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 065-S cruza con 5 de Mayo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29009,20.59743,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 062-S cruza con Frente a Calle 2 de Abril</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29149,20.59753,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 063-S cruza con 2 de Abril</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29264,20.59592,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 060-S cruza con Frente a Calle Managua</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29423,20.59679,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 061-S cruza con Managua</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29538,20.59588,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 058-S cruza con Cam s/n a 600.00 mts antes de la Via</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.29927,20.59722,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 059A-S cruza con Calle sin nombre a 480 mts desp Via</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30113,20.59643,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 056-S cruza con Lomas Verdes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30537,20.59714,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 059-S cruza con Paseo de los Cipreses</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30711,20.59602,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 054-S cruza con Frente a Paseo del Chabacano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30942,20.59643,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 057-S cruza con Paseo del Chabacano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31012,20.59537,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 002-S cruza con Concentro</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.45487,20.69161,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 004-S cruza con Calzada Central</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.45365,20.67175,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 001-S cruza con Frente a San Juan</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.45386,20.66993,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 006-S cruza con San Juan</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.45181,20.66942,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 003-S cruza con Frente a Av. Guadalupe</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44888,20.65906,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 008-S cruza con Av. Guadalupe</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44678,20.65809,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 005-S cruza con Prol. Volcán Quinceo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44243,20.64325,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 012-S cruza con Frente a Puerto Tampico</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43922,20.63934,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 010-S cruza con Volcan Quinceo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44034,20.64207,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 007-S cruza con Puerto Tampico</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.44101,20.6399,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 009-S cruza con Av. Mariano Otero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43716,20.63098,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 014-S cruza con Av. Mariano Otero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43533,20.63,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 011-S cruza con San Felipe</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.43332,20.6229,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 013-S cruza con Orquidea</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.4299,20.61667,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 016-S cruza con Al cruzar Paso a Desnivel López Mateos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42774,20.61539,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 015-S cruza con Durango</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.42521,20.61249,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 017-S cruza con Ingreso al Iteso</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41616,20.60973,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 018-S cruza con Camino al Iteso</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41478,20.61063,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 019-S cruza con Ingreso AT&amp;T</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.41069,20.60843,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 021-S cruza con Lat. Anillo Periférico Ing. a Colon</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.40166,20.60561,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 020-S cruza con Terminal Tren Ligero Av. Colón</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.4016,20.60675,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 023-S cruza con Comonfort</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39898,20.60321,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 022-S cruza con Comonfort</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39731,20.60342,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 025-S cruza con De la Calzada</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39603,20.60045,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 024-S cruza con Camichines</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39455,20.601,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 027-S cruza con Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.39133,20.59591,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 029-S cruza con Vereda de La Barranca</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38675,20.59032,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 026-S cruza con Tizapan</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38535,20.5906,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 031-S cruza con Vereda de La Barranca</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.38477,20.58783,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 028-S cruza con López Cotilla</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36651,20.5792,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 033-S cruza con López Cotilla</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36736,20.57805,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 030-S cruza con Acueducto</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.36202,20.57813,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 035-S cruza con Acueducto</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3634,20.57709,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 037-S cruza con Prol. Gobernador Curiel</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35868,20.57578,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 032-S cruza con Prol. Gobernador Curiel</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35701,20.5771,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 039-S cruza con Antiguo Camino a Santa Cruz del Valle</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35611,20.57553,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 034-S cruza con Via Manzanillo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35376,20.57698,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 041-S cruza con Antiguo Camino a Santa Cruz del Valle</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34942,20.57515,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 036-S cruza con Via Manzanillo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34904,20.57657,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 043-S cruza con Del Albañil</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33446,20.5827,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 038-S cruza con Del Albañil</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33436,20.58425,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 045-S cruza con Antigua Carretera a Chapala</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33271,20.58367,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 040-S cruza con Juan de la Barrera</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33225,20.58537,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 042-S cruza con Ermita</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32963,20.58668,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 047-S cruza con Los Arcos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32997,20.58511,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 044-S cruza con Sonora</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32648,20.58844,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 049-S cruza con Paseo de Los Lagos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32681,20.58685,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 046-S cruza con Prol. Guaymas</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3252,20.58917,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 051-S cruza con Frailes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31934,20.59152,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 048-S cruza con Frailes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31887,20.59324,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 053-S cruza con Evangelio</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3178,20.59287,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 050-S cruza con Biblia</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3173,20.59437,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 055-S cruza con Emiliano Zapata</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31285,20.59484,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Periférico 052-S cruza con Emiliano Zapata</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31233,20.59584,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,13 @@
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-01-especial.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-02-especial.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-b-parapanamericanos.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-c-parapanamericanos.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-d-parapanamericanos.kml
+
+http://www.rutasjalisco.gob.mx/mapaskml/red-parapanamericana/ruta-h-parapanamericanos.kml
+
+

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales González Gallo - R. Michel</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.32286</longitude>
+		<latitude>20.62657</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Av. R. Michel y González Gallo</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 031-S cruza con Clinica Imss</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32286,20.62657,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 030-S cruza con Bajo el Puente</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32108,20.6273,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 028-S cruza con Parras</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32215,20.62892,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 029-S cruza con Refinería</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32468,20.62687,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 027-S cruza con Río Reforma</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32976,20.63341,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 026-S cruza con Río Reforma</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32611,20.63518,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 025-S cruza con Rio Conchos</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33099,20.63492,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 024-S cruza con Río Omotepec</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.3279,20.63789,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 023-S cruza con Rio Atotonilco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33408,20.63898,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 022-S cruza con Río Atotonilco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.32969,20.64078,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 021-S cruza con Rio La Barca</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33642,20.641,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 020-S cruza con Río La Barca</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33135,20.64321,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 018-S cruza con Río Tizapan</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33289,20.64553,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 019-S cruza con Rio Tizapan</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33791,20.64316,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 016-S cruza con Río Volga</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33445,20.64795,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 017-S cruza con Rio Zapotlan</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33967,20.64586,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 014-S cruza con Salvador Lopéz Chávez</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33576,20.65019,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 015-S cruza con Salvador Lopéz Chávez</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34128,20.64828,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 013-S cruza con Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.3428,20.65061,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 012-S cruza con Gabino Barreda</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.33815,20.65301,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 010-S cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34007,20.65465,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 011-S cruza con Matías Romero</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34406,20.65275,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 008-S cruza con Nicolás Bravo</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34229,20.65645,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 009-S cruza con Heróes Ferrocarrileros</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34553,20.65515,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 006-S cruza con Analco</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34382,20.65773,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 007-S cruza con Av. de Las Palmas</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34621,20.65822,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 004-S cruza con Dr. Roberto Michel</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34503,20.6586,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 005-S cruza con Calzada Jesús González Gallo</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34631,20.66083,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>González Gallo 002-S cruza con Calzada Independencia Norte</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34803,20.66193,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 003-S cruza con Estadio</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34625,20.66305,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Dr. R. Michel 001-S cruza con Fray Bartolomé de las Casas</description>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+			<Point>
+				<coordinates>-103.34644,20.66568,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

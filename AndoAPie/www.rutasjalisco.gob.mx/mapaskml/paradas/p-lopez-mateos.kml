@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Adolfo López Mateos</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.4439</longitude>
+		<latitude>20.5897</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 015-N cruza con Isabel Prieto</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37561,20.69131,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 013-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37741,20.68853,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 011-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37944,20.68549,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 009-N cruza con Martín Casillas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38076,20.68365,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 007A-N cruza con Antonio de León</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38208,20.68178,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 007-N cruza con Tomás V. Gómez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38269,20.68065,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 005-N cruza con Severo Díaz</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38416,20.67831,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 001-N cruza con Fernando de Celada</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38641,20.67492,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 002-N cruza con Fernando de Celada</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38672,20.6761,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 006-N cruza con Reforma</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38405,20.68023,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 008-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38277,20.68208,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 010-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38092,20.68491,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 012-N cruza con Del Rotarismoi</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38002,20.68619,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 014-N cruza con Jesús García</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37787,20.68957,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 019-N cruza con Florencia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37602,20.69236,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 017-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37432,20.69358,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>cruza con Adolfo López Mateos 018-N cruza con Colomos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37454,20.69488,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 055-S cruza con Plaza El Palomar</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.4439,20.5897,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 066-S cruza con San Juan</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.44065,20.59258,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 053-S cruza con Paseo del Palomar</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.44182,20.59299,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 064-S cruza con San Antonio</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43959,20.59407,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 062-S cruza con Celestino Pérez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43721,20.5977,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 051-S cruza con Avenida de los Azahares</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43742,20.59948,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 060-S cruza con Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43564,20.60005,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 049-S cruza con Compositores</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43399,20.60464,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 058-S cruza con Vicente Guerrero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43356,20.60315,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 047-S cruza con Nicolás Bravo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43281,20.60644,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 056-S cruza con Justo Sierra</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43159,20.6062,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 045-S cruza con Anastasio Bustamante</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43128,20.60882,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 054-S cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42927,20.60965,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 043-S cruza con Anastasio Bustamante</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.43059,20.60997,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 052-S cruza con Felipe Angeles</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.4283,20.61114,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 041-S cruza con Camino a Santa Ana Tepetitlán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42852,20.6128,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 050-S cruza con Camino al Iteso</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42481,20.61665,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 048-S cruza con Camino al Iteso</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42367,20.61819,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 039-S cruza con San Antonio</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42509,20.61814,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 046-S cruza con Avenida de Las Fuentes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42233,20.62043,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 037-S cruza con Avenida de Las Fuentes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42271,20.62164,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 044-S cruza con Bonampak</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42104,20.62234,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 035-S cruza con Circunvalción Norte</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.42144,20.62365,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 042-S cruza con Avenida Valle de Atemajac</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41938,20.62485,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 033-S cruza con Galileo Galilei</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41993,20.62606,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 040-S cruza con 18 de Marzo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41779,20.62717,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 031-S cruza con Avenida Nicolas Copernico</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41806,20.62844,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 038-S cruza con Cerro Gordo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41623,20.6295,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 029-S cruza con Unidad Administrativa Sur</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.416,20.6314,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 036-S cruza con Orión</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41431,20.63244,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 034-S cruza con Avenida Patria</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41339,20.6339,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 027-S cruza con Avenida La Calma</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41361,20.63538,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 032-S cruza con Aguilar Figueroa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41158,20.63661,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 025-S cruza con Pegaso</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41224,20.6376,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 030-S cruza con C. 3</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.41042,20.63828,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 023-S cruza con Frente a C.3</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.411,20.63936,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 028-S cruza con J. Gil Preciado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40888,20.64073,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 021-S cruza con Frente a J. Gil Preciado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40929,20.64196,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 026-S cruza con La Giralda</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40706,20.6434,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 019-S cruza con Frente a la Giralda</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40759,20.64449,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 024-S cruza con Lapislázuli</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40585,20.64524,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 022-S cruza con Avenida Mariano Otero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40362,20.64862,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 017-S cruza con Tenochtitlán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40494,20.6485,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 020-S cruza con Avenida Plaza del Sol</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40216,20.65089,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 018-S cruza con Avenida Plaza del Sol</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40132,20.65207,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 015-S cruza con Chimalhuacán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.4027,20.65195,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 016-S cruza con Cubilete</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39937,20.65508,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 013-S cruza con Popocatépetl</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39984,20.65622,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 012-S cruza con Cubilete</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39834,20.65652,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 011-S cruza con Cubilete</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39897,20.6576,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 005-S cruza con Calz. Lazáro Cardenas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39377,20.66546,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 002-S cruza con Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38797,20.6726,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 004-S cruza con San Gabriel</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39023,20.66908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 006-S cruza con Al Cruzar Avenida Niños Héroes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39153,20.66717,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 010-S cruza con Antonio Valeriano</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39507,20.66158,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 008-S cruza con Calz. Lazáro Cardenas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39366,20.66392,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 012A-S cruza con Capuchinas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3961,20.66005,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 009-S cruza con Avenida de las Rosas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39733,20.66003,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 007-S cruza con Antonio Valeriano</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39518,20.66327,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 001-S cruza con Aurelio Aceves</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3882,20.67381,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Adolfo López Mateos 003-S cruza con Avenida Guadalupe</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39254,20.66735,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

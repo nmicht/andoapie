@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Calle 54 y 56</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.329</longitude>
+		<latitude>20.6523</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<StyleMap id="sn_bus-stop146">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop145</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop212">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop145">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop04">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 002-N cruza con Gigantes</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31636,20.66633,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 004-N cruza con Gómez de Mendiola</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31527,20.66939,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 001-N cruza con Goméz de Mendiola</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31589,20.66878,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 003-N cruza con Pedro María Anaya</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31516,20.67083,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 006-N cruza con Pedro María Anaya</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31457,20.67148,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 005-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31443,20.67293,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 008-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31387,20.67355,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 010-N cruza con Indsutria</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31314,20.67558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 007-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31337,20.67599,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 012-N cruza con Esteban Alatorre</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31247,20.67766,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 009-N cruza con Pablo Valdez</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31266,20.67803,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 011-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31196,20.68017,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 014-N cruza con Jesús Urueta</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31139,20.68077,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 013-N cruza con Prolongación Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31125,20.6822,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 016-N cruza con Santo Tomás</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31036,20.68381,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 015-N cruza con San Esteban</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31055,20.68432,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 018-N cruza con Santa Clemencia</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.30949,20.68627,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Basilio Vadillo 017-N cruza con San Pablo</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.30967,20.68667,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Pedro 023-N cruza con Calzada del Obrero</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31125,20.69118,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Pedro 021-N cruza con Santa Beatriz</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31021,20.68927,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>San Pedro 019-N cruza con Castellanos y Tapia</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.30943,20.68862,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Juan de Dios Robledo 020-N cruza con Santa Fe</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.30847,20.68939,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 018-S cruza con Río Nilo</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.329,20.6523,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 013-S cruza con Río Frío</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.32705,20.6522,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 016-S cruza con 5 de Febrero</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.32675,20.6532,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 014-S cruza con Fernando Mendéz</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.3247,20.65405,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 011-S cruza con Fernando Mendéz</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.32498,20.65301,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 012-S cruza con Linda Vista</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.32188,20.65523,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calz. Olimpica 009-S cruza con José Rolon</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.32205,20.65428,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Mota Padilla 010-S cruza con Linda Vista</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31971,20.65761,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Irineo Paz 007-S cruza con Calzada Revolución</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31952,20.65697,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Mota Padilla 008-S cruza con Artes</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31903,20.65955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Irineo Paz 005-S cruza con Artes</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31845,20.66005,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Mota Padilla 006-S cruza con Medrano</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31844,20.66138,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Irineo Paz 003-S cruza con Medrano</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31782,20.66197,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Mota Padilla 004-S cruza con Goméz Farías</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31742,20.66416,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Irineo Paz 001-S cruza con Goméz Farías</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31688,20.6646,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Mota Padilla 002-S cruza con Goméz de Mendiola</description>
+			<styleUrl>#sn_bus-stop146</styleUrl>
+			<Point>
+				<coordinates>-103.31687,20.66562,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

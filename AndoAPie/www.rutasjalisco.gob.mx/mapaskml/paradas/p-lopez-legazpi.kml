@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales López de Legazpi</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.33777</longitude>
+		<latitude>20.62924</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Paradas oficiales Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 007-E cruza con Frente a Jitomate</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33777,20.62924,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 008-E cruza con Jitomate</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.33728,20.63006,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 005-E cruza con Frente a Cártamo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34108,20.62894,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 006-E cruza con Cártamo</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34046,20.62993,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 004-E cruza con Arroz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34335,20.62973,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 003-E cruza con Frente a Ajonjoli</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34377,20.62879,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 002-E cruza con Arroz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.347,20.62934,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>18 de Marzo 001-E cruza con Calzada Gobernador Luis Curiel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34721,20.62837,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Oeste</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 040-O cruza con Perla</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3994,20.64187,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 041-O cruza con Perla</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39857,20.64238,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 038-O cruza con Esmeralda</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39677,20.64135,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 039-O cruza con Esmeralda</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39596,20.64259,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 037-O cruza con Quebrada</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39392,20.64231,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 036-O cruza con Litoral</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39301,20.64131,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 035-O cruza con Islote</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39159,20.64193,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Lapislazuli 034-O cruza con Avenida Cruz del Sur</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.39058,20.64083,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 033-O cruza con Avenida Cruz del Sur</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38914,20.64117,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 032-O cruza con Isla Baru</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38754,20.64011,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 031-O cruza con Isla Anguila</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38637,20.64068,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 030-O cruza con Isla Caiman</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38453,20.63958,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 029-O cruza con Isla Caiman</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38383,20.64026,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 028-O cruza con Isla Cozumel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38169,20.63905,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 027-O cruza con Isla Cozumel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.38086,20.63974,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 026-O cruza con Islas Indias</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37889,20.63855,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 025-O cruza con Isla Española</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37869,20.6394,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 024-O cruza con Vasco de Gama</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37638,20.63796,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 023-O cruza con Enrique El Navegante</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37584,20.63875,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 022-O cruza con Américo Vespucio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37449,20.63717,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 021-O cruza con Américo Vespucio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37363,20.63779,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 020-O cruza con Francisco de Orellana</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37232,20.63642,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 019-O cruza con Francisco de Orellana</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.37131,20.63695,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 018-O cruza con Bartolome Díaz</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36974,20.63544,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 017-O cruza con Calle 6</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36866,20.63604,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 016-O cruza con 8 de Julio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36735,20.63451,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 015-O cruza con 8 de Julio</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36598,20.63507,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 014-O cruza con Calle 14</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36398,20.63329,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 013-O cruza con Calle 14</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36366,20.63418,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 012-O cruza con María C. Bancalari</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36219,20.63252,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 011-O cruza con Calle 16</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.36134,20.63329,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 010-O cruza con María C. Bancalari</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35978,20.63161,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 009-O cruza con Calle 22</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35853,20.6322,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 008-O cruza con Rodolfo Navarrete</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35708,20.63065,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 007-O cruza con Calle 26</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35605,20.63132,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 006-O cruza con Niquel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35427,20.62961,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 005-O cruza con Calle 30</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35357,20.63036,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 004-O cruza con Calle 34</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35213,20.62874,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 003-O cruza con Calle 34</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.35109,20.62944,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 002-O cruza con Calzada Gobernador Luis Curiel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.34939,20.62778,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Miguel López de Legazpi 001-O cruza con Calzada Gobernador Luis Curiel</description>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+			<Point>
+				<coordinates>-103.3494,20.62878,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

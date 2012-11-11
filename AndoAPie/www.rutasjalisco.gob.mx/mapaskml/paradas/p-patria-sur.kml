@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<name>Paradas oficiales Avenida Patria Sur</name>
+	<visibility>0</visibility>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop20">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="sn_bus-stop30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop200">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop10">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop100">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Avenida Patria Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 027-S cruza con Avenida Mariano Otero</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.41994,20.63845,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 028-S cruza con Volcán Popocatepetl</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.41974,20.64119,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 025-S cruza con Volcán Vesubio</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42034,20.64027,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 023-S cruza con Volcán Ajusco</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42107,20.64274,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 026-S cruza con Volcán Cofre de Perote</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42057,20.64366,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 021-S cruza con Avenida Camino al Colli</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42175,20.6452,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 019-S cruza con Avenida Moctezuma</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42314,20.65038,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 024-S cruza con Avenida Moctezuma</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42219,20.64948,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 017-S cruza con Monte Falco</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42331,20.65308,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 022-S cruza con Orto</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42246,20.65283,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 020-S cruza con Avenida Tepeyac</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42281,20.65508,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 015-S cruza con Avenida Tepeyac</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42368,20.65581,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 018-S cruza con Avenida Manuel J. Clouthier</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42297,20.65758,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 013-S cruza con Avenida Manuel J. Clouthier</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42396,20.65849,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 012-S cruza con Santo Tomás de Aquino</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42404,20.66637,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 009-S cruza con San Luis Gonzaga</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42476,20.66479,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 016-S cruza con Avenida Guadalupe</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42337,20.66141,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 011-S cruza con Avenida Guadalupe</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42448,20.6628,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 014-S cruza con San Luis Gonzaga</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42368,20.664,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 007-S cruza con Robert Schumann</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42509,20.66823,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 010-S cruza con San Juan Bosco</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42426,20.66822,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 005-S cruza con Hector Berlioz</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42411,20.6711,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 008-S cruza con Juan Sebastíán Bach</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42276,20.67179,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 006-S cruza con Antonio Vivaldi</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42233,20.67363,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 003-S cruza con Tiziano</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42307,20.6742,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 048-S cruza con Isla Pianosa</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39993,20.62811,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 050-S cruza con Isla Mindanao</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39723,20.62779,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 047-S cruza con Olivo</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.4013,20.62907,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 049-S cruza con Isla Pianosa</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39833,20.6287,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 052-S cruza con Avenida Isla Gomera</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39445,20.62789,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 051-S cruza con Islas Malvinas</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39573,20.62873,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 054-S cruza con Isla Hébridas</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.3921,20.62733,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 053-S cruza con Avenida Isla Gomera</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.39287,20.62844,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 056-S cruza con Isla Antigua</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.38959,20.62643,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 055-S cruza con Islas Hébridas</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.38996,20.62736,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 058-S cruza con Rafael Nájera</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.3839,20.62507,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 057-S cruza con Avenida Colon</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.38487,20.6261,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 059-S cruza con José María Castillero</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.38206,20.6255,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 060-S cruza con David G. Berlanga</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.38129,20.62454,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 062-S cruza con Miguel Orozco Camacho</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.37879,20.62403,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 061-S cruza con Trinidad Arvizu</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.37952,20.62509,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 063-S cruza con Othón Blanco Cáceres</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.37673,20.62454,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 064-S cruza con José Othon Nuñez</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.3763,20.62359,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 066-S cruza con Bruno Martinez</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.37335,20.62308,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 065-S cruza con Rafael Molina</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.37423,20.62408,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 076-S cruza con Crispinado del Castillo</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.36203,20.62091,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 075-S cruza con María C. Bancalari</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.36282,20.62184,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 077-S cruza con Angel Barrios</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.3597,20.62128,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 078-S cruza con Miguel Castellanos</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.3595,20.6205,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 080-S cruza con Frente a Eulaio Gutiérrez</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.356,20.61987,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 079-S cruza con Francisco Franco</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.35685,20.62082,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 082-S cruza con Domino Loeza</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.35354,20.61932,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 081-S cruza con Manuel Varela</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.35388,20.6201,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 084-S cruza con José Rojo</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.35053,20.61992,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 083-S cruza con Porfirio Díaz</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.35119,20.62063,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 086-S cruza con Pablo de Céspedes</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.34819,20.62078,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 085-S cruza con José María Aguayo</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.34819,20.62164,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 004-S cruza con George Handel</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42201,20.67589,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 001-S cruza con Van Gogh</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42259,20.67692,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Patria 002-S cruza con A las Cumbres</description>
+			<styleUrl>#sn_bus-stop30</styleUrl>
+			<Point>
+				<coordinates>-103.42175,20.67736,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</kml>

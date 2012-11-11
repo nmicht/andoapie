@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Diagonal</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.24475</longitude>
+		<latitude>20.61854</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Gil Preciado 050-N cruza con Arco del Triunfo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.4083,20.74086,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Gil Preciado 055-N cruza con Arco del Triunfo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40684,20.74122,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Gil Preciado 048-N cruza con Anillo Periferico</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40608,20.73916,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Gil Preciado 053-N cruza con Egreso Anillo Periferico</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40414,20.73927,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán 046-N cruza con Prolongación Lázaro Cárdenas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40285,20.73698,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán 051-N cruza con Ingreso a Anillo Periferico</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40159,20.73744,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 029A-N cruza con Santa Elena</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38439,20.71873,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 026-N cruza con Jacarandas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38458,20.71748,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 029-N cruza con Labaro Patria</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38225,20.71728,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 024-N cruza con Obelisco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38098,20.71522,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 027-N cruza con Obelisco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37985,20.71567,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 022-N cruza con Avenida Patria Norte</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37808,20.71342,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 025-N cruza con San Jorge</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37595,20.71331,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Kunhardt 004-O cruza con Avenida Corona</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34675,20.67104,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Kunhardt 001-O cruza con Degollado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34546,20.67164,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 004-S cruza con Prisciliano Sánchez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3468,20.67228,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 003-S cruza con Miguel Blanco</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34753,20.67227,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 002-S cruza con López Cotilla</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34682,20.67385,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 001-S cruza con Francisco I. Madero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34764,20.67375,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 001-N cruza con San Felipe</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34716,20.67904,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 002-N cruza con Juan Manuel</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34799,20.67895,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 003-N cruza con Garibaldi</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34721,20.68056,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 004-N cruza con Angulo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34813,20.68204,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 005-N cruza con Herrera y Cairo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34737,20.68225,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 006-N cruza con Manuel Acuña</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34817,20.6838,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 007-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3475,20.68489,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 008-N cruza con Hospital</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34832,20.68558,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 009-N cruza con Eulogio Parra</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3476,20.68678,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 010-N cruza con Arista</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34849,20.68826,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 011-N cruza con Torres Quintero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34779,20.6901,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 012-N cruza con Gabriela Mistral</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34857,20.68998,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 013-N cruza con Avenida de Los Maestros</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34797,20.69208,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 015-N cruza con Al pasar Avenida Normalistas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34802,20.69386,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 014-N cruza con Avenida de los Maestros</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34883,20.69361,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 002-N cruza con Magisterio</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35036,20.69562,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 001-N cruza con Aguascalientes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35021,20.69675,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 003-N cruza con Yucatán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35209,20.69798,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 004-N cruza con Mar Rojo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35282,20.69718,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 005-N cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35432,20.6994,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 016-N cruza con Mar Egeo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36769,20.70669,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 017-N cruza con A2</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36672,20.70733,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 019-N cruza con Avenida de la Presa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36974,20.70927,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 018-N cruza con Frente Parque Manuel Avila Camacho</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37493,20.71133,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 021-N cruza con Ingreso Parque Manuel Avila Camacho</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.37262,20.71114,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 028-N cruza con Santa Rita</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38734,20.71921,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 033-N cruza con Al Cruzar Santa Rita</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38677,20.72025,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 030-N cruza con Juárez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3884,20.72218,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 035-N cruza con Frente a Calle Juárez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38697,20.72152,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 032-N cruza con Sarcofago</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38761,20.72572,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 037-N cruza con Industria</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38691,20.72397,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 034-N cruza con Al Cruzar Jesús García</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38713,20.72737,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 039-N cruza con Al Cruzar Santa Lucia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38585,20.72771,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 036-N cruza con Lopéz Cotilla</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38944,20.72815,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 041-N cruza con Pedro Moreno</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.38757,20.72908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 038-N cruza con Melchor Ocampo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39159,20.72874,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 043-N cruza con Melchor Oampo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39085,20.72955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 040-N cruza con Al Cruzar Anahuac</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39388,20.73044,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Laureles 045-N cruza con Vigía</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39331,20.73136,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán 047-N cruza con Del Pial</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39564,20.73307,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán 042-N cruza con Nuevo México</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39754,20.73308,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán 044-N cruza con Plata</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.40033,20.73514,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera Tesistán  049-N cruza con Boulevard Del Rodeo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.39879,20.73548,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 014-N cruza con Circunvalación José Alvárez del Castillo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36548,20.70518,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 015-N cruza con Calle A1</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36545,20.70637,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 012-N cruza con Ignacio Ramírez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36311,20.70363,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 013-N cruza con Ignacio Ramírez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36194,20.70411,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 010-N cruza con Nicolás Romero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.36071,20.70227,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 011-N cruza con Martíres Irlandeses</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35942,20.70251,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 008-N cruza con Miguel Galindo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35746,20.70013,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 009-N cruza con Avenida Enrique Díaz de leon</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35739,20.70125,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 006-N cruza con Avenida Federalismo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35593,20.69906,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Manuel Avila Camacho 007-N cruza con Chiapas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.35561,20.70009,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 023-E cruza con Francisco I. Madero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.24475,20.61854,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 024-E cruza con Tonaltecas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.24752,20.61912,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 021-E cruza con Santos Degollado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.24758,20.61828,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 019-E cruza con Clavel</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.24971,20.61807,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 022-E cruza con Clavel</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.24893,20.61908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 017-E cruza con Paseos del Sur</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25232,20.61782,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 020-E cruza con Paseo del Sur</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25208,20.61881,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 018-E cruza con Doroteo Arango</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25607,20.61853,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 015-E cruza con Doroteo Arango</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25629,20.61761,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 016-E cruza con Chinamecas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25793,20.61855,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 013-E cruza con Frente a Chinamecas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.25842,20.61743,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 014-E cruza con Frente a Avenida Tecpayocan</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.26619,20.61779,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 011-E cruza con Avenida Tecpayocan</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.26727,20.61685,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 012-E cruza con Frente a Avenida Aztlán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27107,20.61758,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 009-E cruza con Avenida Aztlán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27192,20.61644,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 007-E cruza con Azucena</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27446,20.61625,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 010-E cruza con Azucena</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27345,20.61736,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 008-E cruza con Privada Guadalupe</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27571,20.61727,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 005-E cruza con Del Cerrito</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27676,20.61615,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 006-E cruza con Unicornio</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.27962,20.61693,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 003-E cruza con Unicornio</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28026,20.61585,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 004-E cruza con Salvador Hinojosa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28219,20.6168,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 001-E cruza con Frente a Salvador Hinojosa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28284,20.61561,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Tonala 002-E cruza con Salvador Hinojosa</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28395,20.61669,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 057-E cruza con Puerto de Campeche</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28637,20.61659,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 056A-E cruza con Frente a Puerto Campeche</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28542,20.61738,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 056-E cruza con Carlos Salgado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28682,20.61943,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 055-E cruza con Mazatlán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28785,20.61883,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 052-E cruza con Niños Héroes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29618,20.63265,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 050-E cruza con Niños Héroes</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29677,20.63352,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 048-E cruza con Morelos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29826,20.63571,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 046-E cruza con Hidalgo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30038,20.63869,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 044-E cruza con Zalatitán</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3019,20.64142,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 054-E cruza con Carlos Salgado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28827,20.62154,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Carretera a los Altos 053-E cruza con Puerto Guaymas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.28947,20.62103,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 051-E cruza con Privada Jorge Cázeres Campos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29644,20.63119,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 049-E cruza con Camino a Tonalá</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.29828,20.63389,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 047-E cruza con Tonalá</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.2998,20.63609,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 045-E cruza con Zaragoza</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30123,20.6383,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 043-E cruza con Rosales</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30276,20.64102,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Francisco Silva Romero 041-E cruza con Emiliano Zapata</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3036,20.64246,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 042-E cruza con Rio Nilo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30368,20.64465,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 039-E cruza con Rio Nilo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30494,20.64483,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 040-E cruza con Antonio García Cubas</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30461,20.64631,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 037-E cruza con José María Marroqui</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30596,20.6467,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 038-E cruza con Novo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30546,20.64781,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 035-E cruza con Carpinteros</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30842,20.64895,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 033-E cruza con Ramón López Velarde</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31095,20.65049,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 036-E cruza con Ejido</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30738,20.64958,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 034-E cruza con Ramón López Verlarde</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.30981,20.65109,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 031-E cruza con J. M. Castaños</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31245,20.65149,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 032-E cruza con Francisco Márquez</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31193,20.65241,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 029-E cruza con Rafael Delgado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31404,20.65244,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 030-E cruza con Hernando Martell</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31386,20.65361,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 028-E cruza con Carlos Fuero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31552,20.65463,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 027-E cruza con Carlos Fuero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31654,20.65405,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 026-E cruza con Fray Antonio de Segovia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31711,20.65565,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 025-E cruza con Fray Antonio de Segovia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31861,20.6554,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 023-E cruza con Calzada Olímpica</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32001,20.65625,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 024-E cruza con Irineo Paz</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.31877,20.65671,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 021-E cruza con Frente a Edison</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32219,20.6576,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 022-E cruza con Edison</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32134,20.65833,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 019-E cruza con Frente a Pedro Catani</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32499,20.65938,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 020-E cruza con Fray Manuel de Mimbela</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32353,20.65972,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 017-E cruza con Corregidora</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32682,20.6606,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 018-E cruza con Corregidora</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32572,20.66108,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 015-E cruza con Dr. Peréz Arce</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.32933,20.66214,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 016-E cruza con Dr. Peréz Arce</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3282,20.66268,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 013-E cruza con Saturno</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33096,20.66323,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 014-E cruza con Dr. Leonardo Oliva</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33026,20.66397,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 011-E cruza con Constancia</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33315,20.66464,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 012-E cruza con Calzada del Ejército</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3326,20.66544,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 009-E cruza con Constitución</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33493,20.66597,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 010-E cruza con Cuartel Colorado</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33378,20.66629,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 007-E cruza con Alquitras</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33673,20.66705,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 008-E cruza con José Luis Verdía</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33658,20.66795,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 005-E cruza con Nicolás Bravo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33881,20.66774,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 006-E cruza con José de Burgos</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.33931,20.66894,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 003-E cruza con 5 de Mayo</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.3417,20.66882,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 004-E cruza con 28 de Enero</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34183,20.66987,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 001-E cruza con 20 de Noviembre</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34401,20.66979,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Revolución 002-E cruza con 20 de Noviembre</description>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+			<Point>
+				<coordinates>-103.34309,20.67043,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

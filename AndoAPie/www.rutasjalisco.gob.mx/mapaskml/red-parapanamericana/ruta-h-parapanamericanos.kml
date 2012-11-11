@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ruta-h-parapanamericanos.kml</name>
+	<StyleMap id="msn_bus-terminal1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus-terminal2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff00aa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_bus-terminal1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ff00ff00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_bus-terminal1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Ruta H Parapanamericanos</name>
+		<open>1</open>
+		<Folder>
+			<name>Terminales</name>
+			<open>1</open>
+			<Placemark>
+				<name>Terminal Origen Ruta H Parapanamericanos</name>
+				<description>Avenida Rafael Sanzio y Avenida Vallarta</description>
+				<LookAt>
+					<longitude>-103.4241899782085</longitude>
+					<latitude>20.67342933921708</latitude>
+					<altitude>0</altitude>
+					<heading>-0.005796526226424451</heading>
+					<tilt>0</tilt>
+					<range>2796.631080461898</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_bus-terminal1</styleUrl>
+				<Point>
+					<coordinates>-103.4301345159562,20.6809520003213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Terminal Destino Ruta H Parapanamericanos</name>
+				<description>Estadio Acuático (Misión de San Lorenzo y Avenida Ecónomos)</description>
+				<LookAt>
+					<longitude>-103.4453326671124</longitude>
+					<latitude>20.65964305289182</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0132577258290026</heading>
+					<tilt>0</tilt>
+					<range>1665.676440833404</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_bus-terminal2</styleUrl>
+				<Point>
+					<coordinates>-103.4445877391983,20.66388833898298,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Derrotero ida Ruta H</name>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Rutas parapanamericanos.kml#Rutas_parapanamericanos">
+					<SimpleData name="ROUTE_ID">4054</SimpleData>
+					<SimpleData name="ROUTE_NAME">RUTA H PAN_2</SimpleData>
+					<SimpleData name="SIDE">R</SimpleData>
+					<SimpleData name="RUTA"></SimpleData>
+					<SimpleData name="VIA"></SimpleData>
+					<SimpleData name="ESTACION_C"></SimpleData>
+					<SimpleData name="SIDE1"></SimpleData>
+					<SimpleData name="FLOTA">0</SimpleData>
+					<SimpleData name="INTERVALO">0.00</SimpleData>
+					<SimpleData name="ESTADO"></SimpleData>
+					<SimpleData name="NOMBRE"></SimpleData>
+					<SimpleData name="EMPRESA"></SimpleData>
+					<SimpleData name="MODE">0</SimpleData>
+					<SimpleData name="HEADWAY">0.00</SimpleData>
+					<SimpleData name="VARIANCE">0</SimpleData>
+					<SimpleData name="FARE">0.00</SimpleData>
+					<SimpleData name="X_FARE">0.00</SimpleData>
+					<SimpleData name="CAPACITY">0</SimpleData>
+					<SimpleData name="NUMERO">0</SimpleData>
+					<SimpleData name="DEMANDA">0</SimpleData>
+					<SimpleData name="VOLAB">0.00</SimpleData>
+					<SimpleData name="VOLBA">0.00</SimpleData>
+					<SimpleData name="LONG">0.000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-103.444773,20.66403999999981,0 -103.4448420000001,20.6640699999998,0 -103.444902,20.66407199999981,0 -103.444949,20.6640699999998,0 -103.4450310000001,20.66403499999981,0 -103.445093,20.66397799999981,0 -103.4451120000001,20.6639399999998,0 -103.445124,20.6638939999998,0 -103.445123,20.6638359999998,0 -103.4451140000001,20.6637899999998,0 -103.445095,20.66375299999981,0 -103.4450700000001,20.66372599999981,0 -103.445023,20.66368499999981,0 -103.4449690000001,20.66365599999981,0 -103.444972,20.66348499999981,0 -103.444962,20.6633429999998,0 -103.4449280000001,20.66307099999981,0 -103.444883,20.66278999999981,0 -103.4448340000001,20.66250499999981,0 -103.444767,20.66216199999981,0 -103.444871,20.66094599999981,0 -103.444964,20.6598339999998,0 -103.4450160000001,20.65915199999981,0 -103.44454,20.65911899999981,0 -103.444219,20.65909499999981,0 -103.4432010000001,20.6590219999998,0 -103.443085,20.65901299999981,0 -103.442532,20.65897299999981,0 -103.4412200000001,20.6588759999998,0 -103.440949,20.6588559999998,0 -103.439314,20.6587349999998,0 -103.4375190000001,20.6586009999998,0 -103.4359000000001,20.6584799999998,0 -103.4352660000001,20.6584859999998,0 -103.4350030000001,20.6585149999998,0 -103.4341640000001,20.6586089999998,0 -103.4339250000001,20.65863099999979,0 -103.4335280000001,20.658713,0 -103.4334370000001,20.6587309999998,0 -103.4330570000001,20.6588759999998,0 -103.4327050000001,20.6590769999998,0 -103.4324180000001,20.659311,0 -103.4321070000001,20.6596449999998,0 -103.4319650000001,20.65982799999979,0 -103.4315530000001,20.6603579999998,0 -103.4314450000001,20.6605289999998,0 -103.4308150000001,20.661074,0 -103.4309800000001,20.661402,0 -103.4310790000001,20.6620469999998,0 -103.4312090000001,20.6627149999998,0 -103.4313620000001,20.6634979999998,0 -103.4315180000001,20.6642969999998,0 -103.4316310000001,20.66487799999979,0 -103.4317430000001,20.66545099999979,0 -103.4318740000001,20.6661229999998,0 -103.4320060000001,20.66680199999979,0 -103.431851,20.6674349999998,0 -103.431707,20.6680219999998,0 -103.4314950000001,20.6688839999998,0 -103.4312970000001,20.66968699999979,0 -103.4311010000001,20.6704839999998,0 -103.430961,20.671055,0 -103.430819,20.6716309999998,0 -103.4306790000001,20.6722029999998,0 -103.430542,20.6727589999998,0 -103.4304,20.6733379999998,0 -103.430221,20.6740629999998,0 -103.430043,20.6747889999998,0 -103.4294750000001,20.6770999999998,0 -103.4291740000001,20.6784109999998,0 -103.42868,20.68043399999979,0 -103.4291640000001,20.68053799999979,0 -103.430062,20.6807289999998,0 -103.4291640000001,20.68053799999979,0 -103.42868,20.68043399999979,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Derrotero regreso Ruta H</name>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Rutas parapanamericanos.kml#Rutas_parapanamericanos">
+					<SimpleData name="ROUTE_ID">4053</SimpleData>
+					<SimpleData name="ROUTE_NAME">RUTA H PAN_1</SimpleData>
+					<SimpleData name="SIDE">R</SimpleData>
+					<SimpleData name="RUTA"></SimpleData>
+					<SimpleData name="VIA"></SimpleData>
+					<SimpleData name="ESTACION_C"></SimpleData>
+					<SimpleData name="SIDE1"></SimpleData>
+					<SimpleData name="FLOTA">0</SimpleData>
+					<SimpleData name="INTERVALO">0.00</SimpleData>
+					<SimpleData name="ESTADO"></SimpleData>
+					<SimpleData name="NOMBRE"></SimpleData>
+					<SimpleData name="EMPRESA"></SimpleData>
+					<SimpleData name="MODE">0</SimpleData>
+					<SimpleData name="HEADWAY">0.00</SimpleData>
+					<SimpleData name="VARIANCE">0</SimpleData>
+					<SimpleData name="FARE">0.00</SimpleData>
+					<SimpleData name="X_FARE">0.00</SimpleData>
+					<SimpleData name="CAPACITY">0</SimpleData>
+					<SimpleData name="NUMERO">0</SimpleData>
+					<SimpleData name="DEMANDA">0</SimpleData>
+					<SimpleData name="VOLAB">0.00</SimpleData>
+					<SimpleData name="VOLBA">0.00</SimpleData>
+					<SimpleData name="LONG">0.000</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-103.42868,20.68043399999979,0 -103.4291740000001,20.6784109999998,0 -103.4294750000001,20.6770999999998,0 -103.430043,20.6747889999998,0 -103.430221,20.6740629999998,0 -103.4304,20.6733379999998,0 -103.430542,20.6727589999998,0 -103.4306790000001,20.6722029999998,0 -103.430819,20.6716309999998,0 -103.430961,20.671055,0 -103.4311010000001,20.6704839999998,0 -103.4312970000001,20.66968699999979,0 -103.4314950000001,20.6688839999998,0 -103.431707,20.6680219999998,0 -103.431851,20.6674349999998,0 -103.4320060000001,20.66680199999979,0 -103.4318740000001,20.6661229999998,0 -103.4317430000001,20.66545099999979,0 -103.4316310000001,20.66487799999979,0 -103.4315180000001,20.6642969999998,0 -103.4313620000001,20.6634979999998,0 -103.4312090000001,20.6627149999998,0 -103.4310790000001,20.6620469999998,0 -103.4309800000001,20.661402,0 -103.4308150000001,20.661074,0 -103.4314450000001,20.6605289999998,0 -103.4315530000001,20.6603579999998,0 -103.4319650000001,20.65982799999979,0 -103.4321070000001,20.6596449999998,0 -103.4324180000001,20.659311,0 -103.4327050000001,20.6590769999998,0 -103.4330570000001,20.6588759999998,0 -103.4334370000001,20.6587309999998,0 -103.4335280000001,20.658713,0 -103.4339250000001,20.65863099999979,0 -103.4341640000001,20.6586089999998,0 -103.4350030000001,20.6585149999998,0 -103.4352660000001,20.6584859999998,0 -103.4359000000001,20.6584799999998,0 -103.4375190000001,20.6586009999998,0 -103.439314,20.6587349999998,0 -103.440949,20.6588559999998,0 -103.4412200000001,20.6588759999998,0 -103.442532,20.65897299999981,0 -103.443085,20.65901299999981,0 -103.4432010000001,20.6590219999998,0 -103.444219,20.65909499999981,0 -103.44454,20.65911899999981,0 -103.4450160000001,20.65915199999981,0 -103.444964,20.6598339999998,0 -103.444871,20.66094599999981,0 -103.444767,20.66216199999981,0 -103.4448340000001,20.66250499999981,0 -103.444883,20.66278999999981,0 -103.4449280000001,20.66307099999981,0 -103.444962,20.6633429999998,0 -103.444972,20.66348499999981,0 -103.4449690000001,20.66365599999981,0 -103.444835,20.66366899999981,0 -103.444779,20.66369999999981,0 -103.444739,20.66373199999981,0 -103.444708,20.66377799999981,0 -103.444691,20.66382799999981,0 -103.444688,20.6638859999998,0 -103.444708,20.66396699999981,0 -103.444773,20.66403999999981,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

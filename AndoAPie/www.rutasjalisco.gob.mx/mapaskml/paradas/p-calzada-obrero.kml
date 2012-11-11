@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Obrero</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.28839</longitude>
+		<latitude>20.70034</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<Style id="sn_bus-stop147">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop1470">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop147</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop1472</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1471">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1472">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 027-N cruza con cruza con Hacienda La Colmena</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.28839,20.70034,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 025-N cruza con cruza con Joaquin Amaro</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.29121,20.69915,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 023-N cruza con cruza con Av. Artesanos</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.29507,20.6975,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 022-N cruza con cruza con Av. Artesanos</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.29409,20.6989,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 021-N cruza con cruza con Hacienda de la Quemada</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.29874,20.69605,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 020-N cruza con cruza con Hacienda de la Quemada</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.29846,20.69718,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 019-N cruza con cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.30338,20.69426,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 018-N cruza con cruza con Rivas Guillen</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.30243,20.69561,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 017-N cruza con cruza con Juan de Dios Robledo</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.30719,20.69278,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 016-N cruza con cruza con Juan de Dios Robledo</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.30631,20.69401,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 014-N cruza con cruza con Av. de La Cruz</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.3085,20.69319,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 015-N cruza con cruza con Av. de la Cruz</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.30876,20.69211,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 013-N cruza con cruza con San Pablo</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31183,20.6908,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 011-N cruza con cruza con Santa Clemencia</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31497,20.68964,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 012-N cruza con cruza con Santa Rosalia</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31358,20.69111,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 009-N cruza con cruza con San Mariano</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31699,20.68878,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 010-N cruza con cruza con San Mariano</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31673,20.6899,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 007-N cruza con cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32006,20.68753,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 008-N cruza con cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.31968,20.68869,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 005-N cruza con cruza con Chimborazo</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32227,20.68591,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 006-N cruza con cruza con Chimborazo</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32215,20.68702,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 003-N cruza con cruza con JosÚ Luis Mora</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32387,20.68462,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 004-N cruza con cruza con JosÚ Ma. Lozano</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32521,20.68461,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 001-N cruza con cruza con Aquiles Serdßn</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.32561,20.68331,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada Obrero 002-N cruza con cruza con Belisario Dominguez</description>
+			<styleUrl>#sn_bus-stop1470</styleUrl>
+			<Point>
+				<coordinates>-103.3268,20.68315,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

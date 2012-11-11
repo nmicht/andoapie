@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>p-alcalde-16septiembre-sur.kml</name>
+	<Style id="sn_bus-stop">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 015-S cruza con Cartero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35163,20.65919,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 013-S cruza con Avenida del Campesino</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.35099,20.66077,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 014-S cruza con Constituyentes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34971,20.662,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 012-S cruza con Estadio</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34929,20.66318,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 011-S cruza con Avenida Niños Heróes</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34974,20.66423,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 010-S cruza con Epigmenio González</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34835,20.66567,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 009-S cruza con Epigmenio González</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34901,20.66648,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 008-S cruza con Avenida de La Paz</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34776,20.66743,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 007-S cruza con Avenida de La Paz</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34827,20.66864,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 006-S cruza con Leandro Valle</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34728,20.66924,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>16 de Septiembre 005-S cruza con Leandro Valle</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34777,20.67025,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 004-S cruza con Prisciliano Sánchez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3468,20.67228,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 003-S cruza con Miguel Blanco</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34753,20.67227,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 002-S cruza con López Cotilla</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34682,20.67385,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Avenida Alcalde 001-S cruza con Francisco I. Madero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.34764,20.67375,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

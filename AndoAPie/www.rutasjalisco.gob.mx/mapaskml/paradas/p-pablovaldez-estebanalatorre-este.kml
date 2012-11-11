@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Pablo Váldez - Esteban Alatorre Este</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<Style id="sn_bus-stop151">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1510">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="sn_bus-stop1511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop1512</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop1512">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Pablo Váldez - Esteban Alatorre Este</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 072-E cruza con Tala</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.25884,20.67732,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 071-E cruza con Avenida Zalatitan</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.25831,20.6765,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 070-E cruza con Prolongación Mascota</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26124,20.67709,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 069-E cruza con Prolongación Marscota</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26164,20.67631,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 068-E cruza con Avenida La Barca</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26357,20.67736,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 067-E cruza con Avenida La Barca</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26428,20.67674,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 066-E cruza con Cocula</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26592,20.67821,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 065-E cruza con Avenida Patria Oriente</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26669,20.67745,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 064-E cruza con Lopéz Cotilla</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26796,20.67948,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 062-E cruza con Gloria Mateo</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26976,20.67989,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 063-E cruza con Pedro Rivas</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.26939,20.67928,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 060-E cruza con José Ma. Iglesias</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.2719,20.67867,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 061-E cruza con Delia Moreno</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27249,20.67719,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 059-E cruza con Dr. Roberto Weeks</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27385,20.6747,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 058-E cruza con Dr. Roberto Weeks</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.2738,20.67569,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 057-E cruza con Presa Tacotán</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27631,20.67416,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 056-E cruza con Presa Ahome</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27609,20.67497,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 055-E cruza con Presa el Estribón</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27875,20.67363,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 054-E cruza con Francisco gonzález</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.27887,20.67435,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 052-E cruza con José Rosas Moreno</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28083,20.67402,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 053-E cruza con Presa Oviachic</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28217,20.67326,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 050-E cruza con Santiago Guzmán</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28274,20.67406,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 051-E cruza con Jordán</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28436,20.67325,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 048-E cruza con Marruecos</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28467,20.67402,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 049-E cruza con Arquimides</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28593,20.67339,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Arquimides 046-E cruza con Gaza</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28673,20.6729,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 047-E cruza con Gaza</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28657,20.67343,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 044-E cruza con Demóstenes</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28802,20.67245,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 045-E cruza con Nubia</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.28934,20.67337,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 042-E cruza con Túnez</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29119,20.67254,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 042-E cruza con Túnez</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29152,20.67336,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 040-E cruza con Esmirna</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29312,20.67256,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 041-E cruza con Teherán</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29411,20.6735,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 038-E cruza con Plutarco Elías Calles</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29566,20.67269,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 039-E cruza con Plutarco Elías Calles</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29618,20.67348,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 037-E cruza con Vergel</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29795,20.67372,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 036-E cruza con Diego Cuentas</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29822,20.67332,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 035-E cruza con Lagunitas</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.29975,20.67419,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 034-E cruza con Felipe -ngeles</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30186,20.67448,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 033-E cruza con Felipe -ngeles</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.3023,20.67499,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 031-E cruza con Francisco Sarabia</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30402,20.67553,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 032-E cruza con Pánfilo Peréz</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30457,20.67521,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 029-E cruza con Francisco Villa</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30584,20.67614,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 030-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30721,20.67603,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 027-E cruza con Francisco González Bocanegra</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30767,20.67668,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 028-E cruza con Ignacio Machain</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31007,20.67695,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 025-E cruza con Ramon Carmona</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.30952,20.6772,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 026-E cruza con Juan de Dios Robledo</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31188,20.67739,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 023-E cruza con Sebastían Allende</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31137,20.67776,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 024-E cruza con Castellanos y Tapia</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31376,20.67798,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 021-E cruza con Basilio Vadillo</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31322,20.67829,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 022-E cruza con Enrique Alvárez del Castillo</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31553,20.67856,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 019-E cruza con Rita Peréz de Moreno</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31502,20.67885,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 020-E cruza con Pedro Ramón Blancarte</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31741,20.67909,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 017-E cruza con Ramon Blancarte</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31778,20.67967,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 010-E cruza con Celestino Negrete</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31917,20.67964,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 015-E cruza con Celestino Negrete</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.31963,20.68024,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 016-E cruza con Porfirio Díaz</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.32099,20.68027,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 014-E cruza con Roman Morales</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.32328,20.68096,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 013-E cruza con Esteban Loera</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.32239,20.68107,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 011-E cruza con Emiliano Zapata</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.32518,20.68122,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 012-E cruza con Aquiles Serdán</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.326,20.68097,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 009-E cruza con Belisario Dominguez</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.32802,20.6813,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 010-E cruza con Jarauta</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.3288,20.68092,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 007-E cruza con Pedro Galván</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33015,20.68125,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 008-E cruza con Manuel Doblado</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33129,20.68123,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 005-E cruza con Manuel Doblado</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33179,20.68157,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 006-E cruza con Juan Díaz Covarrubias</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33283,20.68144,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 003-E cruza con Juan Díaz Covarrubias</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33335,20.6817,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 004-E cruza con Abascal y Souza</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33592,20.68136,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Pablo Valdez 001-E cruza con Abascal y Souza</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.33644,20.68159,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Esteban Alatorre 002-E cruza con Calzada Independencia Norte</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.3383,20.68139,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Garibaldi 003-E cruza con Humboldt</description>
+			<styleUrl>#sn_bus-stop1511</styleUrl>
+			<Point>
+				<coordinates>-103.34327,20.6813,0</coordinates>
+			</Point>
+			<end>
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

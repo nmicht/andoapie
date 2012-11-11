@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ruta-01-especial.kml</name>
+	<StyleMap id="msn_bus-terminal2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff00ff00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_bus-terminal1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ff00aa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_bus-terminal2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus-terminal1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-terminal1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Ruta Especial 1 Parapanamericanos</name>
+		<open>1</open>
+		<Folder>
+			<name>Terminales</name>
+			<open>1</open>
+			<Placemark>
+				<name>Terminal origen Ruta 01 Especial</name>
+				<description>Dr. Luis Farah </description>
+				<LookAt>
+					<longitude>-103.387443499823</longitude>
+					<latitude>20.72213351801836</latitude>
+					<altitude>0</altitude>
+					<heading>0.01351010209247542</heading>
+					<tilt>0</tilt>
+					<range>2218.852656301032</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_bus-terminal1</styleUrl>
+				<Point>
+					<coordinates>-103.3858214808558,20.72848611343476,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Terminal destino Ruta 01 Especial</name>
+				<description>Avenida Adolfo López Mateos </description>
+				<LookAt>
+					<longitude>-103.374267227004</longitude>
+					<latitude>20.6911920543577</latitude>
+					<altitude>0</altitude>
+					<heading>0.01814947387623128</heading>
+					<tilt>0</tilt>
+					<range>1262.768086577525</range>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_bus-terminal2</styleUrl>
+				<Point>
+					<coordinates>-103.3741264727639,20.69450979515369,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Derrotero ida Ruta 01 Especial</name>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Rutas parapanamericanos.kml#Rutas_parapanamericanos">
+					<SimpleData name="ROUTE_ID">4037</SimpleData>
+					<SimpleData name="ROUTE_NAME">RUTA ESP01_1</SimpleData>
+					<SimpleData name="SIDE">R</SimpleData>
+					<SimpleData name="RUTA"></SimpleData>
+					<SimpleData name="VIA"></SimpleData>
+					<SimpleData name="ESTACION_C"></SimpleData>
+					<SimpleData name="SIDE1"></SimpleData>
+					<SimpleData name="FLOTA">0</SimpleData>
+					<SimpleData name="INTERVALO">0.00</SimpleData>
+					<SimpleData name="ESTADO"></SimpleData>
+					<SimpleData name="NOMBRE"></SimpleData>
+					<SimpleData name="EMPRESA"></SimpleData>
+					<SimpleData name="MODE">0</SimpleData>
+					<SimpleData name="HEADWAY">0.00</SimpleData>
+					<SimpleData name="VARIANCE">0</SimpleData>
+					<SimpleData name="FARE">0.00</SimpleData>
+					<SimpleData name="X_FARE">0.00</SimpleData>
+					<SimpleData name="CAPACITY">0</SimpleData>
+					<SimpleData name="NUMERO">0</SimpleData>
+					<SimpleData name="DEMANDA">0</SimpleData>
+					<SimpleData name="VOLAB">0.00</SimpleData>
+					<SimpleData name="VOLBA">0.00</SimpleData>
+					<SimpleData name="LONG">6698.804</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-103.385943,20.72860599999976,0 -103.3840630000001,20.72819,0 -103.3835800000001,20.73006499999976,0 -103.382211,20.72982299999976,0 -103.3817350000001,20.72966699999975,0 -103.3809380000001,20.72905099999975,0 -103.3805710000001,20.72876199999975,0 -103.38032,20.72857499999976,0 -103.380179,20.72849899999975,0 -103.3799330000001,20.72840499999976,0 -103.379321,20.72826599999975,0 -103.3786890000001,20.72813099999975,0 -103.378375,20.72806399999975,0 -103.3778720000001,20.72795799999975,0 -103.3781130000001,20.72708499999975,0 -103.3782640000001,20.72653799999976,0 -103.3784850000001,20.72589999999975,0 -103.378651,20.72544299999975,0 -103.3787020000001,20.72529599999975,0 -103.3791630000001,20.72538899999976,0 -103.3791930000001,20.72514699999976,0 -103.3792430000001,20.72442399999975,0 -103.3798760000001,20.72446599999976,0 -103.38053,20.72451,0 -103.3811580000001,20.72455199999976,0 -103.3818030000001,20.72459699999975,0 -103.382697,20.72469999999976,0 -103.3836730000001,20.72481199999976,0 -103.384742,20.72492899999977,0 -103.385828,20.72504999999976,0 -103.3869660000001,20.72518499999976,0 -103.3872,20.72433799999976,0 -103.3874350000001,20.72353399999976,0 -103.387614,20.72289199999976,0 -103.387651,20.72272299999976,0 -103.387665,20.72253399999976,0 -103.3876540000001,20.72237099999976,0 -103.387625,20.72223599999976,0 -103.3874820000001,20.72178899999976,0 -103.3873560000001,20.72142399999976,0 -103.3873200000001,20.72128699999977,0 -103.387323,20.72109199999976,0 -103.387425,20.72053199999976,0 -103.387401,20.72043199999976,0 -103.38728,20.72017599999976,0 -103.3870900000001,20.71996699999976,0 -103.386982,20.71987599999976,0 -103.3867070000001,20.71970099999976,0 -103.3857600000001,20.71909899999976,0 -103.3850920000001,20.71867699999976,0 -103.3847930000001,20.71848699999976,0 -103.3837390000001,20.71781999999975,0 -103.3827700000001,20.71718899999975,0 -103.3826740000001,20.71712699999975,0 -103.3801870000001,20.71553599999976,0 -103.3779450000001,20.71410299999975,0 -103.3773070000001,20.71369799999975,0 -103.3766490000001,20.71328099999975,0 -103.3758520000001,20.71275199999975,0 -103.3768270000001,20.71287,0 -103.3774850000001,20.71308399999975,0 -103.3778890000001,20.71329399999975,0 -103.3782430000001,20.71337699999975,0 -103.3785650000001,20.71339599999975,0 -103.3789550000001,20.71330399999976,0 -103.3794820000001,20.71310199999976,0 -103.3797710000001,20.71299399999975,0 -103.3802500000001,20.71256799999976,0 -103.3809930000001,20.71209599999975,0 -103.3805830000001,20.71155399999975,0 -103.3803350000001,20.71117799999976,0 -103.3786500000001,20.70937899999975,0 -103.3784090000001,20.70909599999975,0 -103.3781520000001,20.70874899999975,0 -103.3780060000001,20.70847699999975,0 -103.3770540000001,20.70656699999975,0 -103.3770440000001,20.70645299999975,0 -103.3769150000001,20.70545699999975,0 -103.3768850000001,20.70522599999975,0 -103.3768240000001,20.70498599999976,0 -103.3767610000001,20.70475099999975,0 -103.3765870000001,20.70421299999975,0 -103.3763240000001,20.70350499999975,0 -103.3760940000001,20.70289199999975,0 -103.3757270000001,20.70181099999975,0 -103.3754070000001,20.70083899999975,0 -103.3750300000001,20.69977199999975,0 -103.3746710000001,20.69906199999975,0 -103.3734630000001,20.69682499999975,0 -103.3733690000001,20.69665199999975,0 -103.3732810000001,20.69647899999975,0 -103.3732080000001,20.69631199999975,0 -103.3731550000001,20.69615699999975,0 -103.3731100000001,20.69604099999975,0 -103.3732230000001,20.69536599999975,0 -103.3732580000001,20.69371999999975,0 -103.3732600000001,20.69363,0 -103.3741770000001,20.69439499999975,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Derrotero regreso Ruta 01 Especial</name>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Rutas parapanamericanos.kml#Rutas_parapanamericanos">
+					<SimpleData name="ROUTE_ID">4038</SimpleData>
+					<SimpleData name="ROUTE_NAME">RUTA ESP01_2</SimpleData>
+					<SimpleData name="SIDE">R</SimpleData>
+					<SimpleData name="RUTA"></SimpleData>
+					<SimpleData name="VIA"></SimpleData>
+					<SimpleData name="ESTACION_C"></SimpleData>
+					<SimpleData name="SIDE1"></SimpleData>
+					<SimpleData name="FLOTA">0</SimpleData>
+					<SimpleData name="INTERVALO">0.00</SimpleData>
+					<SimpleData name="ESTADO"></SimpleData>
+					<SimpleData name="NOMBRE"></SimpleData>
+					<SimpleData name="EMPRESA"></SimpleData>
+					<SimpleData name="MODE">0</SimpleData>
+					<SimpleData name="HEADWAY">0.00</SimpleData>
+					<SimpleData name="VARIANCE">0</SimpleData>
+					<SimpleData name="FARE">0.00</SimpleData>
+					<SimpleData name="X_FARE">0.00</SimpleData>
+					<SimpleData name="CAPACITY">0</SimpleData>
+					<SimpleData name="NUMERO">0</SimpleData>
+					<SimpleData name="DEMANDA">0</SimpleData>
+					<SimpleData name="VOLAB">0.00</SimpleData>
+					<SimpleData name="VOLBA">0.00</SimpleData>
+					<SimpleData name="LONG">4570.747</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-103.3741770000001,20.69439499999975,0 -103.3735000000001,20.69539899999975,0 -103.3731100000001,20.69604099999975,0 -103.3731550000001,20.69615699999975,0 -103.3732080000001,20.69631199999975,0 -103.3732810000001,20.69647899999975,0 -103.3733690000001,20.69665199999975,0 -103.3734630000001,20.69682499999975,0 -103.3746710000001,20.69906199999975,0 -103.3750300000001,20.69977199999975,0 -103.3754070000001,20.70083899999975,0 -103.3757270000001,20.70181099999975,0 -103.3760940000001,20.70289199999975,0 -103.3763240000001,20.70350499999975,0 -103.3765870000001,20.70421299999975,0 -103.3767610000001,20.70475099999975,0 -103.3768240000001,20.70498599999976,0 -103.3768850000001,20.70522599999975,0 -103.3769150000001,20.70545699999975,0 -103.3770440000001,20.70645299999975,0 -103.3770540000001,20.70656699999975,0 -103.3780060000001,20.70847699999975,0 -103.3781520000001,20.70874899999975,0 -103.3784090000001,20.70909599999975,0 -103.3786500000001,20.70937899999975,0 -103.3803350000001,20.71117799999976,0 -103.3787330000001,20.71148799999975,0 -103.3766560000001,20.71182899999975,0 -103.3757350000001,20.71196799999975,0 -103.3754870000001,20.71201899999975,0 -103.3751650000001,20.71214999999975,0 -103.3750150000001,20.71223399999975,0 -103.3754920000001,20.71251199999975,0 -103.3758520000001,20.71275199999975,0 -103.3766490000001,20.71328099999975,0 -103.3773070000001,20.71369799999975,0 -103.3779450000001,20.71410299999975,0 -103.3801870000001,20.71553599999976,0 -103.3826740000001,20.71712699999975,0 -103.3827700000001,20.71718899999975,0 -103.3837390000001,20.71781999999975,0 -103.3847930000001,20.71848699999976,0 -103.3850920000001,20.71867699999976,0 -103.3857600000001,20.71909899999976,0 -103.3867070000001,20.71970099999976,0 -103.386982,20.71987599999976,0 -103.3870900000001,20.71996699999976,0 -103.38728,20.72017599999976,0 -103.387401,20.72043199999976,0 -103.387425,20.72053199999976,0 -103.387323,20.72109199999976,0 -103.3873200000001,20.72128699999977,0 -103.3873560000001,20.72142399999976,0 -103.3874820000001,20.72178899999976,0 -103.387625,20.72223599999976,0 -103.3876540000001,20.72237099999976,0 -103.387665,20.72253399999976,0 -103.387651,20.72272299999976,0 -103.387614,20.72289199999976,0 -103.3874350000001,20.72353399999976,0 -103.3872,20.72433799999976,0 -103.3869660000001,20.72518499999976,0 -103.386725,20.72606399999976,0 -103.386478,20.72696899999977,0 -103.386385,20.72732599999976,0 -103.386111,20.72788699999976,0 -103.385943,20.72860599999976,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

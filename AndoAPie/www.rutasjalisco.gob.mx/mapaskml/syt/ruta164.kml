@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ruta 164</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin1280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1330</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal23400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal23500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal23400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12800</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus-terminal2350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-terminal2360</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus-terminal2350</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1270">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff5e5e5e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal2350">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-terminal23500">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1330">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff5e5e5e</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus-terminal2360">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12800">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_bus-terminal23400">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-terminal2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Terminales</name>
+		<Placemark>
+			<name>Terminal Ruta 164</name>
+			<LookAt>
+				<longitude>-103.4507453161498</longitude>
+				<latitude>20.70868082157723</latitude>
+				<altitude>0</altitude>
+				<heading>-12.32675093935315</heading>
+				<tilt>0</tilt>
+				<range>993.177036484053</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal2350</styleUrl>
+			<Point>
+				<coordinates>-103.4534184637891,20.70769527805107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Terminal Retorno Ruta 164</name>
+			<LookAt>
+				<longitude>-103.3869408567257</longitude>
+				<latitude>20.72312291610579</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0495897600667659</heading>
+				<tilt>0</tilt>
+				<range>1117.612085411684</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus-terminal23400</styleUrl>
+			<Point>
+				<coordinates>-103.3852873374472,20.72115231817215,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>Derrotero Ida Ruta 164</name>
+		<styleUrl>#msn_ylw-pushpin12600</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-103.3853097841205,20.72101524415445,0 -103.3861374739049,20.72092603180077,0 -103.3864081686835,20.72091542180071,0 -103.3878393638056,20.7211054412314,0 -103.3910818542532,20.72165568474277,0 -103.3949079430461,20.72228168507649,0 -103.3980777132658,20.72282141055541,0 -103.3996054101749,20.72311978015682,0 -103.4000729927049,20.72420858990292,0 -103.4001620198471,20.72431260896448,0 -103.4006124337122,20.72474825759904,0 -103.4000482801558,20.725161492719,0 -103.3998052768329,20.72527516551039,0 -103.3988211448103,20.72593883147112,0 -103.4031752423326,20.73026455864866,0 -103.4046004085403,20.73163315090477,0 -103.4091327524384,20.73122402813318,0 -103.4126895067337,20.73093137703175,0 -103.41779906245,20.73047927431623,0 -103.4223056334615,20.73009672718379,0 -103.4244086159789,20.72995299096386,0 -103.4295259148346,20.72986567426449,0 -103.4332359509683,20.72981225237639,0 -103.4359934514862,20.72932624705198,0 -103.4399545566105,20.72975969657938,0 -103.4432375962512,20.73013495089392,0 -103.447523452777,20.73061237709344,0 -103.4515383996616,20.73111027135517,0 -103.452140277809,20.72898146995355,0 -103.4526511690158,20.72739865493652,0 -103.4531674128948,20.72565697984843,0 -103.4535938760447,20.72413193925448,0 -103.4541265348214,20.72238317888987,0 -103.4546905327839,20.72056859026986,0 -103.4557254917419,20.71705282015636,0 -103.4562724238379,20.71539126498231,0 -103.4569941641087,20.71299758487328,0 -103.4563001554761,20.71282711022083,0 -103.4557049567679,20.71265412055074,0 -103.4550075313596,20.71240862668831,0 -103.4539772901529,20.71219232295686,0 -103.4544150012837,20.71008532764778,0 -103.454726911917,20.7080835688434,0 -103.4534462032286,20.70794130142948,0 -103.4534303989336,20.70770353196144,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Derrotero Vuelta Ruta 164</name>
+		<styleUrl>#msn_ylw-pushpin1280</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-103.3853097841205,20.72101524415445,0 -103.3861374739049,20.72092603180077,0 -103.3864081686835,20.72091542180071,0 -103.3878393638056,20.7211054412314,0 -103.3910818542532,20.72165568474277,0 -103.3949079430461,20.72228168507649,0 -103.3980777132658,20.72282141055541,0 -103.3996054101749,20.72311978015682,0 -103.4000729927049,20.72420858990292,0 -103.4001620198471,20.72431260896448,0 -103.4006124337122,20.72474825759904,0 -103.4000482801558,20.725161492719,0 -103.3998052768329,20.72527516551039,0 -103.3988211448103,20.72593883147112,0 -103.4031752423326,20.73026455864866,0 -103.4046004085403,20.73163315090477,0 -103.4091327524384,20.73122402813318,0 -103.4126895067337,20.73093137703175,0 -103.41779906245,20.73047927431623,0 -103.4223056334615,20.73009672718379,0 -103.4244086159789,20.72995299096386,0 -103.4295259148346,20.72986567426449,0 -103.4332359509683,20.72981225237639,0 -103.4359934514862,20.72932624705198,0 -103.4399545566105,20.72975969657938,0 -103.4432375962512,20.73013495089392,0 -103.447523452777,20.73061237709344,0 -103.4515383996616,20.73111027135517,0 -103.452140277809,20.72898146995355,0 -103.4526511690158,20.72739865493652,0 -103.4531674128948,20.72565697984843,0 -103.4535938760447,20.72413193925448,0 -103.4541265348214,20.72238317888987,0 -103.4546905327839,20.72056859026986,0 -103.4557254917419,20.71705282015636,0 -103.4562724238379,20.71539126498231,0 -103.4569941641087,20.71299758487328,0 -103.4563001554761,20.71282711022083,0 -103.4557049567679,20.71265412055074,0 -103.4550075313596,20.71240862668831,0 -103.4539772901529,20.71219232295686,0 -103.4544150012837,20.71008532764778,0 -103.454726911917,20.7080835688434,0 -103.4534462032286,20.70794130142948,0 -103.4534303989336,20.70770353196144,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

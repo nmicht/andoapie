@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Paradas oficiales Belisario Dominguez</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>-103.30254</longitude>
+		<latitude>20.71298</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>10000</range>
+	</LookAt>
+	<StyleMap id="sn_bus-stop">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus-stop2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_bus-stop0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_bus-stop0">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop1">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus-stop2">
+		<IconStyle>
+			<Icon>
+				<href>http://www.rutasjalisco.gob.mx/images/map-icons/icons/bus-stop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Paradas oficiales Norte</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 051-N cruza con Anillo Periférico</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30254,20.71298,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 046-N cruza con José Neyra M.</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30371,20.71329,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 049-N cruza con G. Refugio González</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30374,20.71234,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 044-N cruza con Sitio de Puebla</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30614,20.71213,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 047-N cruza con Amistad</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30681,20.71088,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 042-N cruza con Sabiduría</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30765,20.71144,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 045-N cruza con Abundancia</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.30877,20.70989,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 043-N cruza con Justicia</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31098,20.70888,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 040-N cruza con Justicia</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31088,20.70982,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 041-N cruza con Avenida de La Cruz</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31406,20.70707,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 038-N cruza con Avenida de La Cruz</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31377,20.7085,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 039-N cruza con Fraternidad</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31518,20.70542,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 036-N cruza con Fraternidad</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31543,20.70644,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 037-N cruza con Mesa del Norte</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31633,20.70373,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 034-N cruza con Mesa del Norte</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31653,20.70486,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 035-N cruza con Mesa Central</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31715,20.70237,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 032-N cruza con Mesa Central</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31744,20.70342,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 033-N cruza con Nudo de Cempoaltépetl</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31817,20.70084,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 030-N cruza con Nudo de Cempoaltépetl</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31844,20.70186,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 031-N cruza con Monte La Luna</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.31927,20.6993,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 028-N cruza con Tula</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32002,20.69955,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 029-N cruza con Puerto Todos Los Santos</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32014,20.69784,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 001-N cruza con Avenida Javier Mina</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32918,20.67148,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 002-N cruza con Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3313,20.67188,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 003-N cruza con Dinisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32859,20.67322,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 005-N cruza con Josefa Ortíz de Domínguez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32805,20.67479,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 004-N cruza con Dionisio Rodríguez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33043,20.67434,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 007-N cruza con República</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32716,20.6773,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 006-N cruza con Francisco de Ayza</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32962,20.67666,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 009-N cruza con Federación</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32649,20.67925,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 008-N cruza con Industria</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32878,20.67906,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 011-N cruza con Pablo Valdez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32583,20.68117,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 010-N cruza con Pablo Valdez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32776,20.68202,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 012-N cruza con Salvador Quevedo y Zubieta</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32712,20.68404,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>J. Ma. Lozano 013-N cruza con Belisario Domínguez</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32602,20.68475,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 015-N cruza con Sierra Morena</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32557,20.68624,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 014-N cruza con Sierra Morena</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.326,20.68728,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 017-N cruza con Chimborazo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32499,20.68798,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 016-N cruza con Chimborazo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32542,20.68892,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 019-N cruza con Sierra Madre</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32435,20.68956,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 018-N cruza con Sierra Madre</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32483,20.69059,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 021-N cruza con Monte Aconcahua</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32381,20.6914,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 020-N cruza con Monte Aconcahua</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.3243,20.69239,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 023-N cruza con Puerto Melaque</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32335,20.69298,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 025-N cruza con Puerto Alvarado</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32251,20.69446,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 022-N cruza con Circunvalación Dr. Atl</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32318,20.69473,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 027-N cruza con Puerto Altata</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32131,20.69609,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 026-N cruza con Puerto Ensenada</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32109,20.69802,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Belisario Domínguez 024-N cruza con Puerto Altata</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32177,20.69694,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas oficiales Sur</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 017-S cruza con Amapola</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33782,20.6508,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 018-S cruza con Calzada González Gallo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33698,20.651,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 015-S cruza con Calzada González Gallo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33739,20.6524,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 016-S cruza con Río Rhin</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33656,20.65253,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 013-S cruza con Río Nilo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33673,20.65492,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 014-S cruza con Tuberosa</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33576,20.65528,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 011-S cruza con Violeta</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33605,20.65734,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 012-S cruza con 5 de Febrero</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33511,20.65761,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 010-S cruza con Gante</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33435,20.66025,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 009-S cruza con Los Angeles</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33515,20.66028,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 008-S cruza con Blvd. Gral. Marcelino García Barragan</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33359,20.66266,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 007-S cruza con Antonio Bravo</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33437,20.66281,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Constancia 006-S cruza con Avenida Revolución</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33269,20.66416,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 005-S cruza con Avenida Revolución</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33337,20.66576,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Constancia 004-S cruza con Medrano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33125,20.66593,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 003-S cruza con Medrano</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.33286,20.66736,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>A. Serdán 002-S cruza con Alvaro Obregón</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.32954,20.6705,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+		<Placemark>
+			<name>.</name>
+			<visibility>0</visibility>
+			<description>Calzada del Ejército 001-S cruza con Gómez Farías</description>
+			<styleUrl>#sn_bus-stop</styleUrl>
+			<Point>
+				<coordinates>-103.332,20.66981,0</coordinates>
+			</Point>
+			<end>
+    
+    </end>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
